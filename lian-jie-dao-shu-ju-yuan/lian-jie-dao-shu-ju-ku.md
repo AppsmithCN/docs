@@ -17,13 +17,13 @@
 
 ### 安全 <a href="#e5-ae-89-e5-85-a8" id="e5-ae-89-e5-85-a8"></a>
 
-Appsmith 安全地加密您的所有数据库凭据并安全地存储它们.Appsmith 也不存储从您的数据源返回的任何数据,仅充当代理层来编排 API/查询调用.由于 Appsmith 是一个开源框架,您可以 [deploy it on-premise](https://docs.appsmith.com/getting-started/setup), 并对其进行审核以确保您的所有数据都不会离开您的 VPC.
+Appsmith 安全地加密您的所有数据库凭据并安全地存储它们.Appsmith 也不会存储您的数据,仅充当代理层来编排、查询、调用API. Appsmith 是一个开源框架,您可以本地化部署, 并对其进行审核以确保您的所有数据都不会离开您的 VPC.
 
 ### 连接到数据库 <a href="#e8bf9ee68ea5e588b0e695b0e68daee5ba93-1" id="e8bf9ee68ea5e588b0e695b0e68daee5ba93-1"></a>
 
-> 在连接到数据源之前,您可能需要将 Appsmith 部署在您的数据库实例或 VPC 上的 IP 地址列入白名单.
+> 在连接到数据源之前,您需要将 Appsmith 部署在您的数据库实例或 VPC 上的 IP 地址列入白名单.
 >
-> **18.223.74.85** 和 **3.131.104.27** 是需要列入白名单的 Appsmith 云实例的 IP 地址.
+> **白名单IP地址：18.223.74.85** 和 **3.131.104.27**
 
 一旦 appsmith 实例被列入 [白名单](https://docs.appsmith.com/learning-and-resources/how-to-guides/aws-whitelist):
 
