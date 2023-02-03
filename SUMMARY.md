@@ -1,10 +1,11 @@
 # Table of contents
 
 * [介绍](README.md)
-* [设置 Appsmith](she-zhi-appsmith/README.md)
-  * [Docker](she-zhi-appsmith/docker.md)
-  * [迁移 (k8s)](she-zhi-appsmith/qian-yi-k8s.md)
-  * [Kubernetes](she-zhi-appsmith/kubernetes.md)
+* [设置 PagePlug](she-zhi-pageplug/README.md)
+  * [SaaS版PagePlug](she-zhi-pageplug/saas-ban-pageplug.md)
+  * [Docker](she-zhi-pageplug/docker.md)
+  * [迁移 (k8s)](she-zhi-pageplug/qian-yi-k8s.md)
+  * [Kubernetes](she-zhi-pageplug/kubernetes.md)
 * [连接到数据源](lian-jie-dao-shu-ju-yuan/README.md)
   * [连接到数据库](lian-jie-dao-shu-ju-yuan/lian-jie-dao-shu-ju-ku.md)
   * [连接到 REST APIs](lian-jie-dao-shu-ju-yuan/lian-jie-dao-rest-apis/README.md)
@@ -47,3 +48,17 @@
 * [API Reference](reference/api-reference/README.md)
   * [Pets](reference/api-reference/pets.md)
   * [Users](reference/api-reference/users.md)
+
+## 😒 故障排除
+
+* [动作错误](gu-zhang-pai-chu/dong-zuo-cuo-wu/README.md)
+  * [数据源错误](gu-zhang-pai-chu/dong-zuo-cuo-wu/shu-ju-yuan-cuo-wu.md)
+  * [REST API 错误](gu-zhang-pai-chu/dong-zuo-cuo-wu/rest-api-cuo-wu.md)
+  * [MongoDB 错误](gu-zhang-pai-chu/dong-zuo-cuo-wu/mongodb-cuo-wu.md)
+  * [MySQL错误](gu-zhang-pai-chu/dong-zuo-cuo-wu/mysql-cuo-wu.md)
+  * [谷歌表格错误](gu-zhang-pai-chu/dong-zuo-cuo-wu/gu-ge-biao-ge-cuo-wu.md)
+* [JS错误](gu-zhang-pai-chu/js-cuo-wu.md)
+* [部署错误](gu-zhang-pai-chu/bu-shu-cuo-wu.md)
+* [应用程序错误](gu-zhang-pai-chu/ying-yong-cheng-xu-cuo-wu.md)
+* [查询错误](gu-zhang-pai-chu/cha-xun-cuo-wu.md)
+* [小部件错误](gu-zhang-pai-chu/xiao-bu-jian-cuo-wu.md)

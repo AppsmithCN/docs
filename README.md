@@ -1,54 +1,145 @@
 ---
 description: >-
-  Appsmith 是一个用于构建内部应用程序的低代码开源框架。 
-  使用我们基于JavaScript的可视化开发平台，构建CRUD应用程序、仪表板、管理面板等的速度提高10倍。
-  您可以使用我们预先构建的UI小部件，将它们连接到您的API和数据库，以构建动态应用程序和复杂的工作流程。最好的部分是什么？在您喜欢的技术上部署这些应用程序！（免费自托管！）。
+  PagePlug
+  是一款帮助企业应用开发更便捷的软件，可快速创建内部应用程序。使用我们基于JavaScript的可视化开发平台，构建CRUD应用程序、仪表板、管理面板等的速度提高10倍。
+  您可以使用我们预先构建的UI小部件，将它们连接到您的API和数据库，以构建动态应用程序和复杂的工作流程。旨在为企业提供一套成本更低、人效更佳的开发方式。
 ---
 
 # 介绍
 
-### ​[您可以使用Appsmith做什么？](https://appsmith-fans.cn/docs/introduction?id=%e6%82%a8%e5%8f%af%e4%bb%a5%e4%bd%bf%e7%94%a8appsmith%e5%81%9a%e4%bb%80%e4%b9%88%ef%bc%9f)​ <a href="#nin-ke-yi-shi-yong-appsmith-zuo-shen-me" id="nin-ke-yi-shi-yong-appsmith-zuo-shen-me"></a>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p>pageplug.cn</p></figcaption></figure>
 
-以下是Appsmith的前五个用例：
+### 1、​您可以使用PagePlug做什么？​ <a href="#nin-ke-yi-shi-yong-appsmith-zuo-shen-me" id="nin-ke-yi-shi-yong-appsmith-zuo-shen-me"></a>
 
-* **连接任何数据源**: 您可以将任何数据库与Appsmith集成，包括REST API、MySQL、Postgres、MongoDB、Google Sheets等；
-* **构建 UI**: 使用预构建的小部件，您可以在几秒钟内创建UI；
-* **创建和执行查询**: 在SQL或JS编辑器中编写查询和业务逻辑，然后绑定响应；
-* **轻松自定义**: 在任何地方编写JS，甚至在您的数据库查询中，以自定义您的应用程序；
-* **协作和部署**: 邀请您的同事和朋友与您一起工作，只需单击一下即可部署您的应用程序。
+以下是Pageplug的前五个用例：
 
-通过这些简单的步骤，您可以为复杂的多步骤工作流创建简单的 CRUD 应用程序。Appsmith 可以轻松构建与任何数据源对话的 UI。观看这个5分钟的视频，了解如何使用 Appsmith。[去bilibili观看中文字幕版](https://www.bilibili.com/video/BV1dg411Q7PG?zw\&vd\_source=1a6805ecebcf8f2c6ac95a3bc7c11495)​入门教程
+* **连接任何数据源**: 与数据库或 API 等数据源集成。PagePlug 对许多数据库和 RESTful API 接口提供即插即用支持，可与大多数工具无缝连接。
+* **构建 UI**：使用可自定义的内置小部件来构建应用程序布局。
+* **访问数据**：通过编写查询并将数据绑定到小部件，将 UI 连接到数据源。用 JavaScript 控制一切。
+* **协作、部署、共享：**PagePlug还支持使用 Git 进行版本控制，以跟踪更改、创建回滚并使用 git 分支进行协作。部署应用程序并与其他用户共享。
+
+通过这些简单的步骤，您可以为复杂的多步骤工作流创建简单的 CRUD 应用程序。PagePlug 可以轻松构建与任何数据源对话的 UI。观看这个5分钟的视频，了解如何使用 PagePlug。[去bilibili观看中文字幕版](https://www.bilibili.com/video/BV1dg411Q7PG?zw\&vd\_source=1a6805ecebcf8f2c6ac95a3bc7c11495)​入门教程**（可以点个赞和收藏多支持下哟）**
 
 {% embed url="https://www.bilibili.com/video/BV1dg411Q7PG?t=0.0" %}
 
-### ​[创建帐户](https://appsmith-fans.cn/docs/introduction?id=%e5%88%9b%e5%bb%ba%e5%b8%90%e6%88%b7)​ <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
+### 2、Demo项目体验： <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
 
-通过在我们的云环境中创建一个帐户来尝试Appsmith(阅读我们的**数据安全性**). 或者，您也可以在本地机器或私有服务器实例上部署Appsmith。请点击以下链接了解更多信息：
+&#x20;   **2.1工程管理系统demo**
 
-* ​[在Appsmith Cloud上创建一个帐户](https://app.appsmith.com/) (Recommended as it comes with a mock database);
-* [she-zhi-appsmith](she-zhi-appsmith/ "mention")​
+{% embed url="https://lowcode.methodot.com/applications/6322a1453892ca140cb874d5/pages/6322a1453892ca140cb874e3" %}
 
-### ​[Appsmith入门](https://appsmith-fans.cn/docs/introduction?id=appsmith%e5%85%a5%e9%97%a8)​ <a href="#appsmith-ru-men" id="appsmith-ru-men"></a>
+&#x20; **2.2企业CRM系统demo**
 
-我们的文档将带您踏上从Appsmith的基础知识开始到解决特定问题的旅程。以下是我们构建文档不同部分的方式：
+{% embed url="https://lowcode.methodot.com/applications/6322a6d63892ca140cb87551/pages/6322a6d63892ca140cb87555?embed=1" %}
 
-* ​[教程](https://docs.appsmith.com/tutorials) - 通过我们的分步详细说明，您可以使用我们的模拟数据创建示例应用程序。
-* ​[核心概念](https://docs.appsmith.com/core-concepts/connecting-to-data-sources) - 通过正确掌握基础知识，找到有关在Appsmith上构建应用程序所需了解的一切！在此处查看有关连接、显示、读取和绑定数据的所有信息。
-* ​[如何指导](https://docs.appsmith.com/how-to-guides) - 在这里，我们帮助您DIY！对于那些已经熟悉Appsmith基础知识的人，您可以找到帮助您DIY的简短指南。
 
-我们还建立了一个详细的参考系统。如果您正在寻找有关小部件、数据源或框架的信息，请参阅以下文档：
 
-* ​[数据源参考](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases#supported-databases)​
-* ​[框架参考](https://docs.appsmith.com/core-concepts/writing-code/appsmith-framework)​
-* ​[小部件参考](https://docs.appsmith.com/reference/widgets)​
+### 3、快速开始 <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
+
+[🌈 线上稳定SaaS版本，**Methodot（推荐）**](she-zhi-pageplug/saas-ban-pageplug.md)****
+
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>methodot.com</p></figcaption></figure>
+
+🌱 私有部署【Docker】（推荐）
+
+> **最低服务器配置：4G内存 + 2核CPU**
+
+```
+// 获取安装脚本
+curl -O https://raw.githubusercontent.com/cloudtogo/pageplug/open/install.sh
+
+// 赋予运行权限
+chmod +x install.sh
+
+// 执行安装脚本
+./install.sh
+```
+
+#### 🎈 本地开发
+
+PagePlug 代码位于 /app 目录下，主要目录分别是：
+
+* /client -- React 前端项目，使用 create-react-app 脚手架生成，负责低代码的编辑器和 web 端展示
+* /server -- Java 后端项目，使用 Spring WebFlux 框架，负责低代码的后端服务、各种数据源的代理
+* /taro -- Taro 移动端项目，使用 Taro 跨平台方案实现移动端对低代码 DSL 的解析和展示
+
+**PagePlug 前端启动**
+
+PagePlug 前端项目使用 Nginx 作为网关，并且 Nginx 使用 Docker 运行，所以在运行之前请确保已安装 [Docker](https://www.docker.com/get-started/) ，下面的启动命令仅针对 **Windows** 环境，非Windows环境请参考[官方指南](https://github.com/AppsmithCN/pageplug/blob/open/contributions/ClientSetup.md)。
+
+```
+// 配置 host
+127.0.0.1 dev.appsmith.com
+
+// 环境变量
+cp .env.example .env
+
+// 启动本地 nginx docker
+cd app/client
+yarn start-proxy
+
+// 启动前端服务
+yarn
+yarn start-win
+```
+
+顺利启动后，访问 [https://dev.appsmith.com](https://dev.appsmith.com/) 预览效果。
+
+
+
+**PagePlug 后端启动**
+
+PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实例，具体操作请参考[官方指南](https://github.com/AppsmithCN/pageplug/blob/open/contributions/ServerSetup.md)。下面的启动命令仅针对 **Windows** 环境，Windows环境运行脚本需要借助 bash 命令，非 Windows 环境下直接运行脚本即可。
+
+> **注意**：build.sh 脚本中用到了 rsync 工具，启动前请确保系统中已经安装了 rsync，Windows环境安装 rsync 请看[这里](https://xindot.com/2019/08/13/add-rsync-to-git-bash-for-windows/)。
+
+```
+// 使用 IDEA 打开工程
+app/server
+
+// 创建环境变量文件
+cp envs/dev.env.example .env
+
+// 打开.env，配置环境变量
+APPSMITH_MONGODB_URI="你的Mongo实例地址"
+APPSMITH_REDIS_URL="你的Redis实例地址"
+
+// 构建 java 服务
+mvn clean compile
+bash ./build.sh -DskipTests
+
+// 启动 java 服务
+bash ./scripts/start-dev-server.sh
+```
+
+**PagePlug 移动端启动**
+
+PagePlug 移动端是一个 [Taro](https://github.com/NervJS/taro) 项目，天然地支持多端小程序、H5和React Native，但是，目前 PagePlug 仅支持微信小程序，微信小程序的预览和发布需要使用微信开发者工具、小程序账号，开发前请先查看[微信小程序官方指南](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/getstart.html)。\
+PagePlug 移动端组件采用 [Taroify](https://github.com/mallfoundry/taroify) UI组件库打造。
+
+```
+cd app/taro
+
+打开 config/dev.js 配置开发参数
+
+// PagePlug 后端接口地址，本地开发时需要填写本机IP地址
+API_BASE_URL: '"http://192.168.xxx.xxx:8080/api/"'
+
+// 小程序默认展示的应用ID，你可以从应用的url中找到应用ID：/app/[应用ID]/page/[页面ID]
+DEFAULT_APP: '"应用ID"'
+
+// 启动 Taro 项目
+yarn
+yarn dev:weapp
+```
 
 ### ​[帮助中心](https://appsmith-fans.cn/docs/introduction?id=%e5%b8%ae%e5%8a%a9%e4%b8%ad%e5%bf%83)​ <a href="#bang-zhu-zhong-xin" id="bang-zhu-zhong-xin"></a>
 
 * 查看我们的[常见问题解答](https://docs.appsmith.com/faq)，您可能会在此处找到问题的解答；
 * 寻找具体信息？试试[小部件参考](https://docs.appsmith.com/reference/widgets)，[框架参考](https://docs.appsmith.com/reference/appsmith-framework)或[数据源参考](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases#supported-databases) ；
 * 在B站上查看我们的指南和教程；
-* ​[通过Github 问题](https://github.com/appsmithorg/appsmith/issues)向Appsmith报告错误;
+* ​[通过Github 问题](https://github.com/appsmithorg/appsmith/issues)向PagePlug报告错误
 
-**如果您仍然遇到任何问题，可以加入我们技术交流群，直接与Appsmith中国社区联系!**
+**如果您仍然遇到任何问题，可以加入我们技术交流群，直接与PagePlug产品静静联系!**
 
-![](.gitbook/assets/Appsmith交流群正规版二维码.jpeg)
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
