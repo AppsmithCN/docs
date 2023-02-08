@@ -1,6 +1,6 @@
 # 应用程序错误
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、无效/空名称错误 <a href="#invalid--empty-name-error" id="invalid--empty-name-error"></a>
 
@@ -42,7 +42,7 @@ JavaScript 保留关键字和窗口对象方法和属性不能用作实体名称
 
 ### 3、登录/注册错误
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; **3.1账号已注册**
 

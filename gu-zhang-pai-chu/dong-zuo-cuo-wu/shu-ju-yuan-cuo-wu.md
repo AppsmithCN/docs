@@ -1,6 +1,6 @@
 # 数据源错误
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Pageplug支持各类主流数据源</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Pageplug支持各类主流数据源</p></figcaption></figure>
 
 以下是用户在Pageplug创建新数据源时经常看到的错误列表：
 

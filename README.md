@@ -7,7 +7,7 @@ description: >-
 
 # 介绍
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p>pageplug.cn</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption><p>pageplug.cn</p></figcaption></figure>
 
 ### 1、​您可以使用PagePlug做什么？​ <a href="#nin-ke-yi-shi-yong-appsmith-zuo-shen-me" id="nin-ke-yi-shi-yong-appsmith-zuo-shen-me"></a>
 
@@ -38,7 +38,7 @@ description: >-
 
 [🌈 线上稳定SaaS版本，**Methodot（推荐）**](she-zhi-pageplug/saas-ban-pageplug.md)****
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>methodot.com</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption><p>methodot.com</p></figcaption></figure>
 
 🌱 私有部署【Docker】（推荐）
 
@@ -142,4 +142,4 @@ yarn dev:weapp
 
 **如果您仍然遇到任何问题，可以加入我们技术交流群，直接与PagePlug产品静静联系!**
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
