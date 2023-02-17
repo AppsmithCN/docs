@@ -489,19 +489,23 @@ yarn
 
 <figure><img src="../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+yarn 安装依赖，有可能会遇到网络问题，可以参考[https://segmentfault.com/a/1190000017419993](https://segmentfault.com/a/1190000017419993)
+
+设置npm源
+{% endhint %}
+
+{% hint style="success" %}
+yarn 安装依赖， 提示报错 “cross-env找不到”，可以将package.json 的脚本里面的<mark style="color:purple;">cross-env</mark>替换成 <mark style="color:purple;">set</mark>
+{% endhint %}
+
 {% hint style="danger" %}
 安装过程中，如果遇到@sentry/cli或者node-sass依赖找不到的
 
 可以参照这个地址[https://blog.csdn.net/qq\_31201781/article/details/106147842'](https://blog.csdn.net/qq\_31201781/article/details/106147842')
 
-单独设置景象地址
+单独设置镜像地址
 {% endhint %}
-
-
-
-
-
-
 
 {% hint style="danger" %}
 如果遇到@shared/ast找不到问题，其实就是本地包的之前，需要 yarn link 建立软链接
@@ -525,7 +529,7 @@ yarn link @shared/ast
 * 输入以下命令，启动前端服务
 
 ```
-yarn start-proxy
+yarn start-win
 ```
 
 <figure><img src="../../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
@@ -541,4 +545,10 @@ yarn start-proxy
 ```
 dev.appsmith.com
 ```
+
+{% hint style="info" %}
+确保你的机器的host，已经配置了映射关系
+
+127.0.0.1  dev.appsmith.com
+{% endhint %}
 
