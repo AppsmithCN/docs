@@ -2,7 +2,7 @@
 
 图片组件可以显示应用程序中的图像。图片格式必须是 URL 或有效的 base64。
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、数据
 
@@ -11,7 +11,7 @@
 | 图片   | 设置图像的来源。支持图像 URL、数据 URI 或 base64 编码图像数据           |
 | 默认图片 | 当图片加载不出来时，将显示该图像。接受图像 URL、数据 URI 或 base64 编码图像数据。 |
 
-<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、属性
 
@@ -24,7 +24,7 @@
 | 允许旋转    | 组件上会新增允许旋转图像的按钮                                                                                                                  |
 | 允许下载    | 组件上会新增允许下载图像的按钮                                                                                                                  |
 
-<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、事件
 
@@ -32,7 +32,7 @@
 | ------- | ------------- |
 | onClick | 点击图片组件时候触发的动作 |
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、动作
 
@@ -47,7 +47,7 @@
 | 边框圆角 | 对图片组件的边框样式进行修改 |
 | 阴影   | 对图片组件调整阴影大小    |
 
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 ### 6、例子说明
 
@@ -105,4 +105,4 @@ data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height=
 
 
 
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ PagePlug中的表单组件可以满足您捕获输入的数据并将其连接到
 
 **表单组件可以用作父组件，可以存储不同的组件，例如用于显示要捕获的信息的文本、用于捕获用户所需输入的输入框、允许选择的下拉列表等等。**
 
-<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、属性
 
@@ -14,7 +14,7 @@ PagePlug中的表单组件可以满足您捕获输入的数据并将其连接到
 | 加载时显示动画 | 关闭时，该组件加载时不会有任何动画。您可以使用拨动开关将其打开/关闭。您还可以通过启用旁边的 JS 标签使用 javascript 将其关闭/打开。                                                                                                              |
 | 高度      | <p>可对组件的高度进行配置：</p><p><br><strong>固定</strong>：使用拖动和调整大小，组件的高度保持设置不变。<br><strong>自动高度</strong>：组件的高度对内容变化做出反应。<br><strong>区间自动高度：</strong>与 Auto height 相同，具有可配置选项以设置组件可以占用的最小和最大行数。</p> |
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -29,7 +29,7 @@ PagePlug中的表单组件可以满足您捕获输入的数据并将其连接到
 | 边框圆角 | 对表单组件的边框样式进行修改                   |
 | 阴影   | 调整表单组件整体阴影大小                     |
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 
 

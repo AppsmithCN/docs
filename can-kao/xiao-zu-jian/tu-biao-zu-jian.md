@@ -2,7 +2,7 @@
 
 图标组件可以将您的数据源可视化展现出来
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、数据
 
@@ -13,7 +13,7 @@
 | Series data  | 设置当前系列的数据，包含”数据结构类型、数据结构例子、解析值展示                      |
 | Add series   | 新增一个系列展示在图表上                                          |
 
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、属性
 
@@ -24,7 +24,7 @@
 | 加载时显示动画 | 关闭时，该组件加载时不会有任何动画。您可以使用拨动开关将其打开/关闭。您还可以通过启用旁边的 JS 标签使用 javascript 将其关闭/打开。 |
 | 允许滚动    | 允许您启用滚动条来滚动图表的内容。                                                          |
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、坐标轴配置
 
@@ -35,7 +35,7 @@
 | y轴标签   | 设置y轴展示的内容                                                   |
 | x轴标签方向 | 对x轴的内容方向调整，支持“自动”、“倾斜”、“旋转”、“交错” 4种方式                       |
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、事件
 
@@ -52,7 +52,7 @@
 | 边框圆角 | 对图表组件边框样式进行修改 |
 | 阴影   | 对图表组件样式调整阴影大小 |
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,5 +64,5 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79) (1).png" alt=""><figcaption></figcaption></figure>
 

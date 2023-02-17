@@ -3,13 +3,11 @@
 * [介绍](README.md)
 * [核心概念](he-xin-gai-nian.md)
 * [设置 PagePlug](she-zhi-pageplug/README.md)
-  * [线上PagePlug体验](she-zhi-pageplug/xian-shang-pageplug-ti-yan.md)
-  * [Methodot部署（云上镜像）](she-zhi-pageplug/methodot-bu-shu-yun-shang-jing-xiang.md)
-  * [源码本地化部署（windows版）](she-zhi-pageplug/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)
-  * [Page 1](she-zhi-pageplug/page-1.md)
-  * [私有化部署（含docker安装教程）](she-zhi-pageplug/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)
-  * [私有化部署](she-zhi-pageplug/si-you-hua-bu-shu.md)
-  * [Kubernetes](she-zhi-pageplug/kubernetes.md)
+  * [部署安装](she-zhi-pageplug/bu-shu-an-zhuang/README.md)
+    * [Methodot部署（云上镜像）](she-zhi-pageplug/bu-shu-an-zhuang/methodot-bu-shu-yun-shang-jing-xiang.md)
+    * [源码本地化部署（windows版）](she-zhi-pageplug/bu-shu-an-zhuang/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)
+    * [私有化部署（含docker安装教程）](she-zhi-pageplug/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)
+  * [线上PagePlug体验](she-zhi-pageplug/saas-ban-pageplug.md)
 * [连接到数据源](lian-jie-dao-shu-ju-yuan/README.md)
   * [连接到数据库](lian-jie-dao-shu-ju-yuan/lian-jie-dao-shu-ju-ku.md)
   * [连接到 REST APIs](lian-jie-dao-shu-ju-yuan/lian-jie-dao-rest-apis/README.md)
@@ -117,3 +115,7 @@
 * [应用程序错误](gu-zhang-pai-chu/ying-yong-cheng-xu-cuo-wu.md)
 * [查询错误](gu-zhang-pai-chu/cha-xun-cuo-wu.md)
 * [小部件错误](gu-zhang-pai-chu/xiao-bu-jian-cuo-wu.md)
+
+## 🏆 商业版
+
+* [Untitled](shang-ye-ban/untitled.md)

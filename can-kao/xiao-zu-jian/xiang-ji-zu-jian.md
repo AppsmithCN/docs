@@ -2,7 +2,7 @@
 
 相机组件可以在应用程序中捕获图像和视频，并共享数据以供进一步使用。
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (84) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、属性
 
@@ -13,7 +13,7 @@
 | 禁用   | 使该组件不可点击或不可用。该组件对用户保持可见，但不允许用户交互。                |
 | 显示镜像 | 应用会展示正在捕获的图像，默认情况下打开。                            |
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -21,7 +21,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -32,7 +32,7 @@
 | 边框圆角 | 对相机组件边框样式进行修改 |
 | 阴影   | 对相机组件样式调整阴影大小 |
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -2,7 +2,7 @@
 
 录音器组件可以使用麦克风录音，收听其回放并将数据导出到数据源。
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (81) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、属性
 
@@ -12,7 +12,7 @@
 | 禁用      | 使该组件不可点击或不可用。该组件对用户保持可见，但不允许用户交互。                |
 | 加载时显示动画 | 您可以使用拨动开关将其打开/关闭。您还可以使用 JavaScript 关闭/打开它        |
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、事件
 
@@ -38,5 +38,5 @@
 | 边框圆角 | 对录音器按钮边框样式进行修改 |
 | 阴影   | 对录音器按钮样式调整阴影大小 |
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85) (1).png" alt=""><figcaption></figcaption></figure>
 

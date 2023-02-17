@@ -4,7 +4,7 @@
 
 ### 1、创建
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption><p>点击+号，在API下选择Airtable</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67) (1).png" alt=""><figcaption><p>点击+号，在API下选择Airtable</p></figcaption></figure>
 
 ### 2、连接
 
@@ -21,4 +21,4 @@ API 限制为每秒 5 个请求。如果超过此速率，您将收到 429 状�
 
 ### **3、API**
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63) (1).png" alt=""><figcaption></figcaption></figure>
