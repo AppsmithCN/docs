@@ -2,7 +2,7 @@
 
 在界面上有输入文本、数字、邮件、数据等等的一个入口组件
 
-<figure><img src="../../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (107) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、数据
 
@@ -11,7 +11,7 @@
 | 数据类型 | 可以配置输入的内容是什么样的数据类型，例如“文本”、“数字”、“密码”、“邮箱” |
 | 默认值  | 在输入框未输入任何内容时展示的文本                        |
 
-<figure><img src="../../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (109) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、标签
 

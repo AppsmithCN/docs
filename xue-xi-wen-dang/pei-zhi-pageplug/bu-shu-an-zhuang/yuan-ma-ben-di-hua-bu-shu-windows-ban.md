@@ -1,7 +1,5 @@
 # 源码本地化部署（windows版）
 
-
-
 ## 1、前置准备
 
 PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实例，请检查下电脑是否已经部署好，如果还没有的话，可以查看下面教程安装
@@ -145,11 +143,27 @@ mvn -v
 
 显示版本号证明环境已经配置好了
 
-### &#x20;   1.3配置mongoDB数据库(自身已有redis数据库，可忽略此步骤)
+### &#x20;   1.3配置mongoDB数据库(自身已有Mongo数据库，可忽略此步骤)
 
 {% hint style="info" %}
 PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议是空数据内容或者自行优化适配Pageplug的数据结构
 {% endhint %}
+
+* 打开Methodot官网，从工作台中进入到应用商店，找到Mongo
+
+<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+
+* 选择部署
+
+<figure><img src="../../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+
+* 配置Mongo，支持自定义域名，选择立即部署
+
+<figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+
+* 部署成功，可以使用
+
+<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -209,6 +223,68 @@ build.sh 脚本中用到了 rsync 工具，启动前请确保系统中已经安�
 例如我的在C盘，/Program Files/Git
 
 <figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+
+### 1.7在windows下安装NVM（感谢6群@Catsoft同学之前在群里的分享🥳）
+
+❗️注意 :由于这是部署环境变量安装的第一个章节，所以作者会详细描述安装过程，后续有相同安装过程的不会再详细描述，除非有特异性情况出现
+
+由于本方案是使用Windows“原生”部署方式，不使用WSL所以我们需要使用coreybutler/nvm-windows项目部署 nvm，项目地址:
+
+```
+https://github.com/coreybutler/nvm-windows
+```
+
+可以直接下载:
+
+```
+https://github.com/coreybutler/nvm-windows/releases/download/1.1.10/nvm-setup.exe
+```
+
+下载后找到 ``` `**`“nvm-setup.exe”`** 可执行文件，使用右键 **`“以管理员身份运行”`** 打开安装界面，遇到如下提示请选择 “是”
+
+<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+
+安装过程中，请根据自身需要调整安装位置，如章节1前导说明第三段所说，我这里选择目 录 **`C:\PagePlugBase\Environment\nvm`** 进行安装，应用的默认目录为 **`C:\Users\你的用户名 \AppData\Roaming\nvm`** 请注意根据实测安装目录中切不可有中文，因为某些特殊中文字符会导致环境变量失效
+
+<figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+
+接下来选择nvm帮助你部署nodejs的目录，请注意这个目录在安装时需要存在，所以如果你选择和默认目录不 同的路径，请手动创建病确保当前账户拥有完全控制权限，这里的默认地址是 C:\Program Files\nodejs 请根据 自己的管理需要修改。
+
+<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+
+安装完成后，打开Powershell，在Windows徽标处点击右键，选择 “终端(管理员)” 或在启动器中搜 索 Powershell 选择 “以管理员身份运行”
+
+<figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+
+在打开的Powershell终端界面中输入 nvm -v (此时处于什么目录并不重要)出现返回版本号 1.1.10 即表示 nvm安装部署成功，如果出现报错找不到nvm命令或其他错误，请检查1、是否拥有nvm安装目录完全控制权限; 2、是否安装成功，环境变量是否配置到位(我也不会检查环境变量，就重装一次吧)
+
+<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+
+接下来在Powershell终端界面中输入 nvm install 16.14.0 按照官方要求部署nodejs 16.14.0版本，使用 nvm的好处是不用自己配置环境变量，同时在需要时可以使用nvm命令切换不同的nodejs版本以便测试，省去了很多折腾环境的成本，接下来只需要等待自动安装完成即可。(如果遇到网络问题安装失败听说可以替换nvm安装 源，反正我不会，或者反复执行 `nvm install 16.14.0` 直到安装成功为止)
+
+安装成功后会返回如下信息：
+
+<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+
+这个时候环境变量实际还没有配置，如果直接使用node会出现如下错误，此时，我们只需要执行 `nvm use 16.14.0 --defaul`t 即可设置默认nodejs环境变量为16.14.0版本，再执行 `node -v` 会发现Powershell已经可以 找到nodejs程序并打印版本号，成功执行
+
+<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+
+以上，整个nvm-windows的部署及NodeJS依赖环境的安装配置结束，现在已经可以使用node来进行前端编译操作啦
+
+### 1.8使用nodejs中安装yarn（感谢6群@Catsoft同学之前在群里的分享🥳）
+
+使用管理员权限打开Powershell，此时处于什么目录不重要，在Powershell中输入&#x20;
+
+```
+npm install -g yarn
+```
+
+即可全局安装yarn，安装完成后即可看到 added 1 package, and audited 3 packages in 2s 提示，如果出 现如下升级npm的提示可以不用关心
+
+<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 ## 2、源码拉取下载
 
@@ -485,7 +561,17 @@ yarn
 
 <figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
-* 等待几分钟，最终显示如下
+* 等待几分钟，正常会显示这5步
+
+```
+[1/5] Validating package.json...
+[2/5] Resolving packages...
+[3/5] Fetching packages...
+[4/5] Linking dependencies...
+[5/5] Building fresh packages...
+```
+
+* 最终显示如下
 
 <figure><img src="../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
@@ -522,8 +608,6 @@ cd client
 yarn link @shared/ast
 ```
 
-
-
 ### &#x20;   4.3启动前端服务
 
 * 输入以下命令，启动前端服务
@@ -552,3 +636,4 @@ dev.appsmith.com
 127.0.0.1  dev.appsmith.com
 {% endhint %}
 
+<figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>

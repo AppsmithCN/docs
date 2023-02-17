@@ -2,7 +2,7 @@
 
 文件上传组件允许通过 API 将文件从本地计算机上传到任何云存储。Cloudinary 和 Amazon S3 具有用于云存储上传的简单 API
 
-<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (96) (1).png" alt=""><figcaption></figcaption></figure>
 
 **小Tips：**
 
@@ -30,7 +30,7 @@
 | 数据格式   | 设置上传文件的数据格式。支持Base64、二进制、文本（纯文本）和数组 (CSV)                             |
 | 最大上传数量 | 可以设置一次上传多少个文件                                                         |
 
-<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (95) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、标签
 
@@ -57,7 +57,7 @@
 | 禁用      | 使该组件不可点击或不可用。该组件对用户保持可见，但不允许用户交互。                |
 | 加载时显示动画 | 您可以使用拨动开关将其打开/关闭。您还可以使用 JavaScript 关闭/打开它        |
 
-<figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (112) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5、事件
 
@@ -73,7 +73,7 @@
 | 边框圆角 | 对文件上传组件的边框样式进行修改 |
 | 阴影   | 调文件上传组件整体阴影大小    |
 
-<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (110) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 7、JS代码
 

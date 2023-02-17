@@ -90,7 +90,7 @@ Docker安装完后，之后我们点击下方链接，点击下载**docker-compo
 
 1、首先我们现在D盘（或者任意一个磁盘）创建一个PagePlug的文件夹
 
-<figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (106) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、将下载的**docker-compose.yml**文件放入到pageplug文件夹中
 
@@ -116,7 +116,7 @@ d:
 cd pageplug
 ```
 
-<figure><img src="../../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (105) (1).png" alt=""><figcaption></figcaption></figure>
 
 6、之后我们将下列命令拷贝输入，回车
 

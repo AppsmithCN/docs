@@ -2,7 +2,7 @@
 
 图标按钮组件只是一个图标，包含其他按钮组件的属性
 
-<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (102) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、属性
 

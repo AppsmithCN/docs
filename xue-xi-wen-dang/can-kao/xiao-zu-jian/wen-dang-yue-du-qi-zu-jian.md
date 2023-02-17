@@ -10,7 +10,7 @@
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 文档链接 | <p>填写文档的 URL，它必须是受支持的文件类型之一，文件扩展名必须作为 URL 的一部分出现。支持yiyi x目前支持以下格式的拓展：</p><p>1、TXT</p><p>2、PDF</p><p>3、PPT（base64 不支持）</p><p>4、PPTX</p><p>5、DOCX</p><p>6、XLSX</p> |
 
-<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (103) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、属性
 

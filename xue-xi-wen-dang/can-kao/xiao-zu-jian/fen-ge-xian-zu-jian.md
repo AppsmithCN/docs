@@ -2,7 +2,7 @@
 
 分割线组件是通过分割线的形式将组件分开来
 
-<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (100) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、属性
 

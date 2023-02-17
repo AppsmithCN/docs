@@ -2,14 +2,14 @@
 
 ## 🥳 介绍
 
-* [核心概念](README.md)
+* [核心介绍](README.md)
 * [加入我们](jie-shao/jia-ru-wo-men.md)
 
 ## 💪 学习文档
 
 * [配置 PagePlug](xue-xi-wen-dang/pei-zhi-pageplug/README.md)
   * [部署安装](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/README.md)
-    * [线上PagePlug体验](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/xian-shang-pageplug-ti-yan.md)
+    * [线上PagePlug（Saas版）](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/xian-shang-pageplugsaas-ban.md)
     * [Methodot部署（云上镜像）](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/methodot-bu-shu-yun-shang-jing-xiang.md)
     * [源码本地化部署（windows版）](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)
     * [私有化部署（含docker安装教程）](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)
@@ -123,4 +123,4 @@
 
 ## 🏆 商业版
 
-* [Untitled](shang-ye-ban/untitled.md)
+* [1、Demo](shang-ye-ban/1-demo.md)

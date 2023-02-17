@@ -11,7 +11,7 @@
 | URL  | 设置要在 iframe组件中加载页面的URL                                                        |
 | HTML | 提供 HTML（和`<style>`标签内的 CSS）以在 iframe 中呈现，而不是使用 URL。当此属性有值时，小部件的**URL**属性将被忽略。 |
 
-<figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (108) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、属性
 
@@ -66,4 +66,4 @@
 
 ### 7、JS代码
 
-<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (101) (1).png" alt=""><figcaption></figcaption></figure>

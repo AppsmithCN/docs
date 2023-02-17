@@ -4,7 +4,7 @@ PagePlug中的表单组件可以满足您捕获输入的数据并将其连接到
 
 **表单组件可以用作父组件，可以存储不同的组件，例如用于显示要捕获的信息的文本、用于捕获用户所需输入的输入框、允许选择的下拉列表等等。**
 
-<figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (111) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、属性
 
@@ -29,7 +29,7 @@ PagePlug中的表单组件可以满足您捕获输入的数据并将其连接到
 | 边框圆角 | 对表单组件的边框样式进行修改                   |
 | 阴影   | 调整表单组件整体阴影大小                     |
 
-<figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (97) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
