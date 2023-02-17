@@ -5,11 +5,13 @@ description: >-
   您可以使用我们预先构建的UI小部件，将它们连接到您的API和数据库，以构建动态应用程序和复杂的工作流程。旨在为企业提供一套成本更低、人效更佳的开发方式。
 ---
 
-# 介绍
+# 核心概念
+
+
 
 <figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption><p>pageplug.cn</p></figcaption></figure>
 
-### 1、​您可以使用PagePlug做什么？​ <a href="#nin-ke-yi-shi-yong-appsmith-zuo-shen-me" id="nin-ke-yi-shi-yong-appsmith-zuo-shen-me"></a>
+## 1、​您可以使用PagePlug做什么？​ <a href="#nin-ke-yi-shi-yong-appsmith-zuo-shen-me" id="nin-ke-yi-shi-yong-appsmith-zuo-shen-me"></a>
 
 以下是Pageplug的前五个用例：
 
@@ -22,7 +24,7 @@ description: >-
 
 {% embed url="https://www.bilibili.com/video/BV1dg411Q7PG?t=0.0" %}
 
-### 2、Demo项目体验： <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
+## 2、Demo项目体验： <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
 
 &#x20;   **2.1工程管理系统demo**
 
@@ -32,15 +34,27 @@ description: >-
 
 {% embed url="https://lowcode.methodot.com/applications/6322a6d63892ca140cb87551/pages/6322a6d63892ca140cb87555?embed=1" %}
 
+* 在右侧菜单中选择导入即可体验
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
-### 3、快速开始 <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
 
-[🌈 线上稳定SaaS版本，**Methodot（推荐）**](she-zhi-pageplug/saas-ban-pageplug.md)****
+## 3、快速开始 <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
+
+### 🌱3.1 线上稳定SaaS版本，**Methodot（推荐）**
 
 <figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption><p>methodot.com</p></figcaption></figure>
 
-🌱 私有部署【Docker】（推荐）
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+使用教程，请点击这里：[**线上PagePlug体验**](pei-zhi-pageplug/bu-shu-an-zhuang/xian-shang-pageplug-ti-yan.md)****
+{% endhint %}
+
+### 🌱3.2私有部署【Docker】
+
+
 
 > **最低服务器配置：4G内存 + 2核CPU**
 
@@ -55,7 +69,11 @@ chmod +x install.sh
 ./install.sh
 ```
 
-#### 🎈 本地开发
+{% hint style="info" %}
+详细安装教程，请点击这里：[**私有化部署（含docker安装教程）**](pei-zhi-pageplug/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)****
+{% endhint %}
+
+### &#x20;  🌱 本地开发
 
 PagePlug 代码位于 /app 目录下，主要目录分别是：
 
@@ -63,7 +81,7 @@ PagePlug 代码位于 /app 目录下，主要目录分别是：
 * /server -- Java 后端项目，使用 Spring WebFlux 框架，负责低代码的后端服务、各种数据源的代理
 * /taro -- Taro 移动端项目，使用 Taro 跨平台方案实现移动端对低代码 DSL 的解析和展示
 
-**PagePlug 前端启动**
+&#x20;       **😎 PagePlug 前端启动**
 
 PagePlug 前端项目使用 Nginx 作为网关，并且 Nginx 使用 Docker 运行，所以在运行之前请确保已安装 [Docker](https://www.docker.com/get-started/) ，下面的启动命令仅针对 **Windows** 环境，非Windows环境请参考[官方指南](https://github.com/AppsmithCN/pageplug/blob/open/contributions/ClientSetup.md)。
 
@@ -87,11 +105,9 @@ yarn start-win
 
 
 
-**PagePlug 后端启动**
+&#x20;       **😎PagePlug 后端启动**
 
 PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实例，具体操作请参考[官方指南](https://github.com/AppsmithCN/pageplug/blob/open/contributions/ServerSetup.md)。下面的启动命令仅针对 **Windows** 环境，Windows环境运行脚本需要借助 bash 命令，非 Windows 环境下直接运行脚本即可。
-
-> **注意**：build.sh 脚本中用到了 rsync 工具，启动前请确保系统中已经安装了 rsync，Windows环境安装 rsync 请看[这里](https://xindot.com/2019/08/13/add-rsync-to-git-bash-for-windows/)。
 
 ```
 // 使用 IDEA 打开工程
@@ -112,7 +128,9 @@ bash ./build.sh -DskipTests
 bash ./scripts/start-dev-server.sh
 ```
 
-**PagePlug 移动端启动**
+****
+
+&#x20;       **😎PagePlug 移动端启动**
 
 PagePlug 移动端是一个 [Taro](https://github.com/NervJS/taro) 项目，天然地支持多端小程序、H5和React Native，但是，目前 PagePlug 仅支持微信小程序，微信小程序的预览和发布需要使用微信开发者工具、小程序账号，开发前请先查看[微信小程序官方指南](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/getstart.html)。\
 PagePlug 移动端组件采用 [Taroify](https://github.com/mallfoundry/taroify) UI组件库打造。
@@ -133,6 +151,12 @@ yarn
 yarn dev:weapp
 ```
 
+{% hint style="info" %}
+详细安装教程，请点击这里：
+{% endhint %}
+
+
+
 ### ​[帮助中心](https://appsmith-fans.cn/docs/introduction?id=%e5%b8%ae%e5%8a%a9%e4%b8%ad%e5%bf%83)​ <a href="#bang-zhu-zhong-xin" id="bang-zhu-zhong-xin"></a>
 
 * 查看我们的[常见问题解答](https://docs.appsmith.com/faq)，您可能会在此处找到问题的解答；
@@ -142,4 +166,4 @@ yarn dev:weapp
 
 **如果您仍然遇到任何问题，可以加入我们技术交流群，直接与PagePlug产品静静联系!**
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
