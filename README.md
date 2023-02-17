@@ -36,7 +36,7 @@ description: >-
 
 ### 3、快速开始 <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
 
-[🌈 线上稳定SaaS版本，**Methodot（推荐）**](she-zhi-pageplug/saas-ban-pageplug.md)****
+[🌈 线上稳定SaaS版本，**Methodot（推荐）**](she-zhi-pageplug/xian-shang-pageplug-ti-yan.md)****
 
 <figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption><p>methodot.com</p></figcaption></figure>
 

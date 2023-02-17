@@ -21,7 +21,7 @@
 | onRecordingStart    | 录音开始时触发动作 |
 | onRecordingComplete | 录音结束后触发动作 |
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、动作
 

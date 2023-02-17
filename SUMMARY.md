@@ -3,9 +3,12 @@
 * [介绍](README.md)
 * [核心概念](he-xin-gai-nian.md)
 * [设置 PagePlug](she-zhi-pageplug/README.md)
-  * [SaaS版PagePlug](she-zhi-pageplug/saas-ban-pageplug.md)
-  * [Docker](she-zhi-pageplug/docker.md)
-  * [迁移 (k8s)](she-zhi-pageplug/qian-yi-k8s.md)
+  * [线上PagePlug体验](she-zhi-pageplug/xian-shang-pageplug-ti-yan.md)
+  * [Methodot部署（云上镜像）](she-zhi-pageplug/methodot-bu-shu-yun-shang-jing-xiang.md)
+  * [源码本地化部署（windows版）](she-zhi-pageplug/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)
+  * [Page 1](she-zhi-pageplug/page-1.md)
+  * [私有化部署（含docker安装教程）](she-zhi-pageplug/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)
+  * [私有化部署](she-zhi-pageplug/si-you-hua-bu-shu.md)
   * [Kubernetes](she-zhi-pageplug/kubernetes.md)
 * [连接到数据源](lian-jie-dao-shu-ju-yuan/README.md)
   * [连接到数据库](lian-jie-dao-shu-ju-yuan/lian-jie-dao-shu-ju-ku.md)
@@ -38,6 +41,17 @@
   * [小组件](can-kao/xiao-zu-jian/README.md)
     * [音频组件](can-kao/xiao-zu-jian/yin-pin-zu-jian.md)
     * [录音器组件](can-kao/xiao-zu-jian/lu-yin-qi-zu-jian.md)
+    * [Formily表单组件](can-kao/xiao-zu-jian/formily-biao-dan-zu-jian/README.md)
+      * [Formily用法](can-kao/xiao-zu-jian/formily-biao-dan-zu-jian/formily-yong-fa.md)
+    * [JSON表单组件](can-kao/xiao-zu-jian/json-biao-dan-zu-jian.md)
+    * [输入框组件](can-kao/xiao-zu-jian/shu-ru-kuang-zu-jian.md)
+    * [图片组件](can-kao/xiao-zu-jian/tu-pian-zu-jian.md)
+    * [Iframe组件](can-kao/xiao-zu-jian/iframe-zu-jian.md)
+    * [图标按钮组件](can-kao/xiao-zu-jian/tu-biao-an-niu-zu-jian.md)
+    * [文件上传组件](can-kao/xiao-zu-jian/wen-jian-shang-chuan-zu-jian.md)
+    * [表单组件](can-kao/xiao-zu-jian/biao-dan-zu-jian.md)
+    * [文档阅读器组件](can-kao/xiao-zu-jian/wen-dang-yue-du-qi-zu-jian.md)
+    * [分割线组件](can-kao/xiao-zu-jian/fen-ge-xian-zu-jian.md)
     * [日期选择器组件](can-kao/xiao-zu-jian/ri-qi-xuan-ze-qi-zu-jian.md)
     * [货币输入框组件](can-kao/xiao-zu-jian/huo-bi-shu-ru-kuang-zu-jian.md)
     * [容器组件](can-kao/xiao-zu-jian/rong-qi-zu-jian.md)
@@ -85,6 +99,10 @@
 * [API Reference](reference/api-reference/README.md)
   * [Pets](reference/api-reference/pets.md)
   * [Users](reference/api-reference/users.md)
+
+***
+
+* [Page 2](page-2.md)
 
 ## 😒 故障排除
 

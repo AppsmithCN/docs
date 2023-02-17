@@ -2,7 +2,7 @@
 
 扫描器组件允许您扫描各种条形码和 QR 码
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、支持类型
 
@@ -21,7 +21,7 @@
 | -- | ----------- |
 | 文本 | 可设置组件内展示的文本 |
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、属性
 
@@ -38,7 +38,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5、样式
 
@@ -51,13 +51,13 @@
 | 边框圆角 | 对扫码器组件的边框样式进行修改                            |
 | 阴影   | 对按钮样式调整阴影大小                                |
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 6、JS代码
 
 
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 7、例子演示
 
@@ -73,4 +73,4 @@
 {{CodeScanner1.value}}
 ```
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>

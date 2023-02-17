@@ -2,7 +2,7 @@
 
 勾选组组件支持一起配置多个勾选框
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、数据
 
@@ -12,7 +12,7 @@
 | 添加一项  | 在勾选组组件内新增一个勾选框                     |
 | 默认选中值 | 设置默认选中的选项的值，包含”数据结构类型、数据结构例子、解析值展示 |
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、标签
 
@@ -21,7 +21,7 @@
 | 文本 | 设置选项列表上方的标题文本 |
 | 位置 | 设置文本与选项的位置    |
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、校验
 
@@ -29,7 +29,7 @@
 | -- | ------------------------------------------------------ |
 | 必填 | 设置勾选组件的勾选框是否为必选项。当勾选组件位于表单组件内时，该表单的提交按钮将自动禁用，直到勾选框被选中。 |
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -43,7 +43,7 @@
 | 全选      | 增加一个全选的选项，可以选择全选选项或者全部不选                                                   |
 | 加载时显示动画 | 关闭时，该组件加载时不会有任何动画。您可以使用拨动开关将其打开/关闭。您还可以通过启用旁边的 JS 标签使用 javascript 将其关闭/打开。 |
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5、事件
 
@@ -66,13 +66,13 @@
 | 强调色  | 设置勾选组件内勾选框被选中时的颜色                                          |
 | 边框圆角 | 对勾选组件边框样式进行修改                                              |
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 7、JS代码
 
 
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

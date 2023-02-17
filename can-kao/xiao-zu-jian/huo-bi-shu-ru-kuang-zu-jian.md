@@ -2,7 +2,7 @@
 
 货币输入框组件可以来捕获用户的货币输入
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、数据
 
@@ -13,7 +13,7 @@
 | 允许修改货币           | 可以设置是否启用或禁用输入旁边的货币下拉列表，可以使用它来更改所选货币。支持国家或货币的类型搜索 |
 | Decimals Allowed | 设置小数分隔符（0、1 或 2）后允许的位数，使货币精准到后几位小数               |
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、标签
 
@@ -22,7 +22,7 @@
 | 文本 | 可设置货币输入框上方的文本   |
 | 位置 | 可以设置文本与输入框的位置排序 |
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -33,9 +33,9 @@
 | 必填   | 设置输入框是否为必填字段。若未填写，则会提示必填字段                                          |
 | 正则校验 | 正则表达式，它用于添加要对输入的内容执行自定义验证。                                          |
 | 普通校验 | 设置一个表达式来决定输入的内容是否被认为是有效的。当表达式的计算结果为`false`时，输入被视为无效并且组件会显示**错误消息**。 |
-| 错误信息 | 当输入的内容为无效时展示的文案                                                     |
+| 错误信息 | 当输入的内容为无效时展示的文本                                                     |
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### **正则表达式例子：**
 
@@ -51,7 +51,7 @@
 
 如果您输入的值不是 5 的倍数，小部件会显示一条错误消息“_无效输入。_”
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 必填选项例子：
 
@@ -63,7 +63,7 @@
 {{Checkbox1.isChecked}}
 ```
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)
 
 当您勾选该勾选组件时，它会启用 必填 属性，如果您没有输入任何内容，输入框会显示一条错误消息“ _This field is required ”。_
 
@@ -80,7 +80,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5、事件
 
@@ -90,7 +90,7 @@
 | onSubmit      | 可以配置用户输入完内容按回车后触发相应的动作 |
 | 提交后重置         | 输入框的内容提交后清空输入框的内容      |
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -104,7 +104,7 @@
 | 强调色  | 设置货币输入框组件内勾选框被选中时的颜色  |
 | 边框圆角 | 对货币输入框组件边框样式进行修改      |
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -116,7 +116,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 相关属性：
 

@@ -1,6 +1,6 @@
 # 勾选组件
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、标签
 
@@ -10,7 +10,7 @@
 | 位置 | 设置复选框的文本位置是在组件的左侧或右侧 |
 | 对齐 | 设置复选框与组件左侧对齐或右侧对齐    |
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、校验
 
@@ -18,7 +18,7 @@
 | -- | ------------------------------------------------------ |
 | 必填 | 设置勾选组件的勾选框是否为必选项。当勾选组件位于表单组件内时，该表单的提交按钮将自动禁用，直到勾选框被选中。 |
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、基本属性
 
@@ -29,7 +29,7 @@
 | 禁用      | 使该组件不可点击或不可用。该组件对用户保持可见，但不允许用户交互。                                          |
 | 加载时显示动画 | 关闭时，该组件加载时不会有任何动画。您可以使用拨动开关将其打开/关闭。您还可以通过启用旁边的 JS 标签使用 javascript 将其关闭/打开。 |
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、事件
 
@@ -47,10 +47,10 @@
 | 强调色  | 设置勾选组件内勾选框被选中时的颜色  |
 | 边框圆角 | 对勾选组件边框样式进行修改      |
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 6、JS代码
 
 
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
