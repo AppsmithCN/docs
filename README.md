@@ -49,7 +49,7 @@ description: >-
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-使用教程，请点击这里：[**线上PagePlug体验**](pei-zhi-pageplug/bu-shu-an-zhuang/xian-shang-pageplug-ti-yan.md)****
+使用教程，请点击这里：[**线上PagePlug体验**](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/xian-shang-pageplug-ti-yan.md)****
 {% endhint %}
 
 ### 🌱3.2私有部署【Docker】
@@ -70,7 +70,7 @@ chmod +x install.sh
 ```
 
 {% hint style="info" %}
-详细安装教程，请点击这里：[**私有化部署（含docker安装教程）**](pei-zhi-pageplug/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)****
+详细安装教程，请点击这里：[**私有化部署（含docker安装教程）**](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)****
 {% endhint %}
 
 ### &#x20;  🌱 本地开发
@@ -152,8 +152,28 @@ yarn dev:weapp
 ```
 
 {% hint style="info" %}
-详细安装教程，请点击这里：
+详细安装教程，请点击这里：[**源码本地化部署（windows版）**](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)****
 {% endhint %}
+
+
+
+## 4、开源小组分队介绍
+
+
+
+**Owner高启强：王昆QC**
+
+
+
+**1、开源分队之狂飙队（排名不分先后）**
+
+山大王：DD
+
+Chris、xiaolu、kate、Bob、Nina、洪涛、老马
+
+
+
+
 
 
 
@@ -163,6 +183,12 @@ yarn dev:weapp
 * 寻找具体信息？试试[小部件参考](https://docs.appsmith.com/reference/widgets)，[框架参考](https://docs.appsmith.com/reference/appsmith-framework)或[数据源参考](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases#supported-databases) ；
 * 在B站上查看我们的指南和教程；
 * ​[通过Github 问题](https://github.com/appsmithorg/appsmith/issues)向PagePlug报告错误
+
+
+
+在gitee和github上
+
+
 
 **如果您仍然遇到任何问题，可以加入我们技术交流群，直接与PagePlug产品静静联系!**
 
