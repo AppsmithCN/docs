@@ -42,7 +42,7 @@ description: >-
 
 * 在右侧菜单中选择导入即可体验
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,10 +52,10 @@ description: >-
 
 <figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption><p>methodot.com</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-使用教程，请点击这里：[**线上PagePlug体验**](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/xian-shang-pageplugsaas-ban.md)****
+使用教程，请点击这里：[**线上PagePlug体验**](xue-xi-wen-dang/bu-shu-an-zhuang/xian-shang-pageplugsaas-ban.md)****
 {% endhint %}
 
 ### 🌱3.2私有部署【Docker】
@@ -76,10 +76,10 @@ chmod +x install.sh
 ```
 
 {% hint style="info" %}
-详细安装教程，请点击这里：[**私有化部署（含docker安装教程）**](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)****
+详细安装教程，请点击这里：[**私有化部署（含docker安装教程）**](xue-xi-wen-dang/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)****
 {% endhint %}
 
-### &#x20;  🌱 本地开发
+### &#x20;  🌱 3.3本地开发
 
 PagePlug 代码位于 /app 目录下，主要目录分别是：
 
@@ -158,12 +158,38 @@ yarn dev:weapp
 ```
 
 {% hint style="info" %}
-详细安装教程，请点击这里：[**源码本地化部署（windows版）**](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)****
+详细安装教程，请点击这里：[**源码本地化部署（windows版）**](xue-xi-wen-dang/bu-shu-an-zhuang/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)****
 {% endhint %}
 
 
 
-## 4、开源小组分队介绍
+## 4、参与PagePlug开源
+
+{% hint style="info" %}
+💪🏻PagePlug的发展进步，离不开社区、开源小组每一位成员的努力及付出
+
+我们始终保持初心，希望能够通过更便捷跟快速的工具，提升应用的开发效率
+
+<mark style="color:red;">**“应用的开发，本该那么高效及简单”**</mark>
+
+
+
+💡如果你曾经有过这样的想法：
+
+* 想提升自身个人代码质量，更加简洁、干净、规范
+* 有开源项目傍身，获得更广阔的职业机会及职业发展空间
+* 成为某方面领域的KOL，建立个人品牌
+
+
+
+PagePlug愿与你一同前行，欢迎加入：[**PagePlug开源团队**](jie-shao/jia-ru-wo-men/)****
+{% endhint %}
+
+### 4.1开源小分队
+
+
+
+如果您想与组织一同<mark style="color:red;">**有节奏**</mark>、<mark style="color:red;">**有计划**</mark>的对PagePlug项目深度发展（例如积极参与社区管理的管理和答疑解惑、撰写和改进项目的文档、参与PagePlug的功能开发、提交补丁优化代码等等），欢迎加入我们的开源小分队🤩（目前在不断的壮大ing）
 
 
 
@@ -173,31 +199,68 @@ yarn dev:weapp
 
 **1、开源分队之狂飙队（排名不分先后）**
 
-👩🏻‍💻山大王：DD
+👩🏻‍💻扛把子：DD
 
-Chris、xiaolu、kate、Bob、Nina、洪涛、马哥（很有爱和氛围的一群人🥰）
-
-
+🙋🏻‍♂️成员：Chris
 
 
 
+**2、开源分队之漫威队（排名不分先后）**
 
+🧑🏻‍💻美队：克力
 
-5、
-
-
-
-### ​[帮助中心](https://appsmith-fans.cn/docs/introduction?id=%e5%b8%ae%e5%8a%a9%e4%b8%ad%e5%bf%83)​ <a href="#bang-zhu-zhong-xin" id="bang-zhu-zhong-xin"></a>
-
-* 查看我们的[常见问题解答](https://docs.appsmith.com/faq)，您可能会在此处找到问题的解答；
-* 寻找具体信息？试试[小部件参考](https://docs.appsmith.com/reference/widgets)，[框架参考](https://docs.appsmith.com/reference/appsmith-framework)或[数据源参考](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/connecting-to-databases#supported-databases) ；
-* 在B站上查看我们的指南和教程；
-* ​[通过Github 问题](https://github.com/appsmithorg/appsmith/issues)向PagePlug报告错误
+🙋🏻‍♂️成员：xiaolu、kate、Bob、Nina、洪涛、马哥（很有爱和氛围的一群人🥰）
 
 
 
+{% hint style="info" %}
+近期会启动开源项目共建计划的招募，具体的流程及加入方式后续可以留意群消息或者查看这篇文章：[**加入开源小分队**](jie-shao/jia-ru-wo-men/)****
+{% endhint %}
 
 
-**如果您仍然遇到任何问题，可以加入我们技术交流群，直接与PagePlug产品静静联系!**
+
+### 4.2个人尝试
+
+PagePlug非常需要你的发现及自荐feature，我们接纳任何可行有益的建议，相信都会有助于提升整个项目的质量，哪怕是一个标点符号都会值得肯定👍🏻
+
+
+
+如果你想自己先初步尝试，也欢迎在Github或者gitee上提交Issue或者Pull Request，社区的同学们将和您一起探讨，共同进步！
+
+👇点击下方链接查看提交步骤👇
+
+{% hint style="info" %}
+提交你的Issue，可以查看：[**给PagePlug提Issue**](jie-shao/jia-ru-wo-men/ti-jiao-issue.md)****
+{% endhint %}
+
+{% hint style="info" %}
+提交你的Pull Request，可以查看：[**给PagePlug提Pull Reque**](jie-shao/jia-ru-wo-men/ti-jiao-pull-request.md)****
+{% endhint %}
+
+🏅我们将会在此展示优秀伙伴的贡献及付出（展示顺序不分先后）
+
+| 贡献内容 | Github名称 | 所在社区的名称 | 所在社区的群 | 提交时间 |
+| ---- | -------- | ------- | ------ | ---- |
+|      |          |         |        |      |
+|      |          |         |        |      |
+|      |          |         |        |      |
+
+
+
+## 5、社区优质作品
+
+我们非常欢迎社区的同学们多分享一些PagePlug的使用想法及心得，我们也会通过我们的平台，对大家沉淀的内容进行宣传及分享，如果有好的想法及idea，非常欢迎来社区分享你的内容及作品
+
+
+
+随着PagePlug项目的发展，您所做出的分享也会被更多行业及领域的同行们所了解认识
+
+{% hint style="info" %}
+PagePlug有无限的可能性，能够满足更多的使用场景，”创新“时刻都在发生，点击查看：[**社区成员们优秀的作品案例**](jie-shao/he-xin-jie-shao/she-qu-zuo-pin-ji.md)****
+{% endhint %}
+
+
+
+**如果您仍然遇到问题，可以加入我们技术交流群，直接与PagePlug产品静静联系!**
 
 <figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>

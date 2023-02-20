@@ -3,16 +3,19 @@
 ## 🥳 介绍
 
 * [核心介绍](README.md)
-* [加入我们](jie-shao/jia-ru-wo-men.md)
+  * [社区作品集](jie-shao/he-xin-jie-shao/she-qu-zuo-pin-ji.md)
+  * [使用技巧及方法分享](jie-shao/he-xin-jie-shao/shi-yong-ji-qiao-ji-fang-fa-fen-xiang.md)
+* [加入我们](jie-shao/jia-ru-wo-men/README.md)
+  * [提交ISSUE](jie-shao/jia-ru-wo-men/ti-jiao-issue.md)
+  * [提交Pull Request](jie-shao/jia-ru-wo-men/ti-jiao-pull-request.md)
 
 ## 💪 学习文档
 
-* [配置 PagePlug](xue-xi-wen-dang/pei-zhi-pageplug/README.md)
-  * [部署安装](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/README.md)
-    * [线上PagePlug（Saas版）](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/xian-shang-pageplugsaas-ban.md)
-    * [Methodot部署（云上镜像）](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/methodot-bu-shu-yun-shang-jing-xiang.md)
-    * [源码本地化部署（windows版）](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)
-    * [私有化部署（含docker安装教程）](xue-xi-wen-dang/pei-zhi-pageplug/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)
+* [部署安装](xue-xi-wen-dang/bu-shu-an-zhuang/README.md)
+  * [线上PagePlug（Saas版）](xue-xi-wen-dang/bu-shu-an-zhuang/xian-shang-pageplugsaas-ban.md)
+  * [Methodot部署（云上托管应用）](xue-xi-wen-dang/bu-shu-an-zhuang/methodot-bu-shu-yun-shang-tuo-guan-ying-yong.md)
+  * [源码本地化部署（windows版）](xue-xi-wen-dang/bu-shu-an-zhuang/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)
+  * [私有化部署（含docker安装教程）](xue-xi-wen-dang/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)
 * [参考](xue-xi-wen-dang/can-kao/README.md)
   * [小组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/README.md)
     * [音频组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/yin-pin-zu-jian.md)
@@ -108,6 +111,7 @@
 
 ## 😒 故障排除
 
+* [小程序demo数据源问题](gu-zhang-pai-chu/xiao-cheng-xu-demo-shu-ju-yuan-wen-ti.md)
 * [Formily使用问题](gu-zhang-pai-chu/formily-shi-yong-wen-ti.md)
 * [动作错误](gu-zhang-pai-chu/dong-zuo-cuo-wu/README.md)
   * [数据源错误](gu-zhang-pai-chu/dong-zuo-cuo-wu/shu-ju-yuan-cuo-wu.md)
@@ -124,3 +128,4 @@
 ## 🏆 商业版
 
 * [1、Demo](shang-ye-ban/1-demo.md)
+* [2、价格表](shang-ye-ban/2-jia-ge-biao.md)

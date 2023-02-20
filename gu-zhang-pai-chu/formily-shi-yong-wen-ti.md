@@ -12,15 +12,15 @@ description: 目前formliy组件未跟pageplug打通，因此一些使用上提�
 
 * 在fomliy初始化数据表单项中传入，自定义的option
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 * 在Select组件自定义的<mark style="color:blue;">响应器配置</mark>中，给dataSource赋值
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 > 🔍我想通过<mark style="color:purple;">调用接口</mark>，初始化select可选项，怎么办？
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.只要包含<mark style="color:yellow;">上传文件</mark>的组件，提交就报错
 
