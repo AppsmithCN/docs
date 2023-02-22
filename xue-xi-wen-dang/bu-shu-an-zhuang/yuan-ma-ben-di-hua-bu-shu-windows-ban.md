@@ -143,27 +143,49 @@ mvn -v
 
 显示版本号证明环境已经配置好了
 
-### &#x20;   1.3配置mongoDB数据库(自身已有Mongo数据库，可忽略此步骤)
+### &#x20;   1.3配置mongoDB数据库(确认下MongoDB版本是否是4.4或4.2)
 
 {% hint style="info" %}
 PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议是空数据内容或者自行优化适配Pageplug的数据结构
 {% endhint %}
 
-* 打开Methodot官网，从工作台中进入到应用商店，找到Mongo
+* 打开Methodot官网，在应用工厂中可以拉Mongo镜像部署，选择单服务——从镜像开始
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
-* 选择部署
+* 选择从镜像开始
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
-* 配置Mongo，支持自定义域名，选择立即部署
+* 选择mongo镜像源，选择4.4版本或4.2版本
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-* 部署成功，可以使用
+* 配置网络服务：新增一个网络网络服务，选择TCP，端口为27017
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+* 如果用到更复杂的，可以自行添加映射配置文件、环境变量、执行命令等等
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+* 选择发布应用
+
+<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+
+* 选择组件及随机配备域名
+
+<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+
+* 部署成功，点击分享按钮
+
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+
+* 可以直接使用
+
+<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+
+例子已删，请勿直接使用该url
 
 
 
@@ -198,7 +220,7 @@ www.methodot.com
 
 * 安装在电脑的磁盘，配置可以根据个人使用喜好选择，仅供参考
 
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (158) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 安装成功
 
@@ -242,7 +264,7 @@ https://github.com/coreybutler/nvm-windows/releases/download/1.1.10/nvm-setup.ex
 
 下载后找到 ``` `**`“nvm-setup.exe”`** 可执行文件，使用右键 **`“以管理员身份运行”`** 打开安装界面，遇到如下提示请选择 “是”
 
-<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (92) (1).png" alt=""><figcaption></figcaption></figure>
 
 安装过程中，请根据自身需要调整安装位置，如章节1前导说明第三段所说，我这里选择目 录 **`C:\PagePlugBase\Environment\nvm`** 进行安装，应用的默认目录为 **`C:\Users\你的用户名 \AppData\Roaming\nvm`** 请注意根据实测安装目录中切不可有中文，因为某些特殊中文字符会导致环境变量失效
 
@@ -250,17 +272,17 @@ https://github.com/coreybutler/nvm-windows/releases/download/1.1.10/nvm-setup.ex
 
 接下来选择nvm帮助你部署nodejs的目录，请注意这个目录在安装时需要存在，所以如果你选择和默认目录不 同的路径，请手动创建病确保当前账户拥有完全控制权限，这里的默认地址是 C:\Program Files\nodejs 请根据 自己的管理需要修改。
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (110) (2).png" alt=""><figcaption></figcaption></figure>
 
 安装完成后，打开Powershell，在Windows徽标处点击右键，选择 “终端(管理员)” 或在启动器中搜 索 Powershell 选择 “以管理员身份运行”
 
 <figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102) (2).png" alt=""><figcaption></figcaption></figure>
 
 在打开的Powershell终端界面中输入 nvm -v (此时处于什么目录并不重要)出现返回版本号 1.1.10 即表示 nvm安装部署成功，如果出现报错找不到nvm命令或其他错误，请检查1、是否拥有nvm安装目录完全控制权限; 2、是否安装成功，环境变量是否配置到位(我也不会检查环境变量，就重装一次吧)
 
-<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101) (2).png" alt=""><figcaption></figcaption></figure>
 
 接下来在Powershell终端界面中输入 nvm install 16.14.0 按照官方要求部署nodejs 16.14.0版本，使用 nvm的好处是不用自己配置环境变量，同时在需要时可以使用nvm命令切换不同的nodejs版本以便测试，省去了很多折腾环境的成本，接下来只需要等待自动安装完成即可。(如果遇到网络问题安装失败听说可以替换nvm安装 源，反正我不会，或者反复执行 `nvm install 16.14.0` 直到安装成功为止)
 
@@ -374,7 +396,21 @@ Local repository可以修改或者不修改，默认在C盘，如果担心C盘�
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
+* 看下在Maven的设置里面，是否勾选了这2个选项
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+关注确认一下，右边菜单栏是否显示Maven！！！
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 配置没啥问题后，我们按照从IDEA中打开源文件
+
+
+
+
 
 ### &#x20; 3.2打开Pageplug文件
 
@@ -541,7 +577,7 @@ yarn start-proxy
 如果原来电脑没有拉取过nginx，首先会拉取nginx image；同时也需要保证你本地的443端口没有被占有
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (148) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 显示Done的时候，已经顺利启动
 

@@ -2,7 +2,7 @@
 
 音频组件允许您播放各种 URL，包括文件路径、YouTube、Facebook、Twitch、SoundCloud、Streamable、优酷、B站等等
 
-<figure><img src="../../../.gitbook/assets/image (92) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (92) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、数据
 

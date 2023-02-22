@@ -30,7 +30,7 @@ Docker Desktop for Windows 支持 64 位版本的 Windows 10 Pro，且必须开�
 
 * 如果遇到WSL的报错，需要对WSL做个升级
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (149) (1).png" alt=""><figcaption></figcaption></figure>
 
 打开cmd，输入以下命令：
 

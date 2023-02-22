@@ -60,7 +60,7 @@
 
 ✔️ 第四步，连接mysql和java组件,会弹窗提示新增一个组件参数，名称修改为`mysql`
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 ✔️ 第五步，双击 “litemall-java”组件，设置环境变量
 
@@ -75,17 +75,17 @@
 其中👆第二个mysql字符串，替换成上面“**组件参数**”部分的mysql参数引用（输入<mark style="color:purple;">@</mark>字符可自动关联选项），展示效果如下
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ✔️ 最终保证两个组件的配置信息如下👇
 
 * java组件
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 * mysql组件
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -105,7 +105,7 @@
 
 数据源只需要修改保存一次，使用了本数据源的api接口会自动同步修改，接口运行成功，预览试试吧👻
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 有更多改造需求，可自行拉取 litemall开源项目深度改造
@@ -113,6 +113,6 @@
 另外，平台上的搭建或者发布过程有什么问题，可以联系[Methodot](https://methodot.com/) 的nina反馈👇
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 [^1]: 这里需要替换成引用参数
