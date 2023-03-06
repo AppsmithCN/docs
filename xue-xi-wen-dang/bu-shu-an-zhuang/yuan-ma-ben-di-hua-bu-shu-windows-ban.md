@@ -163,7 +163,7 @@ PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议
 
 * 配置网络服务：新增一个网络网络服务，选择TCP，端口为27017
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 如果用到更复杂的，可以自行添加映射配置文件、环境变量、执行命令等等
 
@@ -404,7 +404,7 @@ Local repository可以修改或者不修改，默认在C盘，如果担心C盘�
 关注确认一下，右边菜单栏是否显示Maven！！！
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 配置没啥问题后，我们按照从IDEA中打开源文件
 
@@ -444,7 +444,7 @@ cd app
 cd server
 ```
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 按照步骤提示，我们需要创造一个步骤文件，输入以下命令
 

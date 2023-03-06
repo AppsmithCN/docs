@@ -47,7 +47,7 @@
 | 强调色  | 设置勾选组件内勾选框被选中时的颜色  |
 | 边框圆角 | 对勾选组件边框样式进行修改      |
 
-<figure><img src="../../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 6、JS代码
 

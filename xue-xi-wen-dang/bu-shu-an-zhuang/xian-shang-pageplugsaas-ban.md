@@ -25,7 +25,7 @@ Methodot 是一站式云原生在线开发协作平台，它通过独创的在�
 
 * 选择左下角【创建新项目】，点击【低代码】项目
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>点击低代码项目</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>点击低代码项目</p></figcaption></figure>
 
 * 可以选择PC端或小程序端开发
 

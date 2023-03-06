@@ -102,6 +102,7 @@
   * [断开 Git 储存库](shi-yong-git-jin-hang-ban-ben-kong-zhi/duan-kai-git-chu-cun-ku.md)
   * [更新本地文件路径](shi-yong-git-jin-hang-ban-ben-kong-zhi/geng-xin-ben-di-wen-jian-lu-jing.md)
 * [JSON Web 令牌 (JWT)](json-web-ling-pai-jwt.md)
+* [文件上传按钮示例](wen-jian-shang-chuan-an-niu-shi-li.md)
 
 ## Reference
 

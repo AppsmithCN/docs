@@ -22,7 +22,7 @@
 
 1. 登录[<mark style="color:blue;">Methodot</mark>](https://methodot.com/)，进入应用工厂，点击“创建新项目”，选择“微服务”类型
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. 填写项目名称和描述，点击“创建”
 
@@ -95,7 +95,7 @@
 
 5. 提示发布成功之后，进入应用配置，查看接口地址
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 

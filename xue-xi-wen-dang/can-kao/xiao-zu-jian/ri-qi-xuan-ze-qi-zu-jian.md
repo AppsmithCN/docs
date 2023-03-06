@@ -13,7 +13,7 @@
 | 每周第一天 | 设置一周中的哪一天首先出现在日期选择器组件的日历中。接受介于 0 和 6 之间的数值，"0-6"分别为“星期天到星期六”                                                                                                                                                     |
 | 时间精度  | 确定时间是否包含在日期选择器中，以及该时间是精确到分钟还是秒。启用 JS 后，值可能是“无”、“分钟”或“秒”。                                                                                                                                                         |
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、标签
 

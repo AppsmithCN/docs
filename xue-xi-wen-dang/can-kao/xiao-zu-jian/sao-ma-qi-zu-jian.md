@@ -57,7 +57,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 7、例子演示
 
