@@ -9,7 +9,7 @@ description: >-
 
 
 
-<figure><img src=".gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>pageplug.cn</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>pageplug.cn</p></figcaption></figure>
 
 ## 1、​您可以使用PagePlug做什么？​ <a href="#nin-ke-yi-shi-yong-appsmith-zuo-shen-me" id="nin-ke-yi-shi-yong-appsmith-zuo-shen-me"></a>
 
@@ -52,7 +52,7 @@ description: >-
 
 <figure><img src=".gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>methodot.com</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 使用教程，请点击这里：[**线上PagePlug体验**](xue-xi-wen-dang/bu-shu-an-zhuang/xian-shang-pageplugsaas-ban.md)****

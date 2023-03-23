@@ -218,7 +218,7 @@ docker run -d -p 80:80 --name webserver nginx
 // Some code
 ```
 
-<figure><img src="../../.gitbook/assets/image (10) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 左下角显示绿色的时候，就证明配置好了，接下来我们将准备启动应用
 

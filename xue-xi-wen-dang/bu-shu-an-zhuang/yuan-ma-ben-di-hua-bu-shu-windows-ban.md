@@ -143,7 +143,7 @@ mvn -v
 
 显示版本号证明环境已经配置好了
 
-### &#x20;   1.3配置mongoDB数据库(确认下MongoDB版本是否是4.4或4.2)
+### &#x20;   1.3配置mongoDB数据库(推荐5.0以上)
 
 {% hint style="info" %}
 PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议是空数据内容或者自行优化适配Pageplug的数据结构
@@ -167,7 +167,7 @@ PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议
 
 * 如果用到更复杂的，可以自行添加映射配置文件、环境变量、执行命令等等
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 选择发布应用
 
@@ -398,13 +398,13 @@ Local repository可以修改或者不修改，默认在C盘，如果担心C盘�
 
 * 看下在Maven的设置里面，是否勾选了这2个选项
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 关注确认一下，右边菜单栏是否显示Maven！！！
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 配置没啥问题后，我们按照从IDEA中打开源文件
 
@@ -473,7 +473,7 @@ CLOUDOS_WECHAT_SECRET=""
 
 如果没有[**mongo**](yuan-ma-ben-di-hua-bu-shu-windows-ban.md#1.3-pei-zhi-mongodb-shu-ju-ku)和[**redis**](yuan-ma-ben-di-hua-bu-shu-windows-ban.md#1.4-pei-zhi-redis-shu-ju-ku)，可以在methodot上部署生成使用，教程可以往上看
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;   3.4构建Java服务
 
@@ -501,7 +501,7 @@ http://mysoft.6h5.cn/win/rsync.64.zip
 
 下载完成后，解压压缩包，找到<mark style="color:red;">**`rsync.exe`**</mark>，把这个文件拷贝到Git Bash目录<mark style="color:red;">**`C:\Program Files\Git\usr\bin`**</mark>即可在Git Bash上使用了。
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 继续操作，输入第二个命令
 
