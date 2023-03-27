@@ -109,8 +109,11 @@
 
 ## 🕵 案例演示
 
-* [数据库自动生成页面示例](an-li-yan-shi/shu-ju-ku-zi-dong-sheng-cheng-ye-mian-shi-li.md)
-* [文件上传按钮示例](an-li-yan-shi/wen-jian-shang-chuan-an-niu-shi-li.md)
+* [初阶学习](an-li-yan-shi/chu-jie-xue-xi/README.md)
+  * [文件上传按钮示例](an-li-yan-shi/chu-jie-xue-xi/wen-jian-shang-chuan-an-niu-shi-li.md)
+  * [数据库自动生成页面示例](an-li-yan-shi/chu-jie-xue-xi/shu-ju-ku-zi-dong-sheng-cheng-ye-mian-shi-li.md)
+* [中阶学习](an-li-yan-shi/zhong-jie-xue-xi.md)
+* [高阶学习](an-li-yan-shi/gao-jie-xue-xi.md)
 
 ## 😒 故障排除
 

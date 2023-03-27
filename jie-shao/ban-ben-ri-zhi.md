@@ -16,7 +16,7 @@
 2、可以在资源管理器中查看所有已安装的库。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (5).png" alt=""><figcaption></figcaption></figure>
 
 * #### &#x20;新增iframe嵌入选项
 
@@ -28,7 +28,7 @@
 `3、`登录嵌入应用程序的用户现在可以自动看到PagePlug 应用程序
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **新增数据查看层**
 
@@ -36,7 +36,7 @@
 目前仅适用于api.data
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 * **新增值查看窗口**
 
@@ -99,7 +99,7 @@ Spring Boot 2.7 -> 3.0.1 3
 
 * 3、在容器启动成功后，再次关停，将镜像替换回cloudtogouser/pageplug-ce ，然后启动
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、迁移教程
 

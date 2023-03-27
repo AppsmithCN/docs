@@ -14,25 +14,25 @@
 
 在methodot的应用商店部署一个http服务器商品
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 部署成功后会有一个url地址
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、在Pageplug画布中拖入一个文件上传组件
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、在PagePlug新建一个api
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、编辑api
 
 将在methodot上创建的url地址复制到输入框内，并修改类型。在请求体内输入对应的健、值
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 1、get换成post请求
@@ -50,7 +50,7 @@
 
 ### 5、对组件进行绑定
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 1、支持文件类型：选择任意文件类型
@@ -60,8 +60,8 @@
 3、事件：执行查询——选择“http\_file”api——消息提醒——提示消息：yes——提示类型：成功（后续动作可自行发挥～～）
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### 6、可以在http服务器上查看下自己上传的文件
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
