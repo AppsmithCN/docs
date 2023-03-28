@@ -394,7 +394,7 @@ User settings file的文件在maven目录中，/conf/logging
 
 Local repository可以修改或者不修改，默认在C盘，如果担心C盘存量不够，建议更换目录（我在D盘创建了一个空的local文件夹）
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 看下在Maven的设置里面，是否勾选了这2个选项
 

@@ -6,7 +6,7 @@
 
 ### 1、大屏设计
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、单点登录SSO
 
