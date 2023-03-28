@@ -1,8 +1,6 @@
----
-description: echart 使用
----
-
 # echart
+
+
 
 {% hint style="info" %}
 若没有及时回复，欢迎来gitee: [https://gitee.com/cloudtogo/pageplug/issues](https://gitee.com/cloudtogo/pageplug/issues) 和 github: [https://github.com/cloudtogo/pageplug/issues](https://github.com/cloudtogo/pageplug/issues)
