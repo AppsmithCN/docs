@@ -1,4 +1,4 @@
-# echart
+# echart组件
 
 
 
@@ -47,3 +47,20 @@ global.echartInstance
 
 ![](<../../../.gitbook/assets/image (19).png>)
 
+4.为什么我的formatter: function类型不起作用
+
+worker传递机制，需要在使用function类型的formatter时，需要使用模板字符串序列化一下
+
+```javascript
+detail: {
+  fontSize: 30,
+  //...
+  formatter: `function (value) {
+    return Math.round(value * 100) + '';
+  }`,
+},
+```
+
+{% hint style="warning" %}
+需要注意的是，序列化的内容中，包括function内部以外的，上下文变量的引用会找不到
+{% endhint %}

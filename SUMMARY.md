@@ -40,7 +40,7 @@
       * [Mongo Query Syntax](xue-xi-wen-dang/can-kao/shu-ju-yuan/mongodb/mongo-query-syntax.md)
       * [Whitelist MongoDB Cloud](xue-xi-wen-dang/can-kao/shu-ju-yuan/mongodb/whitelist-mongodb-cloud.md)
   * [小组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/README.md)
-    * [echart](xue-xi-wen-dang/can-kao/xiao-zu-jian/echart.md)
+    * [echart组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/echart-zu-jian.md)
     * [录音器组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/lu-yin-qi-zu-jian.md)
     * [Formily表单组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/formily-biao-dan-zu-jian/README.md)
       * [Formily用法](xue-xi-wen-dang/can-kao/xiao-zu-jian/formily-biao-dan-zu-jian/formily-yong-fa.md)
