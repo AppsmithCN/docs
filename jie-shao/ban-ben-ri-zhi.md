@@ -48,7 +48,7 @@
 3、窗格的默认状态更加清晰，带有扩展部分的选项
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、功能优化💪
 
