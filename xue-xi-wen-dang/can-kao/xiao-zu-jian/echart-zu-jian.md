@@ -21,7 +21,7 @@
 callFunc(widgetName:string, funcName:string, option?:any) => Promise()
 ```
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 ```javascript
 global.echartInstance
