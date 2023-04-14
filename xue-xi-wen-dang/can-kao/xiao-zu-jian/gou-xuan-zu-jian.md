@@ -29,7 +29,7 @@
 | 禁用      | 使该组件不可点击或不可用。该组件对用户保持可见，但不允许用户交互。                                          |
 | 加载时显示动画 | 关闭时，该组件加载时不会有任何动画。您可以使用拨动开关将其打开/关闭。您还可以通过启用旁边的 JS 标签使用 javascript 将其关闭/打开。 |
 
-<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、事件
 

@@ -12,7 +12,7 @@ description: 目前formliy组件未跟pageplug打通，因此一些使用上提�
 
 * 在fomliy初始化数据表单项中传入，自定义的option
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 在Select组件自定义的<mark style="color:blue;">响应器配置</mark>中，给dataSource赋值
 

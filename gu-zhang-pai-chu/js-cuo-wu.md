@@ -90,7 +90,7 @@ This value does not evaluate to type Array\[{`label: string, value: string`}]
 }}
 ```
 
-****
+
 
 &#x20;   **错误信息3:**
 
@@ -121,7 +121,7 @@ The value does not evaluate to type Array \[{x: string, y: number}]
 }}
 ```
 
-&#x20;   ****   &#x20;
+&#x20;  &#x20;
 
 &#x20;   **错误信息4:**
 
@@ -149,7 +149,7 @@ Value does not match ISO 8601 standard date string
 {{ moment("2021-07-26", "YYYY-MM-DD") }}
 ```
 
-****
+
 
 &#x20; **错误信息5:**
 

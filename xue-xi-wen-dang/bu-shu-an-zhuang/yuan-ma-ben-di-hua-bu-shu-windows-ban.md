@@ -11,7 +11,7 @@ PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实�
 * 官网地址[https://jdk.java.net/archive/](https://jdk.java.net/archive/)
 * 下载地址[https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2\_windows-x64\_bin.zip](https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2\_windows-x64\_bin.zip)
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -19,7 +19,7 @@ PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实�
 
 * 在自己本地的磁盘，创建一个文件夹，例如叫java
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 将下载好的jdk-11.0.2解压到文件夹下
 
@@ -91,7 +91,7 @@ javac
 
 * 在自己本地的磁盘，创建一个文件夹，例如叫java
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 将下载好的apache-maven-3.9.0解压到java文件夹下
 
@@ -205,7 +205,7 @@ www.methodot.com
 
 * 配置redis，支持自定义域名，选择立即部署
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 部署成功，可以使用
 
@@ -262,7 +262,7 @@ https://github.com/coreybutler/nvm-windows
 https://github.com/coreybutler/nvm-windows/releases/download/1.1.10/nvm-setup.exe
 ```
 
-下载后找到 ``` `**`“nvm-setup.exe”`** 可执行文件，使用右键 **`“以管理员身份运行”`** 打开安装界面，遇到如下提示请选择 “是”
+下载后找到 **`“nvm-setup.exe”`** 可执行文件，使用右键 **`“以管理员身份运行”`** 打开安装界面，遇到如下提示请选择 “是”
 
 <figure><img src="../../.gitbook/assets/image (92) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -346,7 +346,7 @@ cd work
 ll
 ```
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 复制git或者是github的地址下载
 
@@ -360,7 +360,7 @@ https://gitee.com/cloudtogo/pageplug.git
 https://github.com/cloudtogo/pageplug.git
 ```
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (2).png" alt=""><figcaption></figcaption></figure>
 
 输入以下的命令，下载源码（以gitee为例）
 
@@ -390,7 +390,7 @@ Maven home Path中填写Maven安装目录的位置
 
 User settings file的文件在maven目录中，/conf/logging
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (2).png" alt=""><figcaption></figcaption></figure>
 
 Local repository可以修改或者不修改，默认在C盘，如果担心C盘存量不够，建议更换目录（我在D盘创建了一个空的local文件夹）
 
@@ -473,7 +473,7 @@ CLOUDOS_WECHAT_SECRET=""
 
 如果没有[**mongo**](yuan-ma-ben-di-hua-bu-shu-windows-ban.md#1.3-pei-zhi-mongodb-shu-ju-ku)和[**redis**](yuan-ma-ben-di-hua-bu-shu-windows-ban.md#1.4-pei-zhi-redis-shu-ju-ku)，可以在methodot上部署生成使用，教程可以往上看
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;   3.4构建Java服务
 

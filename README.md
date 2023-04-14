@@ -55,7 +55,7 @@ description: >-
 <figure><img src=".gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-使用教程，请点击这里：[**线上PagePlug体验**](xue-xi-wen-dang/bu-shu-an-zhuang/xian-shang-pageplugsaas-ban.md)****
+使用教程，请点击这里：[**线上PagePlug体验**](xue-xi-wen-dang/bu-shu-an-zhuang/xian-shang-pageplugsaas-ban.md)
 {% endhint %}
 
 ### 🌱3.2私有部署【Docker】
@@ -76,7 +76,7 @@ chmod +x install.sh
 ```
 
 {% hint style="info" %}
-详细安装教程，请点击这里：[**私有化部署（含docker安装教程）**](xue-xi-wen-dang/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)****
+详细安装教程，请点击这里：[**私有化部署（含docker安装教程）**](xue-xi-wen-dang/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)
 {% endhint %}
 
 ### &#x20;  🌱 3.3本地开发
@@ -134,7 +134,7 @@ bash ./build.sh -DskipTests
 bash ./scripts/start-dev-server.sh
 ```
 
-****
+
 
 &#x20;       **😎PagePlug 移动端启动**
 
@@ -158,7 +158,7 @@ yarn dev:weapp
 ```
 
 {% hint style="info" %}
-详细安装教程，请点击这里：[**源码本地化部署（windows版）**](xue-xi-wen-dang/bu-shu-an-zhuang/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)****
+详细安装教程，请点击这里：[**源码本地化部署（windows版）**](xue-xi-wen-dang/bu-shu-an-zhuang/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)
 {% endhint %}
 
 
@@ -182,7 +182,7 @@ yarn dev:weapp
 
 
 
-PagePlug愿与你一同前行，欢迎加入：[**PagePlug开源团队**](jie-shao/jia-ru-wo-men/)****
+PagePlug愿与你一同前行，欢迎加入：[**PagePlug开源团队**](jie-shao/jia-ru-wo-men/)
 {% endhint %}
 
 ### 4.1开源小分队
@@ -214,7 +214,7 @@ PagePlug愿与你一同前行，欢迎加入：[**PagePlug开源团队**](jie-sh
 
 
 {% hint style="info" %}
-近期会启动开源项目共建计划的招募，具体的流程及加入方式后续可以留意群消息或者查看这篇文章：[**加入开源小分队**](jie-shao/jia-ru-wo-men/)****
+近期会启动开源项目共建计划的招募，具体的流程及加入方式后续可以留意群消息或者查看这篇文章：[**加入开源小分队**](jie-shao/jia-ru-wo-men/)
 {% endhint %}
 
 
@@ -230,11 +230,11 @@ PagePlug非常需要你的发现及自荐feature，我们接纳任何可行有�
 👇点击下方链接查看提交步骤👇
 
 {% hint style="info" %}
-提交你的Issue，可以查看：[**给PagePlug提Issue**](jie-shao/jia-ru-wo-men/ti-jiao-issue.md)****
+提交你的Issue，可以查看：[**给PagePlug提Issue**](jie-shao/jia-ru-wo-men/ti-jiao-issue.md)
 {% endhint %}
 
 {% hint style="info" %}
-提交你的Pull Request，可以查看：[**给PagePlug提Pull Reque**](jie-shao/jia-ru-wo-men/ti-jiao-pull-request.md)****
+提交你的Pull Request，可以查看：[**给PagePlug提Pull Reque**](jie-shao/jia-ru-wo-men/ti-jiao-pull-request.md)
 {% endhint %}
 
 🏅我们将会在此展示优秀伙伴的贡献及付出（展示顺序不分先后）
@@ -256,7 +256,7 @@ PagePlug非常需要你的发现及自荐feature，我们接纳任何可行有�
 随着PagePlug项目的发展，您所做出的分享也会被更多行业及领域的同行们所了解认识
 
 {% hint style="info" %}
-PagePlug有无限的可能性，能够满足更多的使用场景，”创新“时刻都在发生，点击查看：[**社区成员们优秀的作品案例**](jie-shao/he-xin-jie-shao/she-qu-zuo-pin-ji.md)****
+PagePlug有无限的可能性，能够满足更多的使用场景，”创新“时刻都在发生，点击查看：[**社区成员们优秀的作品案例**](jie-shao/he-xin-jie-shao/she-qu-zuo-pin-ji.md)
 {% endhint %}
 
 

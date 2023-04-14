@@ -112,6 +112,7 @@
 
 * [初阶学习](an-li-yan-shi/chu-jie-xue-xi/README.md)
   * [文件上传按钮示例](an-li-yan-shi/chu-jie-xue-xi/wen-jian-shang-chuan-an-niu-shi-li.md)
+  * [创建一个自己的仪表盘](an-li-yan-shi/chu-jie-xue-xi/chuang-jian-yi-ge-zi-ji-de-yi-biao-pan.md)
   * [数据库自动生成页面示例](an-li-yan-shi/chu-jie-xue-xi/shu-ju-ku-zi-dong-sheng-cheng-ye-mian-shi-li.md)
 * [中阶学习](an-li-yan-shi/zhong-jie-xue-xi.md)
 * [高阶学习](an-li-yan-shi/gao-jie-xue-xi.md)

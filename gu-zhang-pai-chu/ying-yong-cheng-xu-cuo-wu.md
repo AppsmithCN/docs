@@ -83,7 +83,7 @@ It looks like you may have entered incorrect/invalid credentials. Please try aga
 
 如果您在使用 PagePlug 的自托管实例时需要重置密码，则必须先将实例配置为发送电子邮件通知。
 
-****
+
 
 ### 4、没有用户
 
