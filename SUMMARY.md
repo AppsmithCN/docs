@@ -13,11 +13,13 @@
 ## 💪 学习文档
 
 * [部署安装](xue-xi-wen-dang/bu-shu-an-zhuang/README.md)
+  * [通过本地主机连接](xue-xi-wen-dang/bu-shu-an-zhuang/tong-guo-ben-di-zhu-ji-lian-jie.md)
   * [线上PagePlug（Saas版）](xue-xi-wen-dang/bu-shu-an-zhuang/xian-shang-pageplugsaas-ban.md)
   * [Methodot部署（云上托管应用）](xue-xi-wen-dang/bu-shu-an-zhuang/methodot-bu-shu-yun-shang-tuo-guan-ying-yong.md)
   * [源码本地化部署（windows版）](xue-xi-wen-dang/bu-shu-an-zhuang/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)
   * [私有化部署（含docker安装教程）](xue-xi-wen-dang/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)
 * [参考](xue-xi-wen-dang/can-kao/README.md)
+  * [使用快捷键](xue-xi-wen-dang/can-kao/shi-yong-kuai-jie-jian.md)
   * [数据源](xue-xi-wen-dang/can-kao/shu-ju-yuan/README.md)
     * [Airtable](xue-xi-wen-dang/can-kao/shu-ju-yuan/airtable.md)
     * [Amazon / Generic S3](xue-xi-wen-dang/can-kao/shu-ju-yuan/amazon-generic-s3.md)
