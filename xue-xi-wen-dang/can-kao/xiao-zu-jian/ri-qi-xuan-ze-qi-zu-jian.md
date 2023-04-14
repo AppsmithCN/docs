@@ -32,7 +32,7 @@
 | 最小日期 | 设置日期选择器组件日期选择范围最早的日期时间段 |
 | 最大日期 | 设置日期选择器组件日期选择范围最晚的日期时间段 |
 
-<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -47,7 +47,7 @@
 | 选中后关闭   | 开启后，当输入框下拉出现日期选择栏时，选中某个日期后会自动关闭选择栏                                                                                                                                                      |
 | 高度      | <p>可对组件的高度进行配置：</p><p><br><strong>固定</strong>：使用拖动和调整大小，组件的高度保持设置不变。<br><strong>自动高度</strong>：组件的高度对内容变化做出反应。<br><strong>区间自动高度：</strong>与 Auto height 相同，具有可配置选项以设置组件可以占用的最小和最大行数。</p> |
 
-<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5、事件
 
@@ -75,4 +75,4 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38) (1) (1).png" alt=""><figcaption></figcaption></figure>

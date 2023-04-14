@@ -60,7 +60,7 @@
 
 ✔️ 第四步，连接mysql和java组件,会弹窗提示新增一个组件参数，名称修改为`mysql`
 
-<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ✔️ 第五步，双击 “litemall-java”组件，设置环境变量
 

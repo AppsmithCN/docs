@@ -7,8 +7,8 @@
   * [使用技巧及方法分享](jie-shao/he-xin-jie-shao/shi-yong-ji-qiao-ji-fang-fa-fen-xiang.md)
 * [加入我们](jie-shao/jia-ru-wo-men/README.md)
   * [提交ISSUE](jie-shao/jia-ru-wo-men/ti-jiao-issue.md)
-  * [提交Pull Request](jie-shao/jia-ru-wo-men/ti-jiao-pull-request.md)
-* [版本日志](jie-shao/ban-ben-ri-zhi.md)
+* [版本日志](jie-shao/ban-ben-ri-zhi/README.md)
+  * [提交Pull Request](jie-shao/ban-ben-ri-zhi/ti-jiao-pull-request.md)
 
 ## 💪 学习文档
 
@@ -36,10 +36,9 @@
     * [Snowflake](xue-xi-wen-dang/can-kao/shu-ju-yuan/snowflake.md)
     * [SMTP](xue-xi-wen-dang/can-kao/shu-ju-yuan/smtp.md)
     * [Twilio](xue-xi-wen-dang/can-kao/shu-ju-yuan/twilio.md)
-    * [MongoDB](xue-xi-wen-dang/can-kao/shu-ju-yuan/mongodb/README.md)
-      * [Mongo Query Syntax](xue-xi-wen-dang/can-kao/shu-ju-yuan/mongodb/mongo-query-syntax.md)
-      * [Whitelist MongoDB Cloud](xue-xi-wen-dang/can-kao/shu-ju-yuan/mongodb/whitelist-mongodb-cloud.md)
+    * [MongoDB](xue-xi-wen-dang/can-kao/shu-ju-yuan/mongodb.md)
   * [小组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/README.md)
+    * [Page 1](xue-xi-wen-dang/can-kao/xiao-zu-jian/page-1.md)
     * [echart组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/echart-zu-jian.md)
     * [录音器组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/lu-yin-qi-zu-jian.md)
     * [Formily表单组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/formily-biao-dan-zu-jian/README.md)

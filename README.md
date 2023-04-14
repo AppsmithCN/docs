@@ -234,7 +234,7 @@ PagePlug非常需要你的发现及自荐feature，我们接纳任何可行有�
 {% endhint %}
 
 {% hint style="info" %}
-提交你的Pull Request，可以查看：[**给PagePlug提Pull Reque**](jie-shao/jia-ru-wo-men/ti-jiao-pull-request.md)
+提交你的Pull Request，可以查看：[**给PagePlug提Pull Reque**](jie-shao/ban-ben-ri-zhi/ti-jiao-pull-request.md)
 {% endhint %}
 
 🏅我们将会在此展示优秀伙伴的贡献及付出（展示顺序不分先后）

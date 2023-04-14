@@ -21,7 +21,7 @@
 callFunc(widgetName:string, funcName:string, option?:any) => Promise()
 ```
 
-![](<../../../.gitbook/assets/image (1) (1) (2).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 ```javascript
 global.echartInstance
@@ -61,7 +61,7 @@ detail: {
 },
 ```
 
-![](<../../../.gitbook/assets/image (21).png>)
+![](../../../.gitbook/assets/image.png)
 
 {% hint style="warning" %}
 需要注意的是，序列化的内容中，包括function内部以外的，上下文变量的引用会找不到

@@ -2,7 +2,7 @@
 
 扫描器组件允许您扫描各种条形码和 QR 码
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、支持类型
 

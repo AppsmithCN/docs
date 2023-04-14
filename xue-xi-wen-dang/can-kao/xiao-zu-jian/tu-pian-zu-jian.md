@@ -2,7 +2,7 @@
 
 图片组件可以显示应用程序中的图像。图片格式必须是 URL 或有效的 base64。
 
-<figure><img src="../../../.gitbook/assets/image (104) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (104) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、数据
 

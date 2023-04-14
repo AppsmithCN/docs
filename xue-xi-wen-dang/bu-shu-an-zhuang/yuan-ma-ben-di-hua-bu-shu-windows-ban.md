@@ -11,7 +11,7 @@ PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实�
 * 官网地址[https://jdk.java.net/archive/](https://jdk.java.net/archive/)
 * 下载地址[https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2\_windows-x64\_bin.zip](https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2\_windows-x64\_bin.zip)
 
-<figure><img src="../../.gitbook/assets/image (26) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -19,7 +19,7 @@ PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实�
 
 * 在自己本地的磁盘，创建一个文件夹，例如叫java
 
-<figure><img src="../../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 * 将下载好的jdk-11.0.2解压到文件夹下
 
@@ -71,7 +71,7 @@ java
 javac
 ```
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69) (1).png" alt=""><figcaption></figcaption></figure>
 
 出现这样一堆东西，环境已经配置好了
 
@@ -85,13 +85,13 @@ javac
 
 根据不同的版本，选择对应的文件，windows选择zip的压缩包
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;         1.2.2创建文件夹解压
 
 * 在自己本地的磁盘，创建一个文件夹，例如叫java
 
-<figure><img src="../../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 * 将下载好的apache-maven-3.9.0解压到java文件夹下
 
@@ -159,7 +159,7 @@ PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议
 
 * 选择mongo镜像源，选择4.4版本或4.2版本
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 配置网络服务：新增一个网络网络服务，选择TCP，端口为27017
 
@@ -205,7 +205,7 @@ www.methodot.com
 
 * 配置redis，支持自定义域名，选择立即部署
 
-<figure><img src="../../.gitbook/assets/image (31) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 * 部署成功，可以使用
 
@@ -268,7 +268,7 @@ https://github.com/coreybutler/nvm-windows/releases/download/1.1.10/nvm-setup.ex
 
 安装过程中，请根据自身需要调整安装位置，如章节1前导说明第三段所说，我这里选择目 录 **`C:\PagePlugBase\Environment\nvm`** 进行安装，应用的默认目录为 **`C:\Users\你的用户名 \AppData\Roaming\nvm`** 请注意根据实测安装目录中切不可有中文，因为某些特殊中文字符会导致环境变量失效
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106) (1).png" alt=""><figcaption></figcaption></figure>
 
 接下来选择nvm帮助你部署nodejs的目录，请注意这个目录在安装时需要存在，所以如果你选择和默认目录不 同的路径，请手动创建病确保当前账户拥有完全控制权限，这里的默认地址是 C:\Program Files\nodejs 请根据 自己的管理需要修改。
 
@@ -306,7 +306,7 @@ npm install -g yarn
 
 即可全局安装yarn，安装完成后即可看到 added 1 package, and audited 3 packages in 2s 提示，如果出 现如下升级npm的提示可以不用关心
 
-<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (103) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 2、源码拉取下载
 
@@ -346,7 +346,7 @@ cd work
 ll
 ```
 
-<figure><img src="../../.gitbook/assets/image (23) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 * 复制git或者是github的地址下载
 
@@ -360,7 +360,7 @@ https://gitee.com/cloudtogo/pageplug.git
 https://github.com/cloudtogo/pageplug.git
 ```
 
-<figure><img src="../../.gitbook/assets/image (22) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 输入以下的命令，下载源码（以gitee为例）
 
@@ -372,7 +372,7 @@ git clone https://gitee.com/cloudtogo/pageplug.git
 
 * 显示下面内容的时候，源码拉取成功
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3、后端部署
 
@@ -390,7 +390,7 @@ Maven home Path中填写Maven安装目录的位置
 
 User settings file的文件在maven目录中，/conf/logging
 
-<figure><img src="../../.gitbook/assets/image (28) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 Local repository可以修改或者不修改，默认在C盘，如果担心C盘存量不够，建议更换目录（我在D盘创建了一个空的local文件夹）
 
@@ -473,7 +473,7 @@ CLOUDOS_WECHAT_SECRET=""
 
 如果没有[**mongo**](yuan-ma-ben-di-hua-bu-shu-windows-ban.md#1.3-pei-zhi-mongodb-shu-ju-ku)和[**redis**](yuan-ma-ben-di-hua-bu-shu-windows-ban.md#1.4-pei-zhi-redis-shu-ju-ku)，可以在methodot上部署生成使用，教程可以往上看
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;   3.4构建Java服务
 
@@ -487,7 +487,7 @@ mvn clean compile
 
 等待一会时间，成功后有提示
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **build.sh 脚本中用到了 rsync 工具，启动前请确保系统中已经安装了 rsync，否则执行命令会有提醒**
 
@@ -672,4 +672,4 @@ dev.appsmith.com
 127.0.0.1  dev.appsmith.com
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (112) (2).png" alt=""><figcaption></figcaption></figure>

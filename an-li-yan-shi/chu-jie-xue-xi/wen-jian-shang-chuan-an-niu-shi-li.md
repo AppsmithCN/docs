@@ -18,7 +18,7 @@
 
 部署成功后会有一个url地址
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、在Pageplug画布中拖入一个文件上传组件
 

@@ -32,7 +32,7 @@
 | 边框圆角 | 对相机组件边框样式进行修改 |
 | 阴影   | 对相机组件样式调整阴影大小 |
 
-<figure><img src="../../../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (55) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -12,7 +12,7 @@
 | 添加一项  | 在勾选组组件内新增一个勾选框                     |
 | 默认选中值 | 设置默认选中的选项的值，包含”数据结构类型、数据结构例子、解析值展示 |
 
-<figure><img src="../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、标签
 
@@ -43,7 +43,7 @@
 | 全选      | 增加一个全选的选项，可以选择全选选项或者全部不选                                                   |
 | 加载时显示动画 | 关闭时，该组件加载时不会有任何动画。您可以使用拨动开关将其打开/关闭。您还可以通过启用旁边的 JS 标签使用 javascript 将其关闭/打开。 |
 
-<figure><img src="../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5、事件
 

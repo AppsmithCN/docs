@@ -2,7 +2,7 @@
 
 货币输入框组件可以来捕获用户的货币输入
 
-<figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、数据
 
@@ -22,7 +22,7 @@
 | 文本 | 可设置货币输入框上方的文本   |
 | 位置 | 可以设置文本与输入框的位置排序 |
 
-<figure><img src="../../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -90,7 +90,7 @@
 | onSubmit      | 可以配置用户输入完内容按回车后触发相应的动作 |
 | 提交后重置         | 输入框的内容提交后清空输入框的内容      |
 
-<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -116,7 +116,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 相关属性：
 

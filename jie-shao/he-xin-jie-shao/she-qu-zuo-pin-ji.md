@@ -20,7 +20,7 @@
 目前还在继续深入了解和使用PagePlug，相信pageplug能够成为我单位一个高效的内部开发工具，欢迎其他小伙伴一同讨论学习
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 待后续陆续更新～～
 
