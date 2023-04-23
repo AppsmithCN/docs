@@ -10,7 +10,7 @@
 
 * 你有一个关键字 (async) 来标记函数的异步执行
 
-```
+```javascript
 export default{
     functionName: async() => {
        //use async-await or promises
@@ -21,7 +21,7 @@ export default{
 * 您在功能块中添加了PagePlug内置组件的功能，例如`showModal(), showAlert()`等。
 * 您想要在运行时执行查询或调用 API。例如，你有一个 API `GetUsersList,`，你想在运行时调用这个 API，也就是每当`callAPI()`执行 JS Object 函数时。您的功能可能如下所示：
 
-```
+```javascript
 export default {
    callAPI: () => {
       GetUsersList.run();

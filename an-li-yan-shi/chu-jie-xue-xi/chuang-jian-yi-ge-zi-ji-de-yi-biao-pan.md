@@ -66,7 +66,7 @@ SELECT \* FROM yelp\_business;
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>数据就自动导入到表单组件了</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>数据就自动导入到表单组件了</p></figcaption></figure>
 
 * 或者我们可以怎么用呢？例如自己拖入一个表单组件，在数据这里添加下面内容
 

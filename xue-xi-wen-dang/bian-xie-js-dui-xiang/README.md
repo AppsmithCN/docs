@@ -57,7 +57,7 @@ JS 对象是由多个函数和变量组成的实体。它是一个可以在其�
 
 例如，下面的代码片段显示了一个数据过滤器：
 
-```
+```javascript
 Api.data.filter(() => {}); // filtering data 
 ```
 
@@ -106,7 +106,7 @@ JavaScript 编辑器会自动检查您的源代码是否存在编程错误。如
 
 可以添加以下代码片段
 
-```
+```javascript
 export default {
    hello: () => {
       return “Hello World”;
@@ -120,7 +120,7 @@ export default {
 您可以点击右上角的**运行可用来执行JS 函数。**如果你的 JS 对象只定义了一个函数，编辑器会默认函数名。但如果您的 JS 对象定义了多个函数，您可以选择要执行的函数，然后单击**运行**。
 {% endhint %}
 
-### 6、调试功能
+### 6、debugger和console功能
 
 你可以使用`debugger`或`console.log()`调试您的代码并分别在浏览器控制台中检查它，这样可以检查代码的情况，并逐行检查它以帮助识别和修复任何错误
 
@@ -146,11 +146,11 @@ https://mock-api.appsmith.com/users
 
 <figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-* 创建一个js对象
+* 创建一个js对象，打印接口数据
 
 把下列代码输入到代码器中
 
-```
+```javascript
 export default {
     getUser: async () => {
 			const res = await get_users.run();
@@ -161,22 +161,33 @@ export default {
 
 <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
-之后点击右上角运行，之后就看到打印的users信息
+之后点击右上角运行，之后就看到打印的接口的返回数据
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-* 延伸，我们再试下打印另外一个
+* 延伸，我们再试下打印一个变量值
 
-```
+```javascript
 export default {
     getUser: async () => {
-			const {users} = await get_users.run();
-			console.log(users);
-			users[0].id = 5;
-			console.log(users[0]);
-			
+        const {users} = await get_users.run();
+        console.log(users);
+        users[0].id = 5;
+        console.log(users[0]);	
     }
 }
 ```
 
 <figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* debugger功能
+
+我们可以在代码中要暂停的地方插入一个`debugger`，然后运行你的应用程序。当到达调试器语句时，代码的执行将暂停，它的工作方式类似于`breakpoint`. 然后，您可以使用调试器工具单步执行代码、检查变量并查看代码的执行情况。
+
+例子：
+
+插入了之后我们可以在控制台里面查看详情
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -12,7 +12,7 @@ JavaScript Promises有助于实现使用回调时难以管理的异步工作流�
 
 要了解Callbacks和 promise 实现之间的区别，请考虑一个依次执行三个 API 查询并在所有 API 成功运行完成时显示一条消息的示例，例如：
 
-<pre><code><strong>// Using Callbacks
+<pre class="language-javascript"><code class="lang-javascript"><strong>// Using Callbacks
 </strong>{{
     MockApi.run(() => {
         MockApi1.run(() => {
@@ -26,7 +26,7 @@ JavaScript Promises有助于实现使用回调时难以管理的异步工作流�
 
 对同一个示例使用promise可以让实现更易于管理和可读。
 
-```
+```javascript
 {{
     MockApi.run()
         .then(() => MockApi1.run())
@@ -47,7 +47,7 @@ JavaScript Promise有几个内置方法。
 
 ❌错误方法：
 
-```
+```javascript
 {{
   (function() {
     MockApi.run().then(showAlert(`Success`))      
@@ -57,7 +57,7 @@ JavaScript Promise有几个内置方法。
 
 ✅正确方法：
 
-```
+```javascript
 {{
   (function() {
      return MockApi.run().then(() => showAlert(`Success`))
@@ -71,19 +71,18 @@ JavaScript Promise有几个内置方法。
 
 例子：
 
-```
-{{
-(function(){
-    
-  return Promise.any([
-        MockApi.run({ name: 1 }), // if name:1 finished early
-        MockApi.run({ name: 2 })
-  ]).then((res) => {
-    showAlert(`Winner: ${res.args.name}`) // Alert Message showns as "Winner: 1" 
-  });
-})()
+<pre class="language-javascript"><code class="lang-javascript">{{
+<strong>      (function(){
+</strong>          
+        return Promise.any([
+              MockApi.run({ name: 1 }), // if name:1 finished early
+              MockApi.run({ name: 2 })
+        ]).then((res) => {
+          showAlert(`Winner: ${res.args.name}`) // Alert Message showns as "Winner: 1" 
+        });
+      })()
 }}
-```
+</code></pre>
 
 在这个例子中：
 
@@ -92,22 +91,21 @@ JavaScript Promise有几个内置方法。
 
 **方法二：Promise.race()**
 
-它等待第一个已确定的Promise、fulfilled或rejected，以获得结果。`Promise.race()`当您只需要一个动作/承诺来完成执行时，您可以使用。
+它等待第一个已确定的Promise、fulfilled或rejected，以获得结果。`Promise.race()`当您只需要一个action/promise来完成执行时，您可以使用。
 
 例子：
 
-```
-{{
-(function(){
-    return  Promise.race([
-            MockApi.run({ name: 1 }),
-            MockApi.run({ name: 2 })
-    ]).then((res) => {
-        showAlert(`Winner: ${res.args.name}`)
-    });
-})()
+<pre class="language-javascript"><code class="lang-javascript">{{
+<strong>        (function(){
+</strong>            return  Promise.race([
+                    MockApi.run({ name: 1 }),
+                    MockApi.run({ name: 2 })
+            ]).then((res) => {
+                showAlert(`Winner: ${res.args.name}`)
+            });
+        })()
 }}
-```
+</code></pre>
 
 在示例中：
 
@@ -121,19 +119,19 @@ JavaScript Promise有几个内置方法。
 
 例子：
 
-```
+```javascript
 {{
-(function(){
-    let employeeNames = ["Employee 1","Employee 2"];
-    // Start a bunch of calls running in parallel and store returned promise
-    const calls = employeeNames.map(employeeName => MockApi.run({ name: employeeName }));
-    
-    // Wait for all to finish (or any to reject).
-    return Promise.all(calls)
-            .then(() => showAlert('Promise.all - All successful'))
-            .catch(() => showAlert('Promise.all - Something went wrong'))
-            .finally(() => showAlert('Promise.all - finished'))
-})()
+    (function(){
+        let employeeNames = ["Employee 1","Employee 2"];
+        // Start a bunch of calls running in parallel and store returned promise
+        const calls = employeeNames.map(employeeName => MockApi.run({ name: employeeName }));
+        
+        // Wait for all to finish (or any to reject).
+        return Promise.all(calls)
+                .then(() => showAlert('Promise.all - All successful'))
+                .catch(() => showAlert('Promise.all - Something went wrong'))
+                .finally(() => showAlert('Promise.all - finished'))
+    })()
 }}
 ```
 
@@ -149,19 +147,19 @@ JavaScript Promise有几个内置方法。
 
 例子：
 
-```
+```javascript
 {{
-(function(){
-  let employeeNames = ["Employee 1","Employee 2"];
-  // Start a bunch of calls running in parallel and store returned promise
-  const calls = employeeNames.map(employeeName => MockApi.run({ name: employeeName }));
-  
-  // Wait for all to resolve / reject.
-  return Promise.allSettled(calls)
-        .then(() => showAlert('Promise.allSettled - All successful'))
-        .catch(() => showAlert('Promise.allSettled - Something went wrong'))
-        .finally(() => showAlert('Promise.allSettled - finished'))
-})()
+  (function(){
+    let employeeNames = ["Employee 1","Employee 2"];
+    // Start a bunch of calls running in parallel and store returned promise
+    const calls = employeeNames.map(employeeName => MockApi.run({ name: employeeName }));
+    
+    // Wait for all to resolve / reject.
+    return Promise.allSettled(calls)
+          .then(() => showAlert('Promise.allSettled - All successful'))
+          .catch(() => showAlert('Promise.allSettled - Something went wrong'))
+          .finally(() => showAlert('Promise.allSettled - finished'))
+  })()
 }}
 ```
 
@@ -177,9 +175,9 @@ JavaScript Promise有几个内置方法。
 
 * PagePlug 中的大多数操作触发器都会返回Promise，因此您可以在继续之前附加一个`.then()`或`await`等待操作。
 * 所有触发器都包含在Promise中，因此任何遗漏的错误都会导致未捕获的Promise错误。
-* 附有返回承诺`.then()`，如下所示：
+* 附有返回promise`.then()`，如下所示：
 
-```
+```javascript
 {{
   (function() {
         // the .then only runs if a promise is returned
@@ -191,7 +189,7 @@ JavaScript Promise有几个内置方法。
 
 * 参数不再在`.then()`的参数中传递`action.run()`。只传递response，如下图：
 
-```
+```javascript
 {{
   (function() {
         // define params on top so that you can use them in the later calls
@@ -202,15 +200,13 @@ JavaScript Promise有几个内置方法。
             })
     })()
 }}
-
-
 ```
 
 ### 4、async和await
 
 async和await关键字可以让异步工作流能够以更干净的风格编写，从而避免了显式配置promise链的需要。
 
-* asynv
+* async
 
 `async`在函数前添加关键字总是返回一个promise。其他值自动包装在已解决的promise中
 
@@ -220,7 +216,7 @@ async和await关键字可以让异步工作流能够以更干净的风格编写�
 
 例子：
 
-```
+```javascript
 {{
     (async function(){ 
         const response = await MockApi.run({ name: 'PagePlug' }); 
