@@ -2,7 +2,7 @@
 
 JSON 表单组件支持通过JSON 字段快速生成表单，你可以将此表单绑定到查询或 API 以即时更新数据。
 
-<figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (117) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、数据
 

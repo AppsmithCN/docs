@@ -8,7 +8,7 @@
 
 要添加 MongoDB 数据源，**请点击左下角数据源旁边的( + ) 号，** 在数据库页面中选择MongoDB
 
-<figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (114) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、连接MongoDB
 
@@ -22,7 +22,7 @@ MongoDB支持URL或者主机地址的方式连接
 
 你可以通过标准方式使用 Mongo 的URL地址来选择连接
 
-<figure><img src="../../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (115) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 标准格式：
@@ -76,7 +76,7 @@ mongodb+srv://username:password@host:port/databaseName
 
 #### 2.2主机地址的方式连接
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (55) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **连接模式**：选择在建立与数据库的连接时授予PagePlug的权限。两种可用模式是：只读模式、读取/写入模式
 * **主机地址**：提供数据库服务器的主机名或 IP 地址。

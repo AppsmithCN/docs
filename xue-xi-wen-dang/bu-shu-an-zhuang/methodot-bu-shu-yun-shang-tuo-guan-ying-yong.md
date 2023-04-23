@@ -44,7 +44,7 @@
 
 * 选择部署应用所需的组件规格，<mark style="color:red;">**个人版及专业版套餐支持自定义域名**</mark>
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (84) (2).png" alt=""><figcaption></figcaption></figure>
 
 配置好后，点击确定进行部署
 
@@ -56,7 +56,7 @@
 
 <figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Pageplug搭建完成
 

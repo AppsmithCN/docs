@@ -86,7 +86,7 @@ Docker安装完后，之后我们点击下方链接，点击下载**docker-compo
 
 {% embed url="https://lowcode.methodot.com/app/pageplug/page1-63160074cb370d532de7f2af?embed=1" %}
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135) (1).png" alt=""><figcaption></figcaption></figure>
 
 1、首先我们现在D盘（或者任意一个磁盘）创建一个PagePlug的文件夹
 
@@ -94,7 +94,7 @@ Docker安装完后，之后我们点击下方链接，点击下载**docker-compo
 
 2、将下载的**docker-compose.yml**文件放入到pageplug文件夹中
 
-<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、按WIN+R进入运行窗口，打开cmd窗口
 
@@ -124,7 +124,7 @@ cd pageplug
 docker-compose up -d
 ```
 
-<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129) (1).png" alt=""><figcaption></figcaption></figure>
 
 7、会进入下载状态，耐心稍等几分钟
 
@@ -144,7 +144,7 @@ docker-compose up -d
 点击文件夹右键——属性——安全，对组和对象权限进行修改
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (73) (1).png" alt=""><figcaption></figcaption></figure>
 
 9、之后打开浏览器输入<mark style="color:red;">**localhost**</mark>，就会看到下面的页面，PagePlug启动成功了
 
@@ -232,7 +232,7 @@ Docker安装完后，之后我们点击下方链接，点击下载**docker-compo
 
 {% embed url="https://lowcode.methodot.com/app/pageplug/page1-63160074cb370d532de7f2af?embed=1" %}
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135) (1).png" alt=""><figcaption></figcaption></figure>
 
 **1、我们可以先在桌面端创建一个pageplug文件夹**
 

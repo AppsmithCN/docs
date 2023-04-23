@@ -71,7 +71,7 @@ java
 javac
 ```
 
-<figure><img src="../../.gitbook/assets/image (69) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 出现这样一堆东西，环境已经配置好了
 
@@ -95,7 +95,7 @@ javac
 
 * 将下载好的apache-maven-3.9.0解压到java文件夹下
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       1.2.3配置环境变量
 
@@ -518,6 +518,12 @@ bash ./build.sh -DskipTests
 * 检查是否有了dist文件夹
 
 <figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+如果没有出现上面所示的plugins包，可以看下图修改下，之后再去运行一下 bash ./build.sh -DskipTestsbash&#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 ### 3.5启动java服务
 

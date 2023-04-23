@@ -11,7 +11,7 @@
 | 图标      | 可以配置按钮图标的样式  |
 | onClick | 可以设置点击按钮后的动作 |
 
-<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (131) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、属性2
 
@@ -22,7 +22,7 @@
 | 禁用      | 使该组件不可点击或不可用。该组件对用户保持可见，但不允许用户交互。                |
 | 加载时显示动画 | 您可以使用拨动开关将其打开/关闭。您还可以使用 JavaScript 关闭/打开它        |
 
-<figure><img src="../../../.gitbook/assets/image (115) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (115) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、动作
 
@@ -39,7 +39,7 @@
 | 边框圆角 | 对按钮边框样式进行修改                   |
 | 阴影   | 对按钮样式调整阴影大小                   |
 
-<figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (120) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

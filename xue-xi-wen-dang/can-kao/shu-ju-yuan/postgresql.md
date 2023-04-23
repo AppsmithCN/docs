@@ -8,7 +8,7 @@
 
 要添加 PostgreSQL 数据源，**请点击左下角数据源旁边的( + ) 号，** 在数据库页面中选择PostgreSQL
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、连接PostgreSQL
 
@@ -31,7 +31,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (104) (2).png" alt=""><figcaption></figcaption></figure>
 
 [可以使用标准SQL 语法](https://www.postgresql.org/docs/12/index.html)查询 PostgreSQL 数据库。所有 PostgreSQL 查询都返回一个对象数组，其中每个对象都是查询返回的一行，对象中的每个属性都是一列。
 

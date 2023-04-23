@@ -14,7 +14,7 @@ PagePlug中的表单组件可以满足您捕获输入的数据并将其连接到
 | 加载时显示动画 | 关闭时，该组件加载时不会有任何动画。您可以使用拨动开关将其打开/关闭。您还可以通过启用旁边的 JS 标签使用 javascript 将其关闭/打开。                                                                                                              |
 | 高度      | <p>可对组件的高度进行配置：</p><p><br><strong>固定</strong>：使用拖动和调整大小，组件的高度保持设置不变。<br><strong>自动高度</strong>：组件的高度对内容变化做出反应。<br><strong>区间自动高度：</strong>与 Auto height 相同，具有可配置选项以设置组件可以占用的最小和最大行数。</p> |
 
-<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (136) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

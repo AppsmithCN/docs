@@ -14,11 +14,11 @@ PagePlug 支持 MySQL 版本 5.5、5.6、5.7 和 8.0。
 
 要添加 MySQL 数据源，请单击**数据源旁边的 ( + )** 号。在下一个屏幕上，选择**MySQL**按钮。
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、连接MySQL
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption><p>mysql连接页面</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (59) (2).png" alt=""><figcaption><p>mysql连接页面</p></figcaption></figure>
 
 {% hint style="info" %}
 如果你想连接自己本地的数据库，你可以用ngrok来穿透。有关详细信息，请参阅如何连接到 PagePlug 上的本地数据库。
@@ -39,11 +39,11 @@ PagePlug 支持 MySQL 版本 5.5、5.6、5.7 和 8.0。
 
 你可以通过选择 MySQL数据源下的表来<mark style="color:red;">**新建查询，**</mark>支持Select、INSERT、UPDATE、DELETE四种方式
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34) (3).png" alt=""><figcaption></figcaption></figure>
 
 或者可以点击对应的数据源，点击新建查询，方便后续编写查询以获取数据或将数据写入 MySQL 数据库。
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 #### 1、SELECT方式
 
@@ -53,7 +53,7 @@ PagePlug 支持 MySQL 版本 5.5、5.6、5.7 和 8.0。
 SELECT * FROM users ORDER BY id LIMIT 10;
 ```
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 强烈建议像示例一样使用`LIMIT`运算符，以防止一次查询大量数据。您还可以阅读有关如何对[数据进行分页的信息](https://docs.appsmith.com/reference/widgets/table#server-side-pagination)。
@@ -65,7 +65,7 @@ SELECT * FROM users ORDER BY id LIMIT 10;
 {{ query_name.data }}
 ```
 
-<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (69) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2、INSERT方式
 

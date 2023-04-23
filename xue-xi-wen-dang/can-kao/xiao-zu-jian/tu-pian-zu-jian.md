@@ -11,7 +11,7 @@
 | 图片   | 设置图像的来源。支持图像 URL、数据 URI 或 base64 编码图像数据           |
 | 默认图片 | 当图片加载不出来时，将显示该图像。接受图像 URL、数据 URI 或 base64 编码图像数据。 |
 
-<figure><img src="../../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (130) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、属性
 
@@ -32,7 +32,7 @@
 | ------- | ------------- |
 | onClick | 点击图片组件时候触发的动作 |
 
-<figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (134) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、动作
 

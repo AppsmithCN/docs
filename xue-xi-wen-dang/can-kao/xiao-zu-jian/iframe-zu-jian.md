@@ -1,6 +1,6 @@
 # Iframe组件
 
-<figure><img src="../../../.gitbook/assets/image (114) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (114) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@
 | 标题      | 为 iframe 内容设置标题。此标题出现在 iframe 的 HTML 标记 ( `<iframe ... title="MyTitle">`) 和小部件的内部`IFrame1.title`属性中。 |
 | 加载时显示动画 | 您可以使用拨动开关将其打开/关闭。您还可以使用 JavaScript 关闭/打开它                                                            |
 
-<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (132) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、事件
 
@@ -30,7 +30,7 @@
 | onSrcDocChanged   | 设置内嵌HTML变化时触发的动作，或者您可以定义一个自定义 JavaScript 函数来调用  |
 | onMessageReceived | 设置嵌入页面接收到事件时触发的动作，或者您可以定义一个自定义 JavaScript 函数来调用 |
 
-<figure><img src="../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (118) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、样式
 
@@ -42,7 +42,7 @@
 | 边框圆角  | 对Iframe组件的边框样式进行修改    |
 | 阴影    | 调整Iframe组件整体阴影大小      |
 
-<figure><img src="../../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (137) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -60,7 +60,7 @@
 
 **用PagePlug的Iframe组件开发一个视频网站门户**
 
-<figure><img src="../../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (123) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

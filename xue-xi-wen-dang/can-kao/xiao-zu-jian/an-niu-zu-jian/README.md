@@ -62,7 +62,7 @@
 | 边框圆角 | 对按钮边框样式进行修改                        |
 | 阴影   | 对按钮样式调整阴影大小                        |
 
-<figure><img src="../../../../.gitbook/assets/image (73) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (73) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 7、JS代码
 

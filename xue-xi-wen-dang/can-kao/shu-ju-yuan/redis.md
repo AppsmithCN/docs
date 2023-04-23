@@ -6,7 +6,7 @@
 
 * PagePlug需要以下信息才能连接到Redis实例
 
-<figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (106) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Host Address：填写数据库服务器的主机名或 IP 地址。
 * Port：填写连接到数据库的端口。

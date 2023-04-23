@@ -20,7 +20,7 @@
 | 文本 | 可以设置输入框上方的标题文本                 |
 | 位置 | 可以设置输入框与标题文本的位置，支持“自动”、“左”、“右” |
 
-<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (141) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、校验
 

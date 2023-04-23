@@ -38,7 +38,7 @@
 | -- | --------- |
 | 文本 | 设置按钮展示的文本 |
 
-<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (138) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、校验
 
@@ -47,7 +47,7 @@
 | 必填     | 可以设置按钮是否为必选选项 |
 | 最大上传大小 | 配置每个上传文件最大上限  |
 
-<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (119) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、属性
 
