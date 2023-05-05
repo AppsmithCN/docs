@@ -1,36 +1,103 @@
 ---
 description: >-
-  PagePlug
-  是一款帮助企业应用开发更便捷的软件，可快速创建内部应用程序。使用我们基于JavaScript的可视化开发平台，构建CRUD应用程序、仪表板、管理面板等的速度提高10倍。
-  您可以使用我们预先构建的UI小部件，将它们连接到您的API和数据库，以构建动态应用程序和复杂的工作流程。旨在为企业提供一套成本更低、人效更佳的开发方式。
+  PagePlug是Appsmith中国化项目，基于Appsmith做了整体性能的优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等
 ---
 
 # 核心介绍
 
+## 1、产品定位
+
+{% hint style="info" %}
+**PagePlug理念：**面向研发使用的低代码平台，拒绝重复、低价值的工单循环开发
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+PagePlug与市面上其他的低代码（轻流、宜搭、微搭、简道云、轻流、活字格等等），后者更倾向于非编程人员使用，业务线人员自行构建应用程序。而PagePlug这款低代码产品是面向To D研发人群使用的，它旨在加速开发人员的开发过程。
+
+虽然PagePlug与其他无代码、低代码平台一样都是为了让人们更轻松地创建应用程序和自动化流程，但其支持API和数据管理功能的强大和灵活性更高，因此对于需要更高度定制和更广泛的操作的用户，PagePlug可能是更好的选择。
+
+* 市场评选
+
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+## 2、PagePlug优势介绍 <a href="#nin-ke-yi-shi-yong-appsmith-zuo-shen-me" id="nin-ke-yi-shi-yong-appsmith-zuo-shen-me"></a>
+
+* 业务人员的低代码：拖拉组件拼接（组件无法支持特定个性化功能的实现）
+* 传统的开发流程：数据库搭建→后端代码→[前端代码](https://www.zhihu.com/search?q=%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81\&search\_source=Entity\&hybrid\_search\_source=Entity\&hybrid\_search\_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2962639921%7D)→部署构建
+* <mark style="color:red;">**PagePlug上：数据库搭建→PagePlug上界面化构建（个性化需求可以在组件内添加代码）**</mark>
+
+#### 优势总结：
+
+* **更强大的可视化建模工具**
+
+PagePlug拥有非常直观和灵活的可视化建模工具，如表格、图表、表单、按钮等。这些组件都是经过优化和测试的，可以满足大多数业务需求，从而减少开发人员的工作量，避免大量的编码工作和测试工作。可以让开发人员根据需要更容易地拖放和配置各种组件，创建自定义表单、报告和应用程序，无需重复编写复杂的代码，而且整个软件的维护更加轻便
+
+<figure><img src="https://pic1.zhimg.com/80/v2-a758c4b99c47e5cfc111371c90e235ae_1440w.png?source=d16d100b" alt=""><figcaption></figcaption></figure>
+
+* **更广泛的API支持**
+
+PagePlug支持大量的第三方API集成，包括数据存储、消息队列、文件上传等，可以让开发人员更轻松地集成各种功能，可以与自己的应用程序进行无缝集成，扩展应用程序的功能。
+
+<figure><img src="https://picx.zhimg.com/80/v2-ca0565fca624842b0ddbb92b91b83af9_1440w.png?source=d16d100b" alt=""><figcaption></figcaption></figure>
+
+* **更完善的数据管理功能：**
+
+PagePlug提供了强大的数据管理工具，让用户可以轻松地编写和执行SQL查询语句，管理数据库、表格以及其他数据资源。相较于其他低代码平台，PagePlug连接api及数据库服务器无需手动配置，内置引擎充分支持。
+
+<figure><img src="https://pica.zhimg.com/80/v2-553d79cf08e3517cfb05b2b13c321aa4_1440w.png?source=d16d100b" alt=""><figcaption></figcaption></figure>
+
+* **更强大的扩展性：**
+
+PagePlug支持任意一处使用JavaScript编写自定义代码，目前也支持添加第三方JS库，可以方便地自定义组件和控制逻辑，从而更好地实现个性化需求
+
+<figure><img src="https://picx.zhimg.com/80/v2-c9eee7b5aff6fb16363d9c6684747c58_1440w.png?source=d16d100b" alt=""><figcaption><p>支持数据查看窗，开发更友好</p></figcaption></figure>
+
+<figure><img src="https://pic1.zhimg.com/80/v2-9aa905fd6da588ce98e0702d1738e7bf_1440w.png?source=d16d100b" alt=""><figcaption></figcaption></figure>
+
+* **更好的安全性支持**
+
+PagePlug提供很多针对安全性的支持，包括身份验证、授权、加密、审计等，可以保证你的应用程序安全可靠。
+
+## 3、特色功能组件介绍
+
+* iframe嵌入，开发的应用及页面更方便嵌入
+
+<figure><img src="https://picx.zhimg.com/80/v2-05b6c84ab616cb033e5dfddc11d2e3af_1440w.png?source=d16d100b" alt=""><figcaption></figcaption></figure>
+
+* 全新的低代码开发小程序
+
+<figure><img src="https://picx.zhimg.com/80/v2-0d52e2132aacea81be5b16b8c6339308_1440w.png?source=d16d100b" alt=""><figcaption></figcaption></figure>
 
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>pageplug.cn</p></figcaption></figure>
 
-## 1、​您可以使用PagePlug做什么？​ <a href="#nin-ke-yi-shi-yong-appsmith-zuo-shen-me" id="nin-ke-yi-shi-yong-appsmith-zuo-shen-me"></a>
+<figure><img src="https://pic1.zhimg.com/80/v2-289719f4e472ad0d3b0c99470749a962_1440w.gif?source=d16d100b" alt=""><figcaption></figcaption></figure>
 
-以下是Pageplug的前五个用例：
+* **表单解决方案领域的佼佼者：Formily**
 
-* **连接任何数据源**: 与数据库或 API 等数据源集成。PagePlug 对许多数据库和 RESTful API 接口提供即插即用支持，可与大多数工具无缝连接。
-* **构建 UI**：使用可自定义的内置小部件来构建应用程序布局。
-* **访问数据**：通过编写查询并将数据绑定到小部件，将 UI 连接到数据源。用 JavaScript 控制一切。
-* **协作、部署、共享：**PagePlug还支持使用 Git 进行版本控制，以跟踪更改、创建回滚并使用 git 分支进行协作。部署应用程序并与其他用户共享。
+<figure><img src="https://picx.zhimg.com/80/v2-dcec6f0c5914e9c83367f393f10d83fc_1440w.png?source=d16d100b" alt=""><figcaption><p>一站式解决表单烦恼</p></figcaption></figure>
 
-数据库是每个应用程序的重要组成部分，用于存储和管理数据。在 PagePlug 上，您可以直接连接到支持的数据库并运行查询以在PagePlug查询编辑器上读取和写入数据。
+<figure><img src="https://picx.zhimg.com/80/v2-37b7c18341b9e32fae95753e1dec924a_1440w.gif?source=d16d100b" alt=""><figcaption></figcaption></figure>
+
+**优点：**
+
+1. 可读性可维护性强：Formily 表单的数据和布局等元素与常规 React/Redux 技术栈读起来十分舒畅且易于理解。因此维护其代码并非太具挑战性。Formily 实现了完全在 React.js 基础之上的自主算法，所以表单数据响应的更加完美，而且响应式的反应更加确定性，帮助您更快地找到错误与进行重构。
+2. 高性能：Formily 经过高度优化，表单提交数据粒度优化，加速表单渲染、更新和交互，使得表单在数据处理和渲染方面都有更好的性能。同时在表单提交数据方面设计，使得前后端的接口数据交换得到了优化。
+
+* **更快捷简单的图表解决方案：Echart**
+
+<figure><img src="https://pic1.zhimg.com/80/v2-2e500e9a4f141817210e74c2e73a4e65_1440w.png?source=d16d100b" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://picx.zhimg.com/80/v2-ab5da174d8b6090aacdf9780dbb573ea_1440w.gif?source=d16d100b" alt=""><figcaption></figcaption></figure>
+
+优点：
+
+1. 支持丰富的图表类型：ECharts 提供了多种常用的图表类型，如线图、柱状图、饼图、散点图、地图等。而且它的可扩展性非常高，用户可以根据自己的需求进行扩展。
+2. 轻量级高性能：ECharts 的代码库非常小，压缩后只有几十 KB，因此加载速度非常快。而且 ECharts 采用 Canvas 渲染技术，性能非常高，可以处理大量数据，并且保持流畅的交互体验。
 
 
 
-
-
-通过这些简单的步骤，您可以为复杂的多步骤工作流创建简单的 CRUD 应用程序。PagePlug 可以轻松构建与任何数据源对话的 UI。观看这个5分钟的视频，了解如何使用 PagePlug。[去bilibili观看中文字幕版](https://www.bilibili.com/video/BV1dg411Q7PG?zw\&vd\_source=1a6805ecebcf8f2c6ac95a3bc7c11495)​入门教程**（可以点个赞和收藏多支持下哟）**
-
-{% embed url="https://www.bilibili.com/video/BV1dg411Q7PG?t=0.0" %}
-
-## 2、Demo项目体验： <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
+## 4、Demo项目体验： <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
 
 &#x20;   **2.1工程管理系统demo**
 
@@ -46,7 +113,7 @@ description: >-
 
 
 
-## 3、快速开始 <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
+## 5、快速开始 <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
 
 ### 🌱3.1 线上稳定SaaS版本，**Methodot（推荐）**
 
@@ -163,7 +230,7 @@ yarn dev:weapp
 
 
 
-## 4、参与PagePlug开源
+## 6、参与PagePlug开源
 
 {% hint style="info" %}
 💪🏻PagePlug的发展进步，离不开社区、开源小组每一位成员的努力及付出
@@ -185,7 +252,7 @@ yarn dev:weapp
 PagePlug愿与你一同前行，欢迎加入：[**PagePlug开源团队**](jie-shao/jia-ru-wo-men/)
 {% endhint %}
 
-### 4.1开源小分队
+### 6.1开源小分队
 
 
 
@@ -219,7 +286,7 @@ PagePlug愿与你一同前行，欢迎加入：[**PagePlug开源团队**](jie-sh
 
 
 
-### 4.2个人尝试
+### 6.2个人尝试
 
 PagePlug非常需要你的发现及自荐feature，我们接纳任何可行有益的建议，相信都会有助于提升整个项目的质量，哪怕是一个标点符号都会值得肯定👍🏻
 
@@ -247,7 +314,7 @@ PagePlug非常需要你的发现及自荐feature，我们接纳任何可行有�
 
 
 
-## 5、社区优质作品
+## 7、社区优质作品
 
 我们非常欢迎社区的同学们多分享一些PagePlug的使用想法及心得，我们也会通过我们的平台，对大家沉淀的内容进行宣传及分享，如果有好的想法及idea，非常欢迎来社区分享你的内容及作品
 

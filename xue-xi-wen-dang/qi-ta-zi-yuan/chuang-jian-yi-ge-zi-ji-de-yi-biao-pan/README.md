@@ -22,7 +22,7 @@ P
 * 首先，单击`+`旁边的图标`Datasources`。
 * 接下来，您将看到可以连接到的数据源选项列表，选择`PostgreSQL`
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -49,7 +49,7 @@ P
 
 * 我们可以对数据库新建一个查询，后续在页面中使用它
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
