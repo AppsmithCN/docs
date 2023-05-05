@@ -35,7 +35,7 @@
 | 普通校验 | 设置一个表达式来决定输入的内容是否被认为是有效的。当表达式的计算结果为`false`时，输入被视为无效并且组件会显示**错误消息**。 |
 | 错误信息 | 当输入的内容为无效时展示的文本                                                     |
 
-<figure><img src="../../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **正则表达式例子：**
 

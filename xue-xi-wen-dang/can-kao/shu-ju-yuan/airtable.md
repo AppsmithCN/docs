@@ -10,7 +10,7 @@
 
 如下图所示配置 Airtable 数据源，Papgplug 允许您从可用的身份验证类型中进行选择，以与 Airtable 数据库集成：：
 
-<figure><img src="../../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **API KEY：**[Airtable API](https://support.airtable.com/hc/en-us/articles/219046777-How-do-I-get-my-API-key-)密钥允许您使用公共 API 在您在 Airtable 中有权访问的[基础](https://support.airtable.com/hc/en-us/articles/202576419-Introduction-to-Airtable-bases)上创建、获取、更新和删除记录。
 * **Bearer Token：**是 OAuth 2.0 使用的主要Token

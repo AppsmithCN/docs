@@ -201,7 +201,7 @@ PagePlug愿与你一同前行，欢迎加入：[**PagePlug开源团队**](jie-sh
 
 👩🏻‍💻扛把子：DD
 
-🙋🏻‍♂️成员：Chris
+🙋🏻‍♂️成员：Chris、无名、嘉志
 
 
 

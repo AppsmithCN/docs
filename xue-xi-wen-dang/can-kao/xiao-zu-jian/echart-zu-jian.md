@@ -21,7 +21,7 @@
 callFunc(widgetName:string, funcName:string, option?:any) => Promise()
 ```
 
-![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (4).png>)
 
 ```javascript
 global.echartInstance
@@ -45,7 +45,7 @@ global.echartInstance
 
 下图示范调用: 点击图表是调用 实例的 getHeight方法&#x20;
 
-![](<../../../.gitbook/assets/image (19) (1).png>)
+![](<../../../.gitbook/assets/image (19) (1) (1).png>)
 
 #### 4.为什么我的formatter: function类型不起作用
 
@@ -61,7 +61,7 @@ detail: {
 },
 ```
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)
 
 {% hint style="warning" %}
 需要注意的是，序列化的内容中，包括function内部以外的，上下文变量的引用会找不到

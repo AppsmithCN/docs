@@ -2,7 +2,7 @@
 
 PagePlug支持自定义 Javascript 库了！！！能为 PDF 生成、CSV 解析、分析、身份验证、错误记录等复杂用例提供了更高级的功能，还能支持您通过自定义库来操作或转换数据，这些外部库提供了额外的方法来帮助您构建复杂的应用程序和业务逻辑。
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、库的兼容性
 

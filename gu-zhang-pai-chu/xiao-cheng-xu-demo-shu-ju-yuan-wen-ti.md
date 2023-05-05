@@ -26,7 +26,7 @@
 
 2. 填写项目名称和描述，点击“创建”
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (3).png" alt=""><figcaption></figcaption></figure>
 
 3. 进入到架构图编排页面，需要从左侧，拖拽两个“镜像”类型组件
 
@@ -97,11 +97,11 @@
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 拿到已经部署好的服务地址，可以替换您的“行云严选”小程序demo中的数据源前缀了
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 数据源只需要修改保存一次，使用了本数据源的api接口会自动同步修改，接口运行成功，预览试试吧👻
 

@@ -1,6 +1,6 @@
 # 社区作品集
 
-在这里，你可以看到社区同学们通过PagePlug开发的应用案例及解决方案，一起观摩学习吧🙋🏻‍♂️
+在这里，你可以看到社区同学们通过PagePlug开发的应用案例及解决方案，一起观摩学习吧🙋🏻‍♂️；也欢迎社区的同学们勇于
 
 &#x20;
 
@@ -28,13 +28,21 @@
 
 ### 2、流程审批类
 
+* **PagePlug社区6群—无名**
 
+{% hint style="info" %}
+2022年开发的**IT运维工单系统**，对工单的内容进行统一管理，完成日常工单的提交、受理、暂存、指派，已经投入到企业日常使用中，也集合了[企业微信的单点登录集成](shi-yong-ji-qiao-ji-fang-fa-fen-xiang.md#1pageplug-qi-ye-wei-xin-dan-dian-deng-lu-ji-cheng)，对工单消息的提示
+{% endhint %}
 
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>工单池处理页面</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>工单提交/详情页面</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>企业微信工单状态提醒</p></figcaption></figure>
 
+**IT工单系统文件体验：**
 
-
+{% file src="../../.gitbook/assets/IT工单管理系统 —PagePlug社区6群无名作品.json" %}
 
 ### 3、应用系统类
 

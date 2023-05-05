@@ -12,6 +12,7 @@
 
 ## 💪 学习文档
 
+* [配置邮箱服务](xue-xi-wen-dang/pei-zhi-you-xiang-fu-wu.md)
 * [PagePlug的JS库](xue-xi-wen-dang/pageplug-de-js-ku/README.md)
   * [支持添加第三方JS库](xue-xi-wen-dang/pageplug-de-js-ku/zhi-chi-tian-jia-di-san-fang-js-ku.md)
 * [编写JS对象](xue-xi-wen-dang/bian-xie-js-dui-xiang/README.md)
@@ -106,7 +107,8 @@
     * [合并分支](xue-xi-wen-dang/qi-ta-zi-yuan/shi-yong-git-jin-hang-ban-ben-kong-zhi/he-bing-fen-zhi.md)
     * [断开 Git 储存库](xue-xi-wen-dang/qi-ta-zi-yuan/shi-yong-git-jin-hang-ban-ben-kong-zhi/duan-kai-git-chu-cun-ku.md)
     * [更新本地文件路径](xue-xi-wen-dang/qi-ta-zi-yuan/shi-yong-git-jin-hang-ban-ben-kong-zhi/geng-xin-ben-di-wen-jian-lu-jing.md)
-  * [创建一个自己的仪表盘](xue-xi-wen-dang/qi-ta-zi-yuan/chuang-jian-yi-ge-zi-ji-de-yi-biao-pan.md)
+  * [创建一个自己的仪表盘](xue-xi-wen-dang/qi-ta-zi-yuan/chuang-jian-yi-ge-zi-ji-de-yi-biao-pan/README.md)
+    * [源码本地化部署（Mac版）未更新完](xue-xi-wen-dang/qi-ta-zi-yuan/chuang-jian-yi-ge-zi-ji-de-yi-biao-pan/yuan-ma-ben-di-hua-bu-shu-mac-ban-wei-geng-xin-wan.md)
 * [嵌入到网站HTML](xue-xi-wen-dang/qian-ru-dao-wang-zhan-html.md)
 * [版本迁移教程](xue-xi-wen-dang/ban-ben-qian-yi-jiao-cheng.md)
 * [部署安装](xue-xi-wen-dang/bu-shu-an-zhuang/README.md)
@@ -119,6 +121,7 @@
 ## 🕵 案例演示
 
 * [初阶学习](an-li-yan-shi/chu-jie-xue-xi/README.md)
+  * [表单案例—开关控制输入框](an-li-yan-shi/chu-jie-xue-xi/biao-dan-an-li-kai-guan-kong-zhi-shu-ru-kuang.md)
   * [导航定向页面示例](an-li-yan-shi/chu-jie-xue-xi/dao-hang-ding-xiang-ye-mian-shi-li.md)
   * [文件上传按钮示例](an-li-yan-shi/chu-jie-xue-xi/wen-jian-shang-chuan-an-niu-shi-li.md)
   * [数据库自动生成页面示例](an-li-yan-shi/chu-jie-xue-xi/shu-ju-ku-zi-dong-sheng-cheng-ye-mian-shi-li.md)

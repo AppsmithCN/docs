@@ -14,7 +14,7 @@
 
 在methodot的应用商店部署一个http服务器商品
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (3).png" alt=""><figcaption></figcaption></figure>
 
 部署成功后会有一个url地址
 
@@ -26,7 +26,7 @@
 
 ### 3、在PagePlug新建一个api
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、编辑api
 
@@ -50,7 +50,7 @@
 
 ### 5、对组件进行绑定
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 1、支持文件类型：选择任意文件类型
@@ -60,8 +60,8 @@
 3、事件：执行查询——选择“http\_file”api——消息提醒——提示消息：yes——提示类型：成功（后续动作可自行发挥～～）
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 6、可以在http服务器上查看下自己上传的文件
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>

@@ -163,7 +163,7 @@ PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议
 
 * 配置网络服务：新增一个网络网络服务，选择TCP，端口为27017
 
-<figure><img src="../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 如果用到更复杂的，可以自行添加映射配置文件、环境变量、执行命令等等
 
@@ -398,7 +398,7 @@ Local repository可以修改或者不修改，默认在C盘，如果担心C盘�
 
 * 看下在Maven的设置里面，是否勾选了这2个选项
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 关注确认一下，右边菜单栏是否显示Maven！！！

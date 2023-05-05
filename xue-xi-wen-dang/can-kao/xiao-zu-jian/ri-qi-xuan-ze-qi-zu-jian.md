@@ -2,7 +2,7 @@
 
 &#x20;可以在前端获取用户输入的日期及时间
 
-<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、数据
 
@@ -22,7 +22,7 @@
 | 文本 | 可设置日期选择框上方的文本                     |
 | 位置 | 可以设置文本与日期选择框的位置排序，分别为“自动”、“左”、“右” |
 
-<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、校验
 
