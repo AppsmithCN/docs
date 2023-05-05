@@ -99,13 +99,17 @@ PagePlug提供很多针对安全性的支持，包括身份验证、授权、加
 
 ## 4、Demo项目体验： <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
 
-&#x20;   **2.1工程管理系统demo**
+&#x20;   **4.1工程管理系统demo**
 
 {% embed url="https://lowcode.methodot.com/applications/6322a1453892ca140cb874d5/pages/6322a1453892ca140cb874e3" %}
 
-&#x20; **2.2企业CRM系统demo**
+&#x20; **4.2企业CRM系统demo**
 
 {% embed url="https://lowcode.methodot.com/applications/6322a6d63892ca140cb87551/pages/6322a6d63892ca140cb87555?embed=1" %}
+
+#### &#x20;   4.3行云严选小程序
+
+{% embed url="https://lowcode.methodot.com/applications/640042ebde5d5825c7acfd91/pages/640042ebde5d5825c7acfdae/?hmsr=G1&hmpl=A3" %}
 
 * 在右侧菜单中选择导入即可体验
 
@@ -115,7 +119,7 @@ PagePlug提供很多针对安全性的支持，包括身份验证、授权、加
 
 ## 5、快速开始 <a href="#chuang-jian-zhang-hu" id="chuang-jian-zhang-hu"></a>
 
-### 🌱3.1 线上稳定SaaS版本，**Methodot（推荐）**
+### 🌱5.1 线上稳定SaaS版本，**Methodot（推荐）**
 
 <figure><img src=".gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>methodot.com</p></figcaption></figure>
 
@@ -125,7 +129,7 @@ PagePlug提供很多针对安全性的支持，包括身份验证、授权、加
 使用教程，请点击这里：[**线上PagePlug体验**](xue-xi-wen-dang/bu-shu-an-zhuang/xian-shang-pageplugsaas-ban.md)
 {% endhint %}
 
-### 🌱3.2私有部署【Docker】
+### 🌱5.2私有部署【Docker】
 
 
 
@@ -146,7 +150,7 @@ chmod +x install.sh
 详细安装教程，请点击这里：[**私有化部署（含docker安装教程）**](xue-xi-wen-dang/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)
 {% endhint %}
 
-### &#x20;  🌱 3.3本地开发
+### &#x20;  🌱 5.3本地开发
 
 PagePlug 代码位于 /app 目录下，主要目录分别是：
 
