@@ -67,7 +67,7 @@
       * [谷歌Re-Captcha服务](xue-xi-wen-dang/can-kao/xiao-zu-jian/an-niu-zu-jian/gu-ge-recaptcha-fu-wu.md)
     * [音频组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/yin-pin-zu-jian.md)
 * [框架学习](xue-xi-wen-dang/kuang-jia-xue-xi/README.md)
-  * [context 对象](xue-xi-wen-dang/kuang-jia-xue-xi/context-dui-xiang.md)
+  * [global 对象](xue-xi-wen-dang/kuang-jia-xue-xi/global-dui-xiang.md)
   * [Query 对象](xue-xi-wen-dang/kuang-jia-xue-xi/query-dui-xiang.md)
   * [console对象](xue-xi-wen-dang/kuang-jia-xue-xi/console-dui-xiang.md)
 * [其他资源](xue-xi-wen-dang/qi-ta-zi-yuan/README.md)
