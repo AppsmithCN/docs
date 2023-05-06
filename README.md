@@ -327,7 +327,7 @@ PagePlug非常需要你的发现及自荐feature，我们接纳任何可行有�
 随着PagePlug项目的发展，您所做出的分享也会被更多行业及领域的同行们所了解认识
 
 {% hint style="info" %}
-PagePlug有无限的可能性，能够满足更多的使用场景，”创新“时刻都在发生，点击查看：[**社区成员们优秀的作品案例**](jie-shao/he-xin-jie-shao/she-qu-zuo-pin-ji.md)
+PagePlug有无限的可能性，能够满足更多的使用场景，”创新“时刻都在发生，点击查看：[**社区成员们优秀的作品案例**](he-xin-jie-shao/she-qu-zuo-pin-ji.md)
 {% endhint %}
 
 

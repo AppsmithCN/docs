@@ -1,10 +1,11 @@
 # Table of contents
 
-## 🥳 介绍
-
 * [核心介绍](README.md)
-  * [社区作品集](jie-shao/he-xin-jie-shao/she-qu-zuo-pin-ji.md)
-  * [使用技巧及方法分享](jie-shao/he-xin-jie-shao/shi-yong-ji-qiao-ji-fang-fa-fen-xiang.md)
+  * [社区作品集](he-xin-jie-shao/she-qu-zuo-pin-ji.md)
+  * [使用技巧及方法分享](he-xin-jie-shao/shi-yong-ji-qiao-ji-fang-fa-fen-xiang.md)
+
+## 🥳 了解PagePlug <a href="#jie-shao" id="jie-shao"></a>
+
 * [加入我们](jie-shao/jia-ru-wo-men/README.md)
   * [提交ISSUE](jie-shao/jia-ru-wo-men/ti-jiao-issue.md)
   * [提交Pull Request](jie-shao/jia-ru-wo-men/ti-jiao-pull-request.md)
