@@ -24,7 +24,7 @@ description: 目前formliy组件未跟pageplug打通，因此一些使用上提�
 
 ### 2.只要包含<mark style="color:yellow;">上传文件</mark>的组件，提交就报错
 
-<figure><img src="../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 使用 自定义请求<mark style="color:blue;">customRequest</mark> 替代默认的上传事件
 

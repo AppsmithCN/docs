@@ -70,6 +70,7 @@
   * [global 对象](xue-xi-wen-dang/kuang-jia-xue-xi/global-dui-xiang.md)
   * [Query 对象](xue-xi-wen-dang/kuang-jia-xue-xi/query-dui-xiang.md)
   * [console对象](xue-xi-wen-dang/kuang-jia-xue-xi/console-dui-xiang.md)
+  * [postWindowMessage()的使用](xue-xi-wen-dang/kuang-jia-xue-xi/postwindowmessage-de-shi-yong.md)
 * [其他资源](xue-xi-wen-dang/qi-ta-zi-yuan/README.md)
   * [连接到数据源](xue-xi-wen-dang/qi-ta-zi-yuan/lian-jie-dao-shu-ju-yuan/README.md)
     * [连接到数据库](xue-xi-wen-dang/qi-ta-zi-yuan/lian-jie-dao-shu-ju-yuan/lian-jie-dao-shu-ju-ku.md)
