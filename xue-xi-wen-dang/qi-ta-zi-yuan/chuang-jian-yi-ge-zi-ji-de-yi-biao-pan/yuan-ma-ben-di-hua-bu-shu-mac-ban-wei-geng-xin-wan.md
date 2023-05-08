@@ -67,7 +67,7 @@ sudo chmod 773 /etc/profile
 vim /etc/profile
 ```
 
-<figure><img src="../../../.gitbook/assets/image (19) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 添加以下内容
 

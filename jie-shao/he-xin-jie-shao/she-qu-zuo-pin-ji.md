@@ -34,7 +34,7 @@
 2022年开发的**IT运维工单系统**，对工单的内容进行统一管理，完成日常工单的提交、受理、暂存、指派，已经投入到企业日常使用中，也集合了[企业微信的单点登录集成](shi-yong-ji-qiao-ji-fang-fa-fen-xiang.md#1pageplug-qi-ye-wei-xin-dan-dian-deng-lu-ji-cheng)，对工单消息的提示
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>工单池处理页面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (3).png" alt=""><figcaption><p>工单池处理页面</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>工单提交/详情页面</p></figcaption></figure>
 

@@ -26,11 +26,11 @@ PagePlug支持多样的能力开发，满足研发的使用需求。例如我们
 
 * 进入按钮设置页面：
 
-<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 在按钮设置中，事件选择【保存数据】
 
-<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (138) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 键输入上面填写的变量【activeTab】，值选择标签页的【名称】，例如仓库
 
@@ -44,7 +44,7 @@ PagePlug支持多样的能力开发，满足研发的使用需求。例如我们
 
 或者我们可以将按钮切换成【菜单按键】，或者使用【菜单按钮】
 
-<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 设置3个菜单选项，例如【仓库库存】、【供应商】、【产品】
 
