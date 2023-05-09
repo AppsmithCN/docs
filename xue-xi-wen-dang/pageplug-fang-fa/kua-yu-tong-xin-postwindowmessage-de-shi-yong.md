@@ -9,7 +9,7 @@ description: >-
 
 **postWindowMessage()**可用于在应用程序或父窗口与iframe之间发送消息。
 
-```
+```javascript
 postWindowMessage(message, targetIframe, targetOrigin)
 ```
 
@@ -31,11 +31,11 @@ postWindowMessage(message, targetIframe, targetOrigin)
 
 #### &#x20;       2.1将一个名为inputMessage的Input组件和一个Button组件拖放到画布上。
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (4).png>)
 
 #### &#x20;       2.2在画布上放置一个名为iframeExample的Iframe组件。在html属性中，插入以下代码：
 
-```
+```html
 <div id="target"></div>
 
 <script>
@@ -58,9 +58,9 @@ window.addEventListener('message', (event) => {
 
 #### &#x20;       2.4 输入“你好呀”，点击**发送**
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2.5iframe收到消息
 
-<figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (2) (1).png" alt=""><figcaption></figcaption></figure>
 

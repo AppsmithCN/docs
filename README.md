@@ -11,7 +11,7 @@ description: >-
 **PagePlug理念：**面向研发使用的低代码平台，拒绝重复、低价值的工单循环开发
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (20) (3).png" alt=""><figcaption></figcaption></figure>
 
 PagePlug与市面上其他的低代码（轻流、宜搭、微搭、简道云、轻流、活字格等等），后者更倾向于非编程人员使用，业务线人员自行构建应用程序。而PagePlug这款低代码产品是面向To D研发人群使用的，它旨在加速开发人员的开发过程。
 
@@ -19,7 +19,7 @@ PagePlug与市面上其他的低代码（轻流、宜搭、微搭、简道云、
 
 * 市场评选
 
-<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 2、PagePlug优势介绍 <a href="#nin-ke-yi-shi-yong-appsmith-zuo-shen-me" id="nin-ke-yi-shi-yong-appsmith-zuo-shen-me"></a>
 

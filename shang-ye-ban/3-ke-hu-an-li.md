@@ -26,7 +26,7 @@
 
 * 动态筛选采集样管
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 社区全部采样管信息
 

@@ -151,7 +151,7 @@ PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议
 
 * 打开Methodot官网，在应用工厂中可以拉Mongo镜像部署，选择单服务——从镜像开始
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102) (3).png" alt=""><figcaption></figcaption></figure>
 
 * 选择从镜像开始
 
@@ -171,15 +171,15 @@ PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议
 
 * 选择发布应用
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (110) (3).png" alt=""><figcaption></figcaption></figure>
 
 * 选择组件及随机配备域名
 
-<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (148) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 部署成功，点击分享按钮
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 可以直接使用
 
@@ -276,7 +276,7 @@ https://github.com/coreybutler/nvm-windows/releases/download/1.1.10/nvm-setup.ex
 
 安装完成后，打开Powershell，在Windows徽标处点击右键，选择 “终端(管理员)” 或在启动器中搜 索 Powershell 选择 “以管理员身份运行”
 
-<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (102) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -288,11 +288,11 @@ https://github.com/coreybutler/nvm-windows/releases/download/1.1.10/nvm-setup.ex
 
 安装成功后会返回如下信息：
 
-<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (93) (2).png" alt=""><figcaption></figcaption></figure>
 
 这个时候环境变量实际还没有配置，如果直接使用node会出现如下错误，此时，我们只需要执行 `nvm use 16.14.0 --defaul`t 即可设置默认nodejs环境变量为16.14.0版本，再执行 `node -v` 会发现Powershell已经可以 找到nodejs程序并打印版本号，成功执行
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100) (2).png" alt=""><figcaption></figcaption></figure>
 
 以上，整个nvm-windows的部署及NodeJS依赖环境的安装配置结束，现在已经可以使用node来进行前端编译操作啦
 
@@ -553,7 +553,7 @@ bash ./scripts/start-dev-server.sh
 cd pageplug
 ```
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (145) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 输入以下命令，进入app文件夹
 

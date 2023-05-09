@@ -26,7 +26,7 @@ PagePlug支持多样的能力开发，满足研发的使用需求。例如我们
 
 * 进入按钮设置页面：
 
-<figure><img src="../../.gitbook/assets/image (137) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 在按钮设置中，事件选择【保存数据】
 

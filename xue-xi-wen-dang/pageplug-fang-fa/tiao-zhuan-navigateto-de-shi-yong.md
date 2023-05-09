@@ -46,7 +46,7 @@ navigateTo(pageName | Url: string, params?: {}, target: "SAME_WINDOW" | "NEW_WIN
 }}}
 ```
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 点击**提交**，在**Page2**，通过 **global.URL.queryParams** 可以取到该数据
 
@@ -54,7 +54,7 @@ navigateTo(pageName | Url: string, params?: {}, target: "SAME_WINDOW" | "NEW_WIN
 
 * 同理，给外部URL传递数据类似
 
-<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 点击**提交**，你会在新窗口看到传递的数据
 
