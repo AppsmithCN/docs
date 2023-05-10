@@ -108,7 +108,7 @@ Docker安装完后，之后我们点击下方链接，点击下载**docker-compo
 d:
 ```
 
-<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (143) (1).png" alt=""><figcaption></figcaption></figure>
 
 5、之后我们进入到pageplug文件夹，目录下输入如下：
 
