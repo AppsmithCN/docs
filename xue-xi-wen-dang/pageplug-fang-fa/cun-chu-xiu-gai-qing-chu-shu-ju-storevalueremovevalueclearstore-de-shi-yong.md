@@ -29,11 +29,11 @@ storeValue(key: string, value: any, persist? = true)
 
 ## **3、PagePlug内的动作事件**
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption><p>storeValue—存储数据</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>removeValue—修改数据</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>removeValue—修改数据</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>ClearStore—清除数据</p></figcaption></figure>
 
@@ -53,7 +53,7 @@ storeValue(key: string, value: any, persist? = true)
 
 在浏览器的localstorage中可查
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94) (2).png" alt=""><figcaption></figcaption></figure>
 
 > 如何获取它?
 
@@ -83,4 +83,4 @@ export default {
 
 点击保存数据，可以在localstorage里看到已保存
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (107) (2).png" alt=""><figcaption></figcaption></figure>

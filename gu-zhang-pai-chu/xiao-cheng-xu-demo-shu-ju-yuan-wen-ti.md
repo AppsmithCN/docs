@@ -22,7 +22,7 @@
 
 1. 登录[<mark style="color:blue;">Methodot</mark>](https://methodot.com/)，进入应用工厂，点击“创建新项目”，选择“微服务”类型
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 2. 填写项目名称和描述，点击“创建”
 
@@ -75,7 +75,7 @@
 其中👆第二个mysql字符串，替换成上面“**组件参数**”部分的mysql参数引用（输入<mark style="color:purple;">@</mark>字符可自动关联选项），展示效果如下
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ✔️ 最终保证两个组件的配置信息如下👇
 

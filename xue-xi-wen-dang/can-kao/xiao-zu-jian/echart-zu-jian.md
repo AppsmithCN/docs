@@ -61,7 +61,7 @@ detail: {
 },
 ```
 
-![](<../../../.gitbook/assets/image (2) (1).png>)
+![](<../../../.gitbook/assets/image (2) (1) (1).png>)
 
 {% hint style="warning" %}
 需要注意的是，序列化的内容中，包括function内部以外的，上下文变量的引用会找不到

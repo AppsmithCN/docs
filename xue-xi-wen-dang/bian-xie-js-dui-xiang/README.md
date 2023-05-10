@@ -190,4 +190,4 @@ export default {
 
 插入了之后我们可以在控制台里面查看详情
 
-<figure><img src="../../.gitbook/assets/image (17) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (2) (1).png" alt=""><figcaption></figcaption></figure>

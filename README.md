@@ -19,7 +19,7 @@ PagePlug与市面上其他的低代码（轻流、宜搭、微搭、简道云、
 
 * 市场评选
 
-<figure><img src=".gitbook/assets/image (25) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2、PagePlug优势介绍 <a href="#nin-ke-yi-shi-yong-appsmith-zuo-shen-me" id="nin-ke-yi-shi-yong-appsmith-zuo-shen-me"></a>
 
@@ -113,7 +113,7 @@ PagePlug提供很多针对安全性的支持，包括身份验证、授权、加
 
 * 在右侧菜单中选择导入即可体验
 
-<figure><img src=".gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

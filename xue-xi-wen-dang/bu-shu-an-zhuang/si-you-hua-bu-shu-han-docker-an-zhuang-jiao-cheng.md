@@ -152,7 +152,7 @@ docker-compose up -d
 
 10、点击开始吧，之后填写邮箱密码资料创建
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
@@ -246,7 +246,7 @@ Docker安装完后，之后我们点击下方链接，点击下载**docker-compo
 
 **3、在pageplug文件中，右键点击**<mark style="color:red;">**“新建位于文件夹位置的终端窗口”**</mark>
 
-<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **4、在终端输入以下命令，回车，就会开始进入下载**
 
@@ -272,7 +272,7 @@ docker-compose up -d
 
 **7、点击开始吧，之后填写邮箱密码资料创建**
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 

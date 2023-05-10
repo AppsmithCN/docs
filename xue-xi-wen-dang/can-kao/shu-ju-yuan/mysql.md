@@ -26,14 +26,14 @@ PagePlug 支持 MySQL 版本 5.5、5.6、5.7 和 8.0。
 
 要连接到您的数据库，PagePlug需要以下参数。所有必填字段均以星号 ( \* ) 为后缀。
 
-* <mark style="color:red;">**\*Conneciton Mode**</mark>：选择在建立与数据库的连接时授予PagePlug的权限。两种可用模式是：只读模式、读取/写入模式
-* <mark style="color:red;">**\*Host Address**</mark>：提供数据库服务器的主机名或 IP 地址。
-* <mark style="color:red;">**\*Port**</mark>：提供连接到数据库的端口。默认情况下，PagePlug会尝试连接到端口`5432`。
+* <mark style="color:red;">**Conneciton Mode**</mark>：选择在建立与数据库的连接时授予PagePlug的权限。两种可用模式是：只读模式、读取/写入模式
+* <mark style="color:red;">**Host Address**</mark>：提供数据库服务器的主机名或 IP 地址。
+* <mark style="color:red;">**Port**</mark>：提供连接到数据库的端口。默认情况下，PagePlug会尝试连接到端口`5432`。
 * Database Name：提供数据库的名称
 * Authentication：填写连接你数据库的用户名和密码
 * SSL：支持Default、Required、Disabled的模式来设置您的查询是否使用 SSL 连接
 * MySQL Specific Parameters：\
-  服务器时区覆盖，提供一个有效的时区（例如：“UTC”）以用于您的查询。如果 Appsmith 不自动识别 MySQL 服务器的时区，请使用此选项。
+  服务器时区覆盖，提供一个有效的时区（例如：“UTC”）以用于您的查询。如果 plugpage不自动识别 MySQL 服务器的时区，请使用此选项。
 
 ### 3、创建Mysql查询
 

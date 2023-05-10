@@ -36,7 +36,7 @@
 
 * 如果有其他变量或者命令执行，可在高级配置中设置
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 点击发布应用
 

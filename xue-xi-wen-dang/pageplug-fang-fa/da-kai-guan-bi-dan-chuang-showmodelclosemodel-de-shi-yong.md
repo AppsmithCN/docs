@@ -38,7 +38,7 @@ closeModal(modalName: string)
 
 * 在**button**按钮的**onClick**事件选择**打开弹窗**
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102) (3).png" alt=""><figcaption></figcaption></figure>
 
 * 新建弹窗
 
@@ -52,7 +52,7 @@ closeModal(modalName: string)
 
 在弹窗的**关闭按钮**的**onClick**事件选择**关闭弹窗**
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 选择弹窗名称，点击关闭弹窗就消失啦
 

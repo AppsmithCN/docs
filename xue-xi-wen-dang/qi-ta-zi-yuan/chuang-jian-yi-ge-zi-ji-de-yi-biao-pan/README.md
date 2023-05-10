@@ -64,7 +64,7 @@ SELECT \* FROM yelp\_business;
 
 * 我们可以从右边选择一些组件，把数据自动导入展示，例如表单table
 
-<figure><img src="../../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>数据就自动导入到表单组件了</p></figcaption></figure>
 

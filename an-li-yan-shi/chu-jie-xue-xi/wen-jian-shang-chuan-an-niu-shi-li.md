@@ -26,7 +26,7 @@
 
 ### 3、在PagePlug新建一个api
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、编辑api
 

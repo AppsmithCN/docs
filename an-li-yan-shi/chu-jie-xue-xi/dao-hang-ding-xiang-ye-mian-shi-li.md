@@ -26,7 +26,7 @@ PagePlug支持多样的能力开发，满足研发的使用需求。例如我们
 
 * 进入按钮设置页面：
 
-<figure><img src="../../.gitbook/assets/image (137) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 在按钮设置中，事件选择【保存数据】
 
@@ -34,7 +34,7 @@ PagePlug支持多样的能力开发，满足研发的使用需求。例如我们
 
 * 键输入上面填写的变量【activeTab】，值选择标签页的【名称】，例如仓库
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 这样设置，当你点击按钮的时候，就可以对标签页的页面进行切换，其他页面和按钮组件也是同样的设置
 

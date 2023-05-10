@@ -37,7 +37,7 @@ Methodot 是一站式云原生在线开发协作平台，它通过独创的在�
 
 * 开始自己的低代码开发之旅
 
-<figure><img src="../../.gitbook/assets/image (99) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 开发完应用后，可以直接一键发布应用至线上，无需安装配置环境
 

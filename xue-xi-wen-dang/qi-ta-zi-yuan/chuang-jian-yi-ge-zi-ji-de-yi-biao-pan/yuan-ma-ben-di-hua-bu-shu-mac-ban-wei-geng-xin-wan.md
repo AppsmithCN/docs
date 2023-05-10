@@ -11,19 +11,19 @@ PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实�
 * 下载地址[https://www.oracle.com/java/technologies/downloads/#jdk20-mac](https://www.oracle.com/java/technologies/downloads/#jdk20-mac)
 * 如果是M1及以上的选择ARM，如果是inter的，选择X64。
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.1.2对JDK进行安装
 
 * 将下载好的文件，点击运行
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 一路点击继续
 
-<figure><img src="../../../.gitbook/assets/image (16) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (4).png" alt=""><figcaption></figcaption></figure>
 
 * 可以在终端输入**`java -version`**，查看是否安装成功
 
@@ -31,7 +31,7 @@ PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实�
 java -version
 ```
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (4).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.1.3配置环境变量
 
@@ -47,11 +47,11 @@ commadn+shift+G
 /Library/Java/JavaVirtualMachines/
 ```
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (5).png" alt=""><figcaption></figcaption></figure>
 
 * 点击JDK文件，进入/Contents/Home
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 切换权限，或者给指令添加sudo
 
@@ -59,7 +59,7 @@ commadn+shift+G
 sudo chmod 773 /etc/profile
 ```
 
-<figure><img src="../../../.gitbook/assets/image (14) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (4).png" alt=""><figcaption></figcaption></figure>
 
 * 编辑/ect/profile文件：
 
