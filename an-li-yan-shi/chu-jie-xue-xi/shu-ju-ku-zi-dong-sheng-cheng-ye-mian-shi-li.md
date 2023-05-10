@@ -32,7 +32,7 @@
 **密码:** appsmithdemo123#
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 测试连接成功后，点击保存
 

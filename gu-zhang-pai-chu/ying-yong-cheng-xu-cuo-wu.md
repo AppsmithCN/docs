@@ -1,6 +1,6 @@
 # 应用程序错误
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、无效/空名称错误 <a href="#invalid--empty-name-error" id="invalid--empty-name-error"></a>
 

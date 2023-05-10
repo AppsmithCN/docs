@@ -16,17 +16,17 @@ description: 接下来演示如何连接mysql数据库并执行查询
 
 
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>做一个登录demo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (5).png" alt=""><figcaption><p>做一个登录demo</p></figcaption></figure>
 
 ### 2.1 设计表单
 
 * 拉一个formily表单组件
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
 
 * 选中它，在它右边点击**设计表单**
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (4).png" alt=""><figcaption></figcaption></figure>
 
 * 分别拖**输入框**和**密码框**进去
 
@@ -38,7 +38,7 @@ description: 接下来演示如何连接mysql数据库并执行查询
 
 * 配置好这两个组件后，点击保存
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 然后你就可以看到
 
@@ -46,7 +46,7 @@ description: 接下来演示如何连接mysql数据库并执行查询
 
 ### 2.2获取表单数据
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (5).png" alt=""><figcaption></figcaption></figure>
 
 注意这个名字，我们可以通过 **formily1.formData.username** 获取到 用户名的值，密码同理，比如你给密码的字段标识是password，那么你就可以通过 **formily1.formData.password** 获取到密码的值
 
@@ -64,11 +64,11 @@ connect mode用默认的就行，可读可写
 
 其它选项暂时不用写
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 填完信息之后，点击**测试**，页面显示连接成功后，点击**保存**
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 保存之后你可以看到
 
@@ -111,4 +111,4 @@ SELECT * FROM admin WHERE username = {{formily1.formData.username}} AND password
 
 * 点击提交，登陆成功（数据库有这个账户）
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>

@@ -17,7 +17,7 @@ Methodot 是一站式云原生在线开发协作平台，它通过独创的在�
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>methodot.com</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 点击工作台，进入应用工厂首页
 
@@ -29,7 +29,7 @@ Methodot 是一站式云原生在线开发协作平台，它通过独创的在�
 
 * 可以选择PC端或小程序端开发
 
-<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 选择在线开发进入PagePlug页面内
 

@@ -5,7 +5,7 @@ description: >-
 
 # 跨域通信(postWindowMessage)的使用
 
-### 1、相关参数
+## 1、格式
 
 **postWindowMessage()**可用于在应用程序或父窗口与iframe之间发送消息。
 
@@ -13,19 +13,21 @@ description: >-
 postWindowMessage(message, targetIframe, targetOrigin)
 ```
 
+## 2、参数介绍
+
 | 参数名              | 介绍                                                                                                             |
 | ---------------- | -------------------------------------------------------------------------------------------------------------- |
 | **message**      | 这是要发送到目标iframe或窗口的消息。大多数JavaScript值在这里都是可以接受的，除了null和undefined。(默认:“”)                                         |
 | **targetIframe** | 这是要向其发送消息的窗口。如果它的值是"window"，那么你正在向父应用程序的窗口global应用被嵌入其中)发送消息。如果要向global中的iframe发送消息，请在此处输入iframe的名称。(默认值是“窗口”) |
 | **targetOrigin** | 这是您可以向其发送消息的URL。默认值“\*”表示消息可以发送到任何URL。如果您想限制只向父应用程序(其中嵌入global)发送消息，请在这里输入父应用程序的URL。(默认值是“\*”)                 |
 
-### 2、PagePlug内的动作事件
+## 3、PagePlug内对应的动作事件
 
 <figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption><p>postWindowMessage方法对应的动作是——发消息</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
-### 3、给iframe小组件发消息案例
+## 4、给iframe小组件发消息案例
 
 首先演示一个简单案例
 

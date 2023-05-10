@@ -82,7 +82,7 @@ clearStore()函数清除应用中所有数据。
 
 
 
-## **2、PagePlug内的动作事件**
+## **2、PagePlug内对应的动作事件**
 
 <figure><img src="../../.gitbook/assets/image (95) (2).png" alt=""><figcaption></figcaption></figure>
 

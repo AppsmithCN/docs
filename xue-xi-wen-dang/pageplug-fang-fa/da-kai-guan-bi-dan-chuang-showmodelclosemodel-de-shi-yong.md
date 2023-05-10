@@ -18,11 +18,13 @@ showModal(modalName: string)
 closeModal(modalName: string)
 ```
 
-## 2、参数
+## 2、参数介绍
 
-* **Modal Name：**要显示的弹窗名称
+| 参数名            | 描述       |
+| -------------- | -------- |
+| **Modal Name** | 要显示的弹窗名称 |
 
-## 3、PagePlug内的动作事件
+## 3、PagePlug内对应的动作事件
 
 <figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 

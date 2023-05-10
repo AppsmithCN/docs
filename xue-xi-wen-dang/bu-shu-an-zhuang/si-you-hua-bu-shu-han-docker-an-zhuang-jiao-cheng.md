@@ -38,7 +38,7 @@ Docker Desktop for Windows 支持 64 位版本的 Windows 10 Pro，且必须开�
 wsl --install
 ```
 
-<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (155) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 更多wsl的问题，可查阅官方文档处理：
 

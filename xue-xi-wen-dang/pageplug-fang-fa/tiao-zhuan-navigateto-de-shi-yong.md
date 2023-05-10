@@ -12,19 +12,19 @@ description: >-
 navigateTo(pageName | Url: string, params?: {}, target: "SAME_WINDOW" | "NEW_WINDOW") -> Promise
 ```
 
-## 2、PagePlug内的动作事件
-
-<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption><p>navigateTo方法对应的动作是——跳转到</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
-
-## 3、参数介绍
+## 2、参数介绍
 
 | 参数名              | 描述                             |
 | ---------------- | ------------------------------ |
 | **pageName或Url** | 您希望传输到的页面名称或URL，PageName区分大小写。 |
 | **params(可选)**   | 通过URL传递的查询参数，用于与目标页共享信息。       |
 | **target(可选)**   | 配置在哪里打开URL，默认当前窗口。             |
+
+## 3、PagePlug内对应的动作事件
+
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption><p>navigateTo方法对应的动作是——跳转到</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 ## 4、案例介绍
 

@@ -183,7 +183,7 @@ PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议
 
 * 可以直接使用
 
-<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (92) (2).png" alt=""><figcaption></figcaption></figure>
 
 例子已删，请勿直接使用该url
 
@@ -601,7 +601,7 @@ yarn start-proxy
 yarn
 ```
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (144) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 等待几分钟，正常会显示这5步
 
@@ -639,7 +639,7 @@ yarn 安装依赖， 提示报错 “cross-env找不到”，可以将package.js
 如果遇到@shared/ast找不到问题，其实就是本地包的之前，需要 yarn link 建立软链接
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (151) (1).png" alt=""><figcaption></figcaption></figure>
 
 可以参考如下操作
 

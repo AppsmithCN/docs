@@ -38,7 +38,7 @@
 
 <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>工单提交/详情页面</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>企业微信工单状态提醒</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>企业微信工单状态提醒</p></figcaption></figure>
 
 **IT工单系统文件体验：**
 
