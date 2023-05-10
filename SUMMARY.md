@@ -20,7 +20,7 @@
   * [跳转(navigateTo)的使用](xue-xi-wen-dang/pageplug-fang-fa/tiao-zhuan-navigateto-de-shi-yong.md)
   * [消息提示(showAlert)的使用](xue-xi-wen-dang/pageplug-fang-fa/xiao-xi-ti-shi-showalert-de-shi-yong.md)
   * [打开/关闭弹窗(showModel/closeModel)的使用](xue-xi-wen-dang/pageplug-fang-fa/da-kai-guan-bi-dan-chuang-showmodelclosemodel-de-shi-yong.md)
-  * [存储/修改/清除数据(storeValue/removeValue/clearstore)的使用](xue-xi-wen-dang/pageplug-fang-fa/cun-chu-xiu-gai-qing-chu-shu-ju-storevalueremovevalueclearstore-de-shi-yong.md)
+  * [全局数据的管理(storeValue/removeValue/clearstore)的使用](xue-xi-wen-dang/pageplug-fang-fa/quan-ju-shu-ju-de-guan-li-storevalueremovevalueclearstore-de-shi-yong.md)
 * [编写JS对象](xue-xi-wen-dang/bian-xie-js-dui-xiang/README.md)
   * [异步JavaScript](xue-xi-wen-dang/bian-xie-js-dui-xiang/yi-bu-javascript.md)
   * [异步 JavaScript 函数设置](xue-xi-wen-dang/bian-xie-js-dui-xiang/yi-bu-javascript-han-shu-she-zhi.md)
