@@ -1,14 +1,16 @@
 # 提交Pull Request
 
-近期完善更新ing
-
-
+## 🧑🏻‍💻提PR步骤
 
 ### 1、Fork源码、本地开发：
 
+* 进入项目页面, 点击右上角的Fork按钮
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+* 之后会进入这个页面，填写一些简介信息（我已填写），点击create
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 

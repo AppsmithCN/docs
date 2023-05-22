@@ -20,9 +20,9 @@ copyToClipboard(data: string, options: object)
 
 ## 3、PagePlug内对应的动作事件
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4、案例
 

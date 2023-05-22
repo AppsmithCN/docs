@@ -11,7 +11,7 @@ PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实�
 * 下载地址[https://www.oracle.com/java/technologies/downloads/#jdk20-mac](https://www.oracle.com/java/technologies/downloads/#jdk20-mac)
 * 如果是M1及以上的选择ARM，如果是inter的，选择X64。
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.1.2对JDK进行安装
 

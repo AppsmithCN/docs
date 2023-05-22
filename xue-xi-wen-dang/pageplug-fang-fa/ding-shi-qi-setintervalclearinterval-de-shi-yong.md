@@ -24,7 +24,7 @@ setInterval(callbackFunction: Function, interval: number, id?: string, args?: an
 
 ### 3、PagePlug内对应的动作事件
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 

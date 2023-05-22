@@ -5,6 +5,10 @@ description: >-
 
 # 核心介绍
 
+{% hint style="info" %}
+PagePlug文档是用国外Gitbook编写的，在国内不开🪜可能会出现崩溃的情况，近期官网改版会将文档进行演绎，若出现崩溃可刷新多几次，带来不便深感抱歉
+{% endhint %}
+
 ## 1、产品定位
 
 {% hint style="info" %}
@@ -310,12 +314,13 @@ PagePlug非常需要你的发现及自荐feature，我们接纳任何可行有�
 
 🏅我们将会在此展示优秀伙伴的贡献及付出（展示顺序不分先后）
 
-| 贡献内容     | Github名称 | 社区花名 | 所在社区的群     | 提交时间     |
-| -------- | -------- | ---- | ---------- | -------- |
-| IT工单管理系统 |          | 无名   | PagePlug6群 |          |
-| 组件开发文档   |          |      | PagePlug8群 | 2023.5.6 |
-|          |          |      |            |          |
-|          |          |      |            |          |
+| 贡献内容         | Github名称       | 社区花名 | 所在社区的群     | 提交时间      |
+| ------------ | -------------- | ---- | ---------- | --------- |
+| IT工单管理系统     |                | 无名   | PagePlug6群 |           |
+| 组件开发文档       |                | 茂行   | PagePlug8群 | 2023.5.6  |
+| 优化Table组件Bug | @zsf1482451437 | 平头哥  | PagePlug8群 | 2023.5.22 |
+|              |                |      |            |           |
+|              |                |      |            |           |
 
 
 
@@ -335,4 +340,4 @@ PagePlug有无限的可能性，能够满足更多的使用场景，”创新“
 
 **如果您仍然遇到问题，可以加入我们技术交流群，直接与PagePlug产品静静联系!**
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

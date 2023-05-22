@@ -99,7 +99,7 @@ Spring Boot 2.7 -> 3.0.1 3
 
 * 3、在容器启动成功后，再次关停，将镜像替换回cloudtogouser/pageplug-ce ，然后启动
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、迁移教程
 

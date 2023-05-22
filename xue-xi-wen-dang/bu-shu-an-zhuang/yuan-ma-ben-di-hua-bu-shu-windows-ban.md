@@ -167,7 +167,7 @@ PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议
 
 * 如果用到更复杂的，可以自行添加映射配置文件、环境变量、执行命令等等
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 选择发布应用
 
