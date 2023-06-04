@@ -146,7 +146,7 @@ PagePlug的审计日志支持查看工作区中带有时间戳的事件轨迹。
 
 例如：支持树形菜单组件、跑马灯组件等
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
