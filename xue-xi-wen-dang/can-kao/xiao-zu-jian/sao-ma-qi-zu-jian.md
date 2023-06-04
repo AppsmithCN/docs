@@ -51,7 +51,7 @@
 | 边框圆角 | 对扫码器组件的边框样式进行修改                            |
 | 阴影   | 对按钮样式调整阴影大小                                |
 
-<figure><img src="../../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 6、JS代码
 
@@ -73,4 +73,4 @@
 {{CodeScanner1.value}}
 ```
 
-<figure><img src="../../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44) (1) (1).png" alt=""><figcaption></figcaption></figure>

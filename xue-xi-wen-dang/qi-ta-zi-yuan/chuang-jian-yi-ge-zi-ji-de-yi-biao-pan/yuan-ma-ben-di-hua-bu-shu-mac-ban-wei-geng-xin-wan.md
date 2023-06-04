@@ -31,7 +31,7 @@ PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实�
 java -version
 ```
 
-<figure><img src="../../../.gitbook/assets/image (13) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.1.3配置环境变量
 
@@ -51,7 +51,7 @@ commadn+shift+G
 
 * 点击JDK文件，进入/Contents/Home
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 切换权限，或者给指令添加sudo
 

@@ -6,7 +6,7 @@ description: >-
 # 核心介绍
 
 {% hint style="info" %}
-PagePlug文档是用国外Gitbook编写的，在国内不开🪜可能会出现崩溃的情况，近期官网改版会将文档进行演绎，若出现崩溃可刷新多几次，带来不便深感抱歉
+PagePlug文档是用国外Gitbook编写的，在国内不开🪜可能会出现崩溃的情况，近期官网改版会将文档进行迁移，若出现崩溃可刷新多几次，使用带来不便深感抱歉，感谢支持与理解🥹
 {% endhint %}
 
 ## 1、产品定位
@@ -23,7 +23,7 @@ PagePlug与市面上其他的低代码（轻流、宜搭、微搭、简道云、
 
 * 市场评选
 
-<figure><img src=".gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2、PagePlug优势介绍 <a href="#nin-ke-yi-shi-yong-appsmith-zuo-shen-me" id="nin-ke-yi-shi-yong-appsmith-zuo-shen-me"></a>
 
@@ -274,15 +274,15 @@ PagePlug愿与你一同前行，欢迎加入：[**PagePlug开源团队**](jie-sh
 
 **1、开源分队之狂飙队（排名不分先后）**
 
-👩🏻‍💻扛把子：DD
+👩🏻‍💻**PP Team Leader**：DD
 
-🙋🏻‍♂️成员：Chris、无名、平头哥
+🙋🏻‍♂️**成员**：Chris、无名、平头哥
 
 
 
 **2、开源分队之漫威队（排名不分先后）**
 
-🧑🏻‍💻美队：克力
+🧑🏻‍💻**PP Team Leader**：克力
 
 🙋🏻‍♂️成员：xiaolu、kate、Bob、Nina、洪涛、马哥（很有爱和氛围的一群人🥰）
 
@@ -314,13 +314,7 @@ PagePlug非常需要你的发现及自荐feature，我们接纳任何可行有�
 
 🏅我们将会在此展示优秀伙伴的贡献及付出（展示顺序不分先后）
 
-| 贡献内容         | Github名称       | 社区花名 | 所在社区的群     | 提交时间      |
-| ------------ | -------------- | ---- | ---------- | --------- |
-| IT工单管理系统     |                | 无名   | PagePlug6群 |           |
-| 组件开发文档       |                | 茂行   | PagePlug8群 | 2023.5.6  |
-| 优化Table组件Bug | @zsf1482451437 | 平头哥  | PagePlug8群 | 2023.5.22 |
-|              |                |      |            |           |
-|              |                |      |            |           |
+<table><thead><tr><th width="229">贡献内容</th><th>Github名称</th><th>社区花名</th><th width="162">所在社区的群</th><th>提交时间</th></tr></thead><tbody><tr><td>IT工单管理系统</td><td></td><td>无名</td><td>PagePlug6群</td><td></td></tr><tr><td>组件开发文档</td><td></td><td>茂行</td><td>PagePlug8群</td><td>2023.5.6</td></tr><tr><td>优化Table组件Bug</td><td>@zsf1482451437</td><td>平头哥</td><td>PagePlug8群</td><td>2023.5.22</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 
 

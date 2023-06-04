@@ -14,7 +14,7 @@ PagePlug 支持 MySQL 版本 5.5、5.6、5.7 和 8.0。
 
 要添加 MySQL 数据源，请单击**数据源旁边的 ( + )** 号。在下一个屏幕上，选择**MySQL**按钮。
 
-<figure><img src="../../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、连接MySQL
 

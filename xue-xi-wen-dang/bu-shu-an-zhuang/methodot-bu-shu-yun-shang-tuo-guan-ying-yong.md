@@ -18,7 +18,7 @@
 
 * 选择单服务项目
 
-<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 选择从镜像部署开始
 
@@ -26,13 +26,13 @@
 
 * 在dockerhub中搜索pageplug，选择版本
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 服务配置80端口及443端口，之后点击下一步
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 如果有其他变量或者命令执行，可在高级配置中设置
 
@@ -54,7 +54,7 @@
 
 * 可以点击访问按钮，访问80端口
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (38) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

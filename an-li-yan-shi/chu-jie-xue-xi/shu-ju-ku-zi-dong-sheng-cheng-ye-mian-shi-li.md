@@ -6,7 +6,7 @@
 
 * 创建PC端应用
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、绑定数据源
 
@@ -42,11 +42,11 @@
 
 * 在左侧数据源中，点击查看所有数据源
 
-<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 点击生成新页面
 
-<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 选择public.orders，之后选择生成页面（generate page）
 
@@ -56,4 +56,4 @@
 
 <figure><img src="../../.gitbook/assets/image (30) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>

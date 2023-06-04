@@ -2,7 +2,7 @@
 
 在PagePlug中的 JavaScript 编辑器允许您创建一个可重用的 JavaScript 函数，你可以在组件内调用这些函数，从而实现对应的功能。在 PagePlug 中，处处皆可JS。
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption><p>在PagePlug中处处皆可JS </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption><p>在PagePlug中处处皆可JS </p></figcaption></figure>
 
 ### 1、如何创建JS对象
 
@@ -163,7 +163,7 @@ export default {
 
 之后点击右上角运行，之后就看到打印的接口的返回数据
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 延伸，我们再试下打印一个变量值
 

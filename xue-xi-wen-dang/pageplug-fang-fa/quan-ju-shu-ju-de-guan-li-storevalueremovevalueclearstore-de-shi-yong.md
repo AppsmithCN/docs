@@ -90,7 +90,7 @@ clearStore()函数清除应用中所有数据。
 
 <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>removeValue—修改数据</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>ClearStore—清除数据</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>ClearStore—清除数据</p></figcaption></figure>
 
 ## **3、异步的storeValue**
 
@@ -136,11 +136,11 @@ storeValue()的前缀await确保在下一行执行showAlert之前将给定键的
 
 1.1 在input的**onTextChanged**事件里选择**保存数据（**其他事件同理哦**）**
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 1.2 假如键名input，键值用**\{{input1.text\}}**
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 1.3 当我在input输入内容时，触发了它的**onTextChanged**事件，**input1.text**会被存储在**localstorage**中
 
@@ -172,7 +172,7 @@ export default {
 
 在按钮的onClick事件中选执行JS函数-->JSobject1-->writeToStore
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 点击保存数据，可以在localstorage里看到已保存
 

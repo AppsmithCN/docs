@@ -128,7 +128,7 @@ docker-compose up -d
 
 7、会进入下载状态，耐心稍等几分钟
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
 
 8、下载成功后，会看到如下提示，代表已经部署成功
 
@@ -200,7 +200,7 @@ docker run -d -p 80:80 --name webserver nginx
 
 服务运行后，可以访问 [http://localhost](http://localhost)，如果看到了 "Welcome to nginx!"，就说明 Docker Desktop for Mac 安装成功了。
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42) (2).png" alt=""><figcaption></figcaption></figure>
 
 小提示：可以配置下镜像加速器，复制如下代码到<mark style="color:red;">**Docker Engine**</mark>
 
@@ -254,11 +254,11 @@ Docker安装完后，之后我们点击下方链接，点击下载**docker-compo
 docker-compose up -d
 ```
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 **过程中可能会要授权访问文件夹的文件，点击“好”**
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
 **5、最终出现Pageplug started的时候，Pageplug部署成功**
 

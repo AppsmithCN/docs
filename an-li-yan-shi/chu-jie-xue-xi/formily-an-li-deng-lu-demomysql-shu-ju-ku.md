@@ -30,19 +30,19 @@ description: 接下来演示如何连接mysql数据库并执行查询
 
 * 分别拖**输入框**和**密码框**进去
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (3).png" alt=""><figcaption></figcaption></figure>
 
 * 分别设置一下这两组件的**字段标识**、**标题**、**默认值**、**是否必填，**这里的字段标识很关键，设置成英文，后续获取该表单项的值时会用到
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 配置好这两个组件后，点击保存
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 然后你就可以看到
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.2获取表单数据
 
@@ -54,7 +54,7 @@ description: 接下来演示如何连接mysql数据库并执行查询
 
 * 在**数据源**那点击 + ，然后选择**mysql**
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 connect mode用默认的就行，可读可写
@@ -64,21 +64,21 @@ connect mode用默认的就行，可读可写
 
 其它选项暂时不用写
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 填完信息之后，点击**测试**，页面显示连接成功后，点击**保存**
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 保存之后你可以看到
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.4 账号查询
 
 * 选择表单后，在表单的提交事件上选择**执行查询**，当执行查询成功后，需要在查询的onSucces事件上绑定JS对象的函数，通知配置失败的**消息提示**
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **JS对象的代码如下**
 
@@ -105,7 +105,7 @@ export default {
 SELECT * FROM admin WHERE username = {{formily1.formData.username}} AND password = {{formily1.formDaqa.password}}
 ```
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (4).png" alt=""><figcaption></figcaption></figure>
 
 这个开关要打开，打开可以使您的查询对SQL注入等不良事件具有弹性。但是，如果您的动态绑定包含任何SQL关键字，如“SELECT”，“WHERE”，“AND”等，则需要关闭。
 

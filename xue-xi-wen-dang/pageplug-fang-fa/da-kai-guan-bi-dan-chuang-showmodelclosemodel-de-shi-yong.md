@@ -54,11 +54,11 @@ closeModal(modalName: string)
 
 在弹窗的**关闭按钮**的**onClick**事件选择**关闭弹窗**
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 选择弹窗名称，点击关闭弹窗就消失啦
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

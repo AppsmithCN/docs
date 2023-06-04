@@ -2,7 +2,7 @@
 
 &#x20;可以在前端获取用户输入的日期及时间
 
-<figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1、数据
 

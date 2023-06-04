@@ -36,7 +36,7 @@ navigateTo(pageName | Url: string, params?: {}, target: "SAME_WINDOW" | "NEW_WIN
 
 * 选择**Page2**
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 在**查询参数**填入一下代码
 
@@ -46,7 +46,7 @@ navigateTo(pageName | Url: string, params?: {}, target: "SAME_WINDOW" | "NEW_WIN
 }}}
 ```
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 点击**提交**，在**Page2**，通过 **global.URL.queryParams** 可以取到该数据
 

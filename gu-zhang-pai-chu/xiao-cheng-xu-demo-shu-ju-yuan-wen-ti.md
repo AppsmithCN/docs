@@ -113,6 +113,6 @@
 另外，平台上的搭建或者发布过程有什么问题，可以联系[Methodot](https://methodot.com/) 的nina反馈👇
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [^1]: 这里需要替换成引用参数

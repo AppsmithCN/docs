@@ -95,7 +95,7 @@ javac
 
 * 将下载好的apache-maven-3.9.0解压到java文件夹下
 
-<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       1.2.3配置环境变量
 
@@ -139,7 +139,7 @@ javac
 mvn -v
 ```
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 显示版本号证明环境已经配置好了
 
@@ -159,7 +159,7 @@ PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议
 
 * 选择mongo镜像源，选择4.4版本或4.2版本
 
-<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 配置网络服务：新增一个网络网络服务，选择TCP，端口为27017
 
@@ -205,7 +205,7 @@ www.methodot.com
 
 * 配置redis，支持自定义域名，选择立即部署
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 部署成功，可以使用
 
@@ -330,7 +330,7 @@ npm install -g yarn
 cd d:
 ```
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 之后我们可以再进入D盘下的work文件夹，输入以下命令
 
@@ -338,7 +338,7 @@ cd d:
 cd work
 ```
 
-<figure><img src="../../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 之后我们可以输入这个命令，查下文件夹下有无其他文件
 
@@ -368,7 +368,7 @@ https://github.com/cloudtogo/pageplug.git
 git clone https://gitee.com/cloudtogo/pageplug.git
 ```
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 显示下面内容的时候，源码拉取成功
 
@@ -398,7 +398,7 @@ Local repository可以修改或者不修改，默认在C盘，如果担心C盘�
 
 * 看下在Maven的设置里面，是否勾选了这2个选项
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 关注确认一下，右边菜单栏是否显示Maven！！！

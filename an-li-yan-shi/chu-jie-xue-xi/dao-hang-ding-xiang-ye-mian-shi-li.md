@@ -12,7 +12,7 @@ PagePlug支持多样的能力开发，满足研发的使用需求。例如我们
 
 * 需要用到的组件：按钮组和标签页组件
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (4).png" alt=""><figcaption></figcaption></figure>
 
 * 1、把标签页的数据用global存起来，可以自定义一个activeTab变量
 

@@ -5,10 +5,11 @@
 * [核心介绍](README.md)
   * [社区作品集](jie-shao/he-xin-jie-shao/she-qu-zuo-pin-ji.md)
   * [使用技巧及方法分享](jie-shao/he-xin-jie-shao/shi-yong-ji-qiao-ji-fang-fa-fen-xiang.md)
-* [加入我们](jie-shao/jia-ru-wo-men/README.md)
-  * [提交ISSUE](jie-shao/jia-ru-wo-men/ti-jiao-issue.md)
-  * [提交Pull Request](jie-shao/jia-ru-wo-men/ti-jiao-pull-request.md)
 * [版本日志](jie-shao/ban-ben-ri-zhi.md)
+* [加入我们](jie-shao/jia-ru-wo-men/README.md)
+  * [📚 社区任务](jie-shao/jia-ru-wo-men/she-qu-ren-wu.md)
+  * [❓ 提交ISSUE](jie-shao/jia-ru-wo-men/ti-jiao-issue.md)
+  * [💡 提交Pull Request](jie-shao/jia-ru-wo-men/ti-jiao-pull-request.md)
 
 ## 💪 学习文档
 
@@ -33,11 +34,10 @@
   * [Query 对象](xue-xi-wen-dang/kuang-jia-xue-xi/query-dui-xiang.md)
   * [console对象](xue-xi-wen-dang/kuang-jia-xue-xi/console-dui-xiang.md)
 * [组件使用](xue-xi-wen-dang/zu-jian-shi-yong/README.md)
-  * [Page 1](xue-xi-wen-dang/can-kao/xiao-zu-jian/page-1.md)
   * [echart组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/echart-zu-jian.md)
-  * [录音器组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/lu-yin-qi-zu-jian.md)
   * [Formily表单组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/formily-biao-dan-zu-jian/README.md)
     * [Formily用法](xue-xi-wen-dang/can-kao/xiao-zu-jian/formily-biao-dan-zu-jian/formily-yong-fa.md)
+  * [Page 1](xue-xi-wen-dang/can-kao/xiao-zu-jian/page-1.md)
   * [JSON表单组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/json-biao-dan-zu-jian.md)
   * [输入框组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/shu-ru-kuang-zu-jian.md)
   * [图片组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/tu-pian-zu-jian.md)
@@ -58,6 +58,7 @@
   * [按钮组组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/an-niu-zu-zu-jian.md)
   * [按钮组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/an-niu-zu-jian/README.md)
     * [谷歌Re-Captcha服务](xue-xi-wen-dang/can-kao/xiao-zu-jian/an-niu-zu-jian/gu-ge-recaptcha-fu-wu.md)
+  * [录音器组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/lu-yin-qi-zu-jian.md)
   * [音频组件](xue-xi-wen-dang/can-kao/xiao-zu-jian/yin-pin-zu-jian.md)
 * [数据源](xue-xi-wen-dang/can-kao/shu-ju-yuan/README.md)
   * [Airtable](xue-xi-wen-dang/can-kao/shu-ju-yuan/airtable.md)
@@ -137,6 +138,11 @@
 * [中阶学习](an-li-yan-shi/zhong-jie-xue-xi.md)
 * [高阶学习](an-li-yan-shi/gao-jie-xue-xi.md)
 
+## 🎆 开发文档
+
+* [组件开发](kai-fa-wen-dang/zu-jian-kai-fa.md)
+* [\{{\}}绑定原理](kai-fa-wen-dang/bang-ding-yuan-li.md)
+
 ## 😒 故障排除
 
 * [小程序demo数据源问题](gu-zhang-pai-chu/xiao-cheng-xu-demo-shu-ju-yuan-wen-ti.md)
@@ -153,8 +159,8 @@
 * [查询错误](gu-zhang-pai-chu/cha-xun-cuo-wu.md)
 * [小部件错误](gu-zhang-pai-chu/xiao-bu-jian-cuo-wu.md)
 
-## 🏆 商业版
+## 🏆 商业版（企业版）
 
-* [1、Demo](shang-ye-ban/1-demo.md)
-* [2、价格表](shang-ye-ban/2-jia-ge-biao.md)
-* [3、客户案例](shang-ye-ban/3-ke-hu-an-li.md)
+* [1、商业版（企业版）介绍](shang-ye-ban-qi-ye-ban/1-shang-ye-ban-qi-ye-ban-jie-shao.md)
+* [2、价格表](shang-ye-ban-qi-ye-ban/2-jia-ge-biao.md)
+* [3、客户案例](shang-ye-ban-qi-ye-ban/3-ke-hu-an-li.md)

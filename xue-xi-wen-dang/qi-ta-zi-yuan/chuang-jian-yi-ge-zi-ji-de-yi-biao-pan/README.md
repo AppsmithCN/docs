@@ -60,11 +60,11 @@ P
 SELECT \* FROM yelp\_business;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 我们可以从右边选择一些组件，把数据自动导入展示，例如表单table
 
-<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>数据就自动导入到表单组件了</p></figcaption></figure>
 
@@ -74,7 +74,7 @@ SELECT \* FROM yelp\_business;
 \{{ getBusinessData.data \}}
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 PagePlug任意地方，都可以写JS，让很多事情都变得简单便捷

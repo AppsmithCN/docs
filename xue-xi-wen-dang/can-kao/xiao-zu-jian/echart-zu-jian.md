@@ -45,7 +45,7 @@ global.echartInstance
 
 下图示范调用: 点击图表是调用 实例的 getHeight方法&#x20;
 
-![](<../../../.gitbook/assets/image (19) (1) (1).png>)
+![](<../../../.gitbook/assets/image (19) (1) (1) (2).png>)
 
 #### 4.为什么我的formatter: function类型不起作用
 

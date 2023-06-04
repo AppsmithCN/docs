@@ -63,7 +63,7 @@
 {{Checkbox1.isChecked}}
 ```
 
-![](<../../../.gitbook/assets/image (21) (1).png>)
+![](<../../../.gitbook/assets/image (21) (1) (1).png>)
 
 当您勾选该勾选组件时，它会启用 必填 属性，如果您没有输入任何内容，输入框会显示一条错误消息“ _This field is required ”。_
 

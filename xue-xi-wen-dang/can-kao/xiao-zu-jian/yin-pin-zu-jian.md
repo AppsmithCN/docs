@@ -10,10 +10,7 @@
 
 你可以在所有可以编写JS的地方，通过该组件的名称来访问该组件的属性，从而读取该组件相关的信息。
 
-| 属性名称          | 类型      | 描述                | 示例                    |
-| ------------- | ------- | ----------------- | --------------------- |
-| **autoPlay**  | Boolean | 这个属性表示是否启用自动播放功能。 | \{{Video.autoPlay\}}  |
-| **playState** | String  | 这个属性显示当前是否正在播放视频  | \{{Video.playState\}} |
+<table><thead><tr><th>属性名称</th><th width="135">类型</th><th>描述</th><th>示例</th></tr></thead><tbody><tr><td><strong>autoPlay</strong></td><td>Boolean</td><td>这个属性表示是否启用自动播放功能。</td><td>{{Video.autoPlay}}</td></tr><tr><td><strong>playState</strong></td><td>String</td><td>这个属性显示当前是否正在播放视频</td><td>{{Video.playState}}</td></tr></tbody></table>
 
 ### 2、方法
 

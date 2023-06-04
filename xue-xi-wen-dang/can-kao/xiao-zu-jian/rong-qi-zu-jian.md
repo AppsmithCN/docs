@@ -12,7 +12,7 @@
 | 加载时显示动画 | 关闭时，该组件加载时不会有任何动画。您可以使用拨动开关将其打开/关闭。您还可以通过启用旁边的 JS 标签使用 javascript 将其关闭/打开。 |
 | 允许滚动    | 当容器内组建大于容器尺寸时，设置是否允许在容器组件内滚动                                               |
 
-<figure><img src="../../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、样式
 
@@ -30,11 +30,11 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、案例展示
 
 基于容器组件下，做了一个信息查询交互页面
 
-<figure><img src="../../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -64,4 +64,4 @@
 
 ### 6、可以在http服务器上查看下自己上传的文件
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
