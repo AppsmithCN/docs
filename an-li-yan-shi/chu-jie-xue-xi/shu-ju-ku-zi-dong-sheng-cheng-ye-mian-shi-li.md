@@ -50,7 +50,7 @@
 
 * 选择public.orders，之后选择生成页面（generate page）
 
-<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 查询表单生成
 
