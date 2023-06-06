@@ -145,6 +145,7 @@
 
 ## 😒 故障排除
 
+* [常见报错提醒](gu-zhang-pai-chu/chang-jian-bao-cuo-ti-xing.md)
 * [小程序demo数据源问题](gu-zhang-pai-chu/xiao-cheng-xu-demo-shu-ju-yuan-wen-ti.md)
 * [Formily使用问题](gu-zhang-pai-chu/formily-shi-yong-wen-ti.md)
 * [动作错误](gu-zhang-pai-chu/dong-zuo-cuo-wu/README.md)
