@@ -155,14 +155,22 @@ PagePlug的审计日志支持查看工作区中带有时间戳的事件轨迹。
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-### 2.8 PP Chat（开发中）
+### 2.8 自定义画布大小
+
+{% hint style="info" %}
+在PagePlug的画布中，可以根据业务需要自定义页面的宽度与高度
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+### 2.9 PP Chat（开发中）
 
 * PagePlug目前正在开发与chatgpt的融合，已取得阶段性成果，接下来商业版会先初步上线一个版本，有其他的需求欢迎企业伙伴进行沟通
 * 我们期望在日常开发的过程中，除了低代码本身的效率提升之外，通过PP chat技术可以帮助开发者们提供日常开发的代码指导，从而简化开发和用户界面设计，更高效的完成企业内的应用开发
 
 <figure><img src="../.gitbook/assets/PP chat.gif" alt=""><figcaption></figcaption></figure>
 
-### 2.9 模块功能（开发中）
+### 2.10模块功能（开发中）
 
 * 支持板块封装组件，模块内的组件变更可同步更新到应用内
 * 对于自行二次开发的组件，支持打包导入

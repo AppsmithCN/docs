@@ -139,7 +139,7 @@ javac
 mvn -v
 ```
 
-<figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 显示版本号证明环境已经配置好了
 

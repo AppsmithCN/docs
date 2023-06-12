@@ -265,7 +265,7 @@ static getDefaultPropertiesMap(): Record<string, string> {
 
 属性窗格配置 定义属性控件的顺序、属性控件的验证、分组和类型等。类型是\`[数组](https://github.com/cloudtogo/pageplug/blob/open-v1.8/app/client/src/constants/PropertyControlConstants.tsx)\`\`。
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 **PropertyPaneSectionConfig**
 
