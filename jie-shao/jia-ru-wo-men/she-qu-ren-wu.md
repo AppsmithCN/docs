@@ -50,7 +50,7 @@ description: >-
 | DynamoDB数据源汉化翻译                                   | ![](<../../.gitbook/assets/image (37).png>)                                                        |     |
 | Microsoft SQL Server数据源汉化翻译                       | ![](<../../.gitbook/assets/image (16).png>)                                                        |     |
 | Firestore数据源汉化翻译                                  | ![](<../../.gitbook/assets/image (28) (1).png>)                                                    |     |
-| Redshift数据源汉化翻译                                   | ![](../../.gitbook/assets/image.png)                                                               |     |
+| Redshift数据源汉化翻译                                   | ![](<../../.gitbook/assets/image (3).png>)                                                         |     |
 | S3数据源汉化翻译                                         | ![](<../../.gitbook/assets/image (20).png>)                                                        |     |
 | Snowflake数据源汉化翻译                                  | ![](<../../.gitbook/assets/image (44).png>)                                                        |     |
 | ArangoDB数据源汉化翻译                                   | ![](<../../.gitbook/assets/image (14).png>)                                                        |     |

@@ -132,7 +132,7 @@ docker-compose up -d
 
 8、下载成功后，会看到如下提示，代表已经部署成功
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 如果在部署的时候看到<mark style="color:red;">**Access is denied**</mark>提醒，是文件夹的权限不够，需求修改下

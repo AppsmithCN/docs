@@ -10,7 +10,7 @@
 
 * 之后会进入这个页面，填写一些简介信息（我已填写），点击create
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 创建成功之后，你会在repositories中看到刚刚fork的项目
 

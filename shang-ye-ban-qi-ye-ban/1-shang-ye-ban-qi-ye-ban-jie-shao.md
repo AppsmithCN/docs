@@ -161,7 +161,7 @@ PagePlug的审计日志支持查看工作区中带有时间戳的事件轨迹。
 在PagePlug的画布中，可以根据业务需要自定义页面的宽度与高度
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 2.9 PP Chat（开发中）
 
