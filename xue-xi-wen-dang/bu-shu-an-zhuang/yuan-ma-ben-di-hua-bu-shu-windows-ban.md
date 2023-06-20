@@ -346,7 +346,7 @@ cd work
 ll
 ```
 
-<figure><img src="../../.gitbook/assets/image (23) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 复制git或者是github的地址下载
 

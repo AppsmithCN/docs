@@ -137,7 +137,7 @@ PagePlug的审计日志支持查看工作区中带有时间戳的事件轨迹。
 
 * **支持更加复杂的数据处理，例如：传统表单数字化**
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (3).png" alt=""><figcaption></figcaption></figure>
 
 例如：BI数据可视化大屏
 

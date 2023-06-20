@@ -33,7 +33,7 @@ Methodot 是一站式云原生在线开发协作平台，它通过独创的在�
 
 * 选择在线开发进入PagePlug页面内
 
-<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (109) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 开始自己的低代码开发之旅
 

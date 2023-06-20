@@ -58,7 +58,7 @@ storeValue("user", { "name": "Bar Crouch", "email": "bar@appsmith.com", "pin": "
 removeValue()函数清除存储库中指定键的值。
 
 ```javascript
-{{Value(key)}}
+{{removeValue(key)}}
 ```
 
 参考下面的代码，使用JSObject删除键为isActive的值
