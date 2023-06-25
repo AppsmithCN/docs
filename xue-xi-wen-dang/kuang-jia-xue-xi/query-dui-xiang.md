@@ -42,11 +42,11 @@ run(params: Object): Promise
 
 1.在画布上，你应该有一个 **Table** 组件和一个 **Button** 组件；
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 2.使用 pageplug 的模拟 Postgres  数据库(`users`)创建一个名为 **`GetUserById`** 的查询。
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 3.将以下 SQL 语句添加到查询中：
 
@@ -107,7 +107,7 @@ export default {
 {{ global.store.records }}
 ```
 
-<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -117,7 +117,7 @@ export default {
 {{ utils.test() }}
 ```
 
-<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 
 

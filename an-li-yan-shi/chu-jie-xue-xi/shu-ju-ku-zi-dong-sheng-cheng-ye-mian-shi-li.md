@@ -13,7 +13,7 @@
 * 首先，单击数据源旁边的`+`图标。
 * 接下来，您将看到可以连接到的数据源选项列表，选择`PostgreSQL`
 
-<figure><img src="../../.gitbook/assets/image (25) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 选择**Postgres**并将数据源重命名为`PostgresDB`
 * 接下来，使用以下详细信息连接数据源。

@@ -354,7 +354,7 @@ ll
 https://gitee.com/cloudtogo/pageplug.git
 ```
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption><p>gitee的地址</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50) (2).png" alt=""><figcaption><p>gitee的地址</p></figcaption></figure>
 
 ```
 https://github.com/cloudtogo/pageplug.git

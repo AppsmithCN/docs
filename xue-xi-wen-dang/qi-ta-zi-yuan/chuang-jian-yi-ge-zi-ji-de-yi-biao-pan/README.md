@@ -22,7 +22,7 @@ P
 * 首先，单击`+`旁边的图标`Datasources`。
 * 接下来，您将看到可以连接到的数据源选项列表，选择`PostgreSQL`
 
-<figure><img src="../../../.gitbook/assets/image (25) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -84,7 +84,7 @@ PagePlug任意地方，都可以写JS，让很多事情都变得简单便捷
 
 * 将表单拖入容器组件里面
 
-<figure><img src="../../../.gitbook/assets/image (27) (2).png" alt=""><figcaption><p>容器的大小，可以在右侧高度那里调整</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (2) (1).png" alt=""><figcaption><p>容器的大小，可以在右侧高度那里调整</p></figcaption></figure>
 
 * 在容器内拖入地图组件
 

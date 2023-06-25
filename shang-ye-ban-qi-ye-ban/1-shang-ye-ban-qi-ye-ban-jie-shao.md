@@ -80,7 +80,7 @@ PagePlug商业版（企业版）也将提供全新的客户支持计划，专业
 
 
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -94,11 +94,11 @@ PagePlug支持在系统中控制应用程序中的所有权限（例如应用查
 
 * 支持对数据源的控制，对应用所绑定的数据源可控制是否执行、是否编辑、查看、删除等
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 对应用的控制，对应用的编辑、页面的访问查看、应用的创建等
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -106,7 +106,7 @@ PagePlug支持在系统中控制应用程序中的所有权限（例如应用查
 
 * 支持对新添加的用户进行部门分类管理，并支持在部门维度下，统一分配权限
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -127,7 +127,7 @@ PagePlug支持在系统中控制应用程序中的所有权限（例如应用查
 
 PagePlug的审计日志支持查看工作区中带有时间戳的事件轨迹。按事件类型、用户、资源 ID 和时间过滤。深入了解每个事件以进一步调查。
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 细颗粒度管理，从事件中及时回溯，看看谁做了什么，将事件与重大变更相关联，并运行 RCA 来补救现在和未来的事件。
 
@@ -141,7 +141,7 @@ PagePlug的审计日志支持查看工作区中带有时间戳的事件轨迹。
 
 例如：BI数据可视化大屏
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34) (5).png" alt=""><figcaption></figcaption></figure>
 
 * **支持更多的功能组件及功能拓展**
 
@@ -161,7 +161,7 @@ PagePlug的审计日志支持查看工作区中带有时间戳的事件轨迹。
 在PagePlug的画布中，可以根据业务需要自定义页面的宽度与高度
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.9 PP Chat（开发中）
 

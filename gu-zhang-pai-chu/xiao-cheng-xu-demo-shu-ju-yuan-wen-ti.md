@@ -26,7 +26,7 @@
 
 2. 填写项目名称和描述，点击“创建”
 
-<figure><img src="../.gitbook/assets/image (13) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. 进入到架构图编排页面，需要从左侧，拖拽两个“镜像”类型组件
 

@@ -67,7 +67,7 @@
 
 ### 2.1 组件文件夹结构
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (6).png" alt=""><figcaption></figcaption></figure>
 
 * index.ts: 该文件包含组件的配置。
 * constants.tsx: 该文件包含将组件及其组件中使用的常量。

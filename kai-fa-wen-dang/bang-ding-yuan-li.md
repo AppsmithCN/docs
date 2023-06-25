@@ -14,7 +14,7 @@ PagePlug是一款开源的为开发者而设计的构建内部应用的低代码
 
 这一切都从绑定括号 \{{\}} 开始 。当平台在小部件或操作配置中看到这些括号和其中的一些代码时，它会将字段标记为动态字段，以便我们的评估者稍后可以选择它。在我们的示例中，让我们将 usersQuery 绑定到 usersTable
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 由于我们在 tableData 字段中添加了此绑定，我们将标记此字段并将其存储在我们的小部件配置中
 

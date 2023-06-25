@@ -34,7 +34,7 @@ description: 接下来演示如何连接mysql数据库并执行查询
 
 * 分别设置一下这两组件的**字段标识**、**标题**、**默认值**、**是否必填，**这里的字段标识很关键，设置成英文，后续获取该表单项的值时会用到
 
-<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 配置好这两个组件后，点击保存
 
@@ -54,7 +54,7 @@ description: 接下来演示如何连接mysql数据库并执行查询
 
 * 在**数据源**那点击 + ，然后选择**mysql**
 
-<figure><img src="../../.gitbook/assets/image (26) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 connect mode用默认的就行，可读可写
@@ -64,7 +64,7 @@ connect mode用默认的就行，可读可写
 
 其它选项暂时不用写
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 填完信息之后，点击**测试**，页面显示连接成功后，点击**保存**
 

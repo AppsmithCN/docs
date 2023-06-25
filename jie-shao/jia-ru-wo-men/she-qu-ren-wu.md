@@ -44,17 +44,17 @@ description: >-
 
 | 需求描述                                              | 需求描述/展示                                                                                            | 参与者 |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --- |
-| Mysql数据源汉化翻译                                      | ![](<../../.gitbook/assets/image (13).png>)                                                        |     |
+| Mysql数据源汉化翻译                                      | ![](<../../.gitbook/assets/image (13) (3).png>)                                                    |     |
 | Elasticsearch数据源汉化翻译                              | ![](<../../.gitbook/assets/image (39).png>)                                                        |     |
-| redis数据源汉化翻译                                      | ![](<../../.gitbook/assets/image (18) (1).png>)                                                    |     |
+| redis数据源汉化翻译                                      | ![](<../../.gitbook/assets/image (18) (1) (2).png>)                                                |     |
 | DynamoDB数据源汉化翻译                                   | ![](<../../.gitbook/assets/image (37).png>)                                                        |     |
-| Microsoft SQL Server数据源汉化翻译                       | ![](<../../.gitbook/assets/image (16).png>)                                                        |     |
-| Firestore数据源汉化翻译                                  | ![](<../../.gitbook/assets/image (28) (1).png>)                                                    |     |
-| Redshift数据源汉化翻译                                   | ![](<../../.gitbook/assets/image (3).png>)                                                         |     |
+| Microsoft SQL Server数据源汉化翻译                       | ![](<../../.gitbook/assets/image (16) (4).png>)                                                    |     |
+| Firestore数据源汉化翻译                                  | ![](<../../.gitbook/assets/image (28) (1) (3).png>)                                                |     |
+| Redshift数据源汉化翻译                                   | ![](<../../.gitbook/assets/image (3) (1).png>)                                                     |     |
 | S3数据源汉化翻译                                         | ![](<../../.gitbook/assets/image (20).png>)                                                        |     |
 | Snowflake数据源汉化翻译                                  | ![](<../../.gitbook/assets/image (44).png>)                                                        |     |
 | ArangoDB数据源汉化翻译                                   | ![](<../../.gitbook/assets/image (14).png>)                                                        |     |
-| SMTP数据源汉化翻译                                       | ![](<../../.gitbook/assets/image (9).png>)                                                         |     |
+| SMTP数据源汉化翻译                                       | ![](<../../.gitbook/assets/image (9) (1).png>)                                                     |     |
 | 发布页面后，在 table 单元格中使用 select 组件，进入编辑状态时，下拉框位置定位不正确 | [https://github.com/cloudtogo/pageplug/issues/22](https://github.com/cloudtogo/pageplug/issues/22) |     |
 
 ### 3、想法计划
