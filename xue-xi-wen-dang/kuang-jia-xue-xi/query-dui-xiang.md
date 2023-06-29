@@ -42,7 +42,7 @@ run(params: Object): Promise
 
 1.在画布上，你应该有一个 **Table** 组件和一个 **Button** 组件；
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
 
 2.使用 pageplug 的模拟 Postgres  数据库(`users`)创建一个名为 **`GetUserById`** 的查询。
 
@@ -107,7 +107,7 @@ export default {
 {{ global.store.records }}
 ```
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

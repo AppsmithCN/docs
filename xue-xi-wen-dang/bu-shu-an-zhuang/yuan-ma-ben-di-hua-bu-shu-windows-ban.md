@@ -436,7 +436,7 @@ Local repository可以修改或者不修改，默认在C盘，如果担心C盘�
 cd app
 ```
 
-<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 再进入到server文档，输入以下命令
 
