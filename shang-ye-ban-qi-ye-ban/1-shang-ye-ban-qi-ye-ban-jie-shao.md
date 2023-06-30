@@ -131,7 +131,7 @@ PagePlug的审计日志支持查看工作区中带有时间戳的事件轨迹。
 
 * 细颗粒度管理，从事件中及时回溯，看看谁做了什么，将事件与重大变更相关联，并运行 RCA 来补救现在和未来的事件。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.7 组件功能拓展
 
@@ -149,11 +149,11 @@ PagePlug的审计日志支持查看工作区中带有时间戳的事件轨迹。
 
 <figure><img src="../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 例如：表单组件功能拓展
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.8 自定义画布大小
 

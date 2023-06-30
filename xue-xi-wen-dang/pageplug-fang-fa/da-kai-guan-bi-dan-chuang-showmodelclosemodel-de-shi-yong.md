@@ -58,7 +58,7 @@ closeModal(modalName: string)
 
 * 选择弹窗名称，点击关闭弹窗就消失啦
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

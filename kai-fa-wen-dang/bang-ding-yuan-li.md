@@ -128,7 +128,7 @@ const result = eval(scriptToEvaluate);
 
 我们的主线程会收到一个事件，表示评估已完成，新的评估DataTree 将会存储在 app redux 状态中。小部件将从redux中获取数据并展示。
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 总结我们的理念
 
