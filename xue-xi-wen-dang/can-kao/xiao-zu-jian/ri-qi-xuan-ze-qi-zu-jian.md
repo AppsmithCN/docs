@@ -69,7 +69,7 @@
 | 强调色  | 设置日期选择器组件内勾选框被选中时的颜色  |
 | 边框圆角 | 对日期选择器组件边框样式进行修改      |
 
-<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 7、js代码
 

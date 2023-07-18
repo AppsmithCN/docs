@@ -60,7 +60,7 @@ window.addEventListener('message', (event) => {
 
 #### &#x20;       2.4 输入“你好呀”，点击**发送**
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;       2.5iframe收到消息
 

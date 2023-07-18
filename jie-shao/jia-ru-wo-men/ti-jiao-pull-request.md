@@ -14,7 +14,7 @@
 
 * 创建成功之后，你会在repositories中看到刚刚fork的项目
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 * 此时，你需要在本地clone刚刚fork的项目，在命令行终端执行命令：
 

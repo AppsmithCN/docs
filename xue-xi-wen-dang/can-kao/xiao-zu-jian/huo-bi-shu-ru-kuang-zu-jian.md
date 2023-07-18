@@ -13,7 +13,7 @@
 | 允许修改货币           | 可以设置是否启用或禁用输入旁边的货币下拉列表，可以使用它来更改所选货币。支持国家或货币的类型搜索 |
 | Decimals Allowed | 设置小数分隔符（0、1 或 2）后允许的位数，使货币精准到后几位小数               |
 
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2、标签
 

@@ -14,7 +14,7 @@ description: 成为开源小组的一份子
 
 很荣幸目前已有超百家企业在使用PagePlug，PagePlug日益的发展，也离不开社区同学对产品的反馈及贡献
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **加入社区，你可以收获：**
 

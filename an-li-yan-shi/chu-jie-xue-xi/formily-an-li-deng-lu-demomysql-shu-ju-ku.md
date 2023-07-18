@@ -42,7 +42,7 @@ description: 接下来演示如何连接mysql数据库并执行查询
 
 然后你就可以看到
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.2获取表单数据
 
@@ -64,7 +64,7 @@ connect mode用默认的就行，可读可写
 
 其它选项暂时不用写
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 填完信息之后，点击**测试**，页面显示连接成功后，点击**保存**
 

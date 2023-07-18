@@ -22,7 +22,7 @@
 
 ### 2、在Pageplug画布中拖入一个文件上传组件
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、在PagePlug新建一个api
 

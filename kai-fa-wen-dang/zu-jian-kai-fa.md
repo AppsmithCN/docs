@@ -102,7 +102,7 @@ registerWidget(Widget, config)
 
 这会将组件配置导出为通常名为 的对象CONFIG。默认导出必须是组件本身。此处显示了一个示例:
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 **配置选项**
 

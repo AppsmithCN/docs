@@ -26,7 +26,7 @@ setInterval(callbackFunction: Function, interval: number, id?: string, args?: an
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、案例
 
@@ -54,9 +54,9 @@ clearInterval(id: string)
 
 ### **3、**PagePlug内对应的动作事件
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 4、案例
 

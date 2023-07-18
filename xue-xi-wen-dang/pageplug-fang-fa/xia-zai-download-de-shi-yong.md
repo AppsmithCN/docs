@@ -22,9 +22,9 @@ download(data: any, fileName: string, fileType?: string)
 
 ## **3、PagePlug内对应的动作事件**
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 4、支持的文件类型
 
@@ -58,7 +58,7 @@ Download操作不会将文件转换为特定类型，而是以原始格式下载
 
 * 在输入框中输入内容，点击**下载**
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 该内容会被下载成txt文件，你打开会看到：
 

@@ -88,7 +88,7 @@ clearStore()函数清除应用中所有数据。
 
 <figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption><p>storeValue—存储数据</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>removeValue—修改数据</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (3).png" alt=""><figcaption><p>removeValue—修改数据</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (18) (1) (1) (3).png" alt=""><figcaption><p>ClearStore—清除数据</p></figcaption></figure>
 
