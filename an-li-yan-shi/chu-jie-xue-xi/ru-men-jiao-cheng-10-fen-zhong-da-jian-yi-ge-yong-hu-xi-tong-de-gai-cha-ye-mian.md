@@ -98,7 +98,7 @@
 {{Table1.selectedRow.name}}
 ```
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 同样的，比如说我们想拿到Email的值，可以拖入一个input组件，同理处理
 
@@ -106,7 +106,7 @@
 {{Table1.selectedRow.email}}
 ```
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 再比如说，我们想拿到用户图片的信息，我们可以拖入一个图片（Image）组件，同样的方法
 
@@ -114,7 +114,7 @@
 {{Table1.selectedRow.image}}
 ```
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 简单的查询页面就完成了
 
@@ -163,7 +163,7 @@ WHERE id = {{Table1.selectedRow.id}}
 {{Query2.run(() => {showAlert('成功','success'),Query1.run()} ,() => {})}}
 ```
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 10分钟的时间，其实就能快速完成一个用户系统的改查页面，快速满足业务的需要上线
 
@@ -181,7 +181,7 @@ WHERE id = {{Table1.selectedRow.id}}
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 * 用户系统的查改系统就快速生成交付了
 

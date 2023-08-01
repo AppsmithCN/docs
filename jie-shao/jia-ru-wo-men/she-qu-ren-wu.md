@@ -16,7 +16,7 @@ description: >-
 * 参与日常社区的一些维护，例如回复仓库issue的问题，可以直接在相应的issue下面去回答处理啦
 * 如果您想试一试的话，访问PagePlug的文档，查看社区任务列表，就可以开始啦！当然您可直接进微信群或微信静静，告诉她你想参与的内容，会给您推荐您感兴趣的任务。
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 我们建议您的第一次贡献先从小任务着手，比如文档整理、Bug修复，汉化等，也可以参与社区群的问题答疑、仓库issue的处理
 
@@ -50,7 +50,7 @@ description: >-
 | DynamoDB数据源汉化翻译                                   | ![](<../../.gitbook/assets/image (37).png>)                                                        |     |
 | Microsoft SQL Server数据源汉化翻译                       | ![](<../../.gitbook/assets/image (16) (4).png>)                                                    |     |
 | Firestore数据源汉化翻译                                  | ![](<../../.gitbook/assets/image (28) (1) (3).png>)                                                |     |
-| Redshift数据源汉化翻译                                   | ![](<../../.gitbook/assets/image (3) (1).png>)                                                     |     |
+| Redshift数据源汉化翻译                                   | ![](<../../.gitbook/assets/image (3) (1) (4).png>)                                                 |     |
 | S3数据源汉化翻译                                         | ![](<../../.gitbook/assets/image (20) (4).png>)                                                    |     |
 | Snowflake数据源汉化翻译                                  | ![](<../../.gitbook/assets/image (44).png>)                                                        |     |
 | ArangoDB数据源汉化翻译                                   | ![](<../../.gitbook/assets/image (14) (5).png>)                                                    |     |

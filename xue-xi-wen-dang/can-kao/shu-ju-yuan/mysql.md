@@ -53,7 +53,7 @@ PagePlug 支持 MySQL 版本 5.5、5.6、5.7 和 8.0。
 SELECT * FROM users ORDER BY id LIMIT 10;
 ```
 
-<figure><img src="../../../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 强烈建议像示例一样使用`LIMIT`运算符，以防止一次查询大量数据。您还可以阅读有关如何对[数据进行分页的信息](https://docs.appsmith.com/reference/widgets/table#server-side-pagination)。

@@ -17,7 +17,7 @@ PagePlug 后端启动需要 Jdk11、Maven3、一个Mongo实例和一个Redis实�
 
 * 将下载好的文件，点击运行
 
-<figure><img src="../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 一路点击继续
 

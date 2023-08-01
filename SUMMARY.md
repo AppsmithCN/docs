@@ -6,6 +6,7 @@
   * [社区作品集](jie-shao/he-xin-jie-shao/she-qu-zuo-pin-ji.md)
   * [使用技巧及方法分享](jie-shao/he-xin-jie-shao/shi-yong-ji-qiao-ji-fang-fa-fen-xiang.md)
 * [版本日志](jie-shao/ban-ben-ri-zhi.md)
+* [社区路线计划](jie-shao/she-qu-lu-xian-ji-hua.md)
 * [安全](jie-shao/an-quan.md)
 * [加入我们](jie-shao/jia-ru-wo-men/README.md)
   * [📚 社区任务](jie-shao/jia-ru-wo-men/she-qu-ren-wu.md)
