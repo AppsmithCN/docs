@@ -15,7 +15,7 @@ Methodot 是一站式云原生在线开发协作平台，它通过独创的在�
 
 [https://methodot.com](https://methodot.com)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>methodot.com</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>methodot.com</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (105) (2).png" alt=""><figcaption></figcaption></figure>
 

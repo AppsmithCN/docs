@@ -15,7 +15,7 @@
 * 优化了页面首次加载的时间，页面加载变得更快了
 * 优化了PagePlug页面加载时的页面显示及动画，不再报503和404错误了🙅‍♂️
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 在数据源配置中添加了文件 ID 映射
 * 增加同步字段的异步函数中的Linted警告提醒
@@ -53,7 +53,7 @@
 
 <figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2、Bug修复
 
@@ -177,15 +177,15 @@ Spring Boot 2.7 -> 3.0.1 3
 
 * 新增画布自定义功能，可以根据业务场景自定义画布尺寸大小
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * 审计日志新增DataSource相关事件（Create、update、deleted），事故回溯和解决方案更加高效了
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 大屏组件上新，新增时钟、标题、轮播表、水球、进度池组件，大屏功能开发更多样了
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2、Bug修复
 

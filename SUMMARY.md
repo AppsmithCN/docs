@@ -129,6 +129,7 @@
   * [Methodot部署（云上托管应用）](xue-xi-wen-dang/bu-shu-an-zhuang/methodot-bu-shu-yun-shang-tuo-guan-ying-yong.md)
   * [源码本地化部署（windows版）](xue-xi-wen-dang/bu-shu-an-zhuang/yuan-ma-ben-di-hua-bu-shu-windows-ban.md)
   * [私有化部署（含docker安装教程）](xue-xi-wen-dang/bu-shu-an-zhuang/si-you-hua-bu-shu-han-docker-an-zhuang-jiao-cheng.md)
+  * [mongo副本集配置](xue-xi-wen-dang/bu-shu-an-zhuang/mongo-fu-ben-ji-pei-zhi.md)
 
 ## 🕵 案例演示
 

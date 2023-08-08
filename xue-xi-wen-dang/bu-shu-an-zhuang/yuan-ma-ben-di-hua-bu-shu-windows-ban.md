@@ -143,10 +143,14 @@ mvn -v
 
 显示版本号证明环境已经配置好了
 
-### &#x20;   1.3配置mongoDB数据库(推荐5.0以上)
+### &#x20;   1.3配置mongoDB数据库(推荐5.0以上且需要设置副本集)
 
 {% hint style="info" %}
 PagePlug的数据结构对Mongo会有一些要求，Methodot部署的Mongo建议是空数据内容或者自行优化适配Pageplug的数据结构
+{% endhint %}
+
+{% hint style="info" %}
+如果不会设置副本集，可以查看mongo副本集配置的教程：[点击查看](mongo-fu-ben-ji-pei-zhi.md)
 {% endhint %}
 
 * 打开Methodot官网，在应用工厂中可以拉Mongo镜像部署，选择单服务——从镜像开始
@@ -501,7 +505,7 @@ http://mysoft.6h5.cn/win/rsync.64.zip
 
 下载完成后，解压压缩包，找到<mark style="color:red;">**`rsync.exe`**</mark>，把这个文件拷贝到Git Bash目录<mark style="color:red;">**`C:\Program Files\Git\usr\bin`**</mark>即可在Git Bash上使用了。
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 继续操作，输入第二个命令
 

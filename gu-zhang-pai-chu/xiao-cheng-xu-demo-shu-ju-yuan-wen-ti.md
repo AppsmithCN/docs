@@ -105,7 +105,7 @@
 
 数据源只需要修改保存一次，使用了本数据源的api接口会自动同步修改，接口运行成功，预览试试吧👻
 
-<figure><img src="../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 有更多改造需求，可自行拉取 litemall开源项目深度改造

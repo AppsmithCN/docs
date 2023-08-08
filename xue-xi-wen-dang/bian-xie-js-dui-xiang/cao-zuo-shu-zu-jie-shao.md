@@ -8,18 +8,18 @@
 
 PagePlug默认装载了 Lodash。Lodash 是一个一致性、模块化、高性能的 JavaScript 实用工具库。下面给出一些使用 Lodash 库的方法操作数组的示例，若您想要了解更多操作，请参阅 [Lodash 文档](https://www.lodashjs.com/)。
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-| 方法                        | 介绍                               | 示例                                              |
-| ------------------------- | -------------------------------- | ----------------------------------------------- |
-| \_.head(array)            | 返回数组的第一个元素                       | ![](<../../.gitbook/assets/image (16) (1).png>) |
-| \_.last(array)            | 返回数组最后一个元素                       | ![](<../../.gitbook/assets/image (3) (2).png>)  |
-| \_.nth(array, n)          | 获取第 n 个元素，n 可以为负数(例如取第三个)        | ![](<../../.gitbook/assets/image (7) (1).png>)  |
-| \_.chunk(array, size)     | 将数组拆分成多个长度为 `size` 的小数组，小数组构成新数组 | ![](<../../.gitbook/assets/image (4) (1).png>)  |
-| \_.uniq(array)            | 去重数组                             | ![](<../../.gitbook/assets/image (13) (1).png>) |
-| \_.initial(array)         | 删除数组最后一个元素                       | ![](<../../.gitbook/assets/image (2) (2).png>)  |
-| \_.pull(array, \[values]) | 移除数组 `array`中所有和`[values]` 相等的元素 | ![](<../../.gitbook/assets/image (17).png>)     |
-| \_.tail(array)            | 删除数组第一个元素                        | ![](<../../.gitbook/assets/image (5) (1).png>)  |
+| 方法                        | 介绍                               | 示例                                                 |
+| ------------------------- | -------------------------------- | -------------------------------------------------- |
+| \_.head(array)            | 返回数组的第一个元素                       | ![](<../../.gitbook/assets/image (16) (1).png>)    |
+| \_.last(array)            | 返回数组最后一个元素                       | ![](<../../.gitbook/assets/image (3) (2).png>)     |
+| \_.nth(array, n)          | 获取第 n 个元素，n 可以为负数(例如取第三个)        | ![](<../../.gitbook/assets/image (7) (1).png>)     |
+| \_.chunk(array, size)     | 将数组拆分成多个长度为 `size` 的小数组，小数组构成新数组 | ![](<../../.gitbook/assets/image (4) (1) (2).png>) |
+| \_.uniq(array)            | 去重数组                             | ![](<../../.gitbook/assets/image (13) (1).png>)    |
+| \_.initial(array)         | 删除数组最后一个元素                       | ![](<../../.gitbook/assets/image (2) (2).png>)     |
+| \_.pull(array, \[values]) | 移除数组 `array`中所有和`[values]` 相等的元素 | ![](<../../.gitbook/assets/image (17).png>)        |
+| \_.tail(array)            | 删除数组第一个元素                        | ![](<../../.gitbook/assets/image (5) (1).png>)     |
 
 
 

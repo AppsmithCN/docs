@@ -98,7 +98,7 @@
 {{Table1.selectedRow.name}}
 ```
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 同样的，比如说我们想拿到Email的值，可以拖入一个input组件，同理处理
 
@@ -114,7 +114,7 @@
 {{Table1.selectedRow.image}}
 ```
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 简单的查询页面就完成了
 
