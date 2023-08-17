@@ -1,5 +1,17 @@
 # 私有化部署（含docker安装教程）
 
+{% hint style="info" %}
+目前最新镜像为v1.9.20，可以下载下面的yml文件
+{% endhint %}
+
+{% file src="../../.gitbook/assets/docker-compose.yml" %}
+
+如后续版本更替或想替换版本，可将版本号修改为指定的版本号即可
+
+<figure><img src="../../.gitbook/assets/换版本.png" alt=""><figcaption></figcaption></figure>
+
+##
+
 ## 1、Windows版
 
 Docker Desktop for Windows 支持 64 位版本的 Windows 10 Pro，且必须开启 Hyper-V（若版本为 v1903 及以上则无需开启 Hyper-V），或者 64 位版本的 Windows 10 Home v1903 及以上版本。
